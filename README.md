@@ -1,11 +1,11 @@
 # Malaysia Daily Brief
 
-Every morning at about 6:15 AM Malaysia time, GitHub runs a small Python script that pulls the last 24 hours of headlines from Malaysian news outlets, removes stories that several outlets ran, and publishes a clean one-page brief you can open on your phone.
+Every hour, GitHub runs a small Python script that pulls the last 24 hours of headlines from Malaysian news outlets, removes stories that several outlets ran, and publishes a clean one-page brief you can open on your phone.
 
 ## How it works
 
 ```
-GitHub Actions (6:17 AM MYT daily)
+GitHub Actions (every hour, at 17 past)
         │
         ▼
 digest.py reads feeds.yml ──► fetches RSS feeds ──► drops old and duplicate stories
@@ -23,7 +23,7 @@ commits them back to the repo ──► GitHub Pages serves docs/ as a website
 | `digest.py` | Fetches, filters, deduplicates and writes the brief. |
 | `.github/workflows/daily-brief.yml` | The schedule. Tells GitHub when to run the script and to save the result. |
 | `docs/` | The website. Created by the first run. |
-| `digests/` | A Markdown copy of each day's brief, readable directly on github.com. |
+| `digests/` | A Markdown copy of each day's brief, readable directly on github.com. The day's file is updated every hour. |
 
 ## One-time setup
 

@@ -2,9 +2,9 @@ name: Daily news brief
 
 on:
   schedule:
-    # GitHub cron runs in UTC. 22:17 UTC = 6:17 AM Malaysia time.
+    # Every hour at 17 minutes past (time zone doesn't matter for an hourly run).
     # Off the hour on purpose: GitHub delays jobs queued at :00.
-    - cron: "17 22 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch: # adds a "Run workflow" button on the Actions tab
 
 permissions:
@@ -41,5 +41,5 @@ jobs:
             echo "Nothing changed."
             exit 0
           fi
-          git commit -m "Daily brief $(TZ=Asia/Kuala_Lumpur date +%F)"
+          git commit -m "News brief $(TZ=Asia/Kuala_Lumpur date '+%F %H:%M')"
           git push
