@@ -1,6 +1,6 @@
 # Malaysia Daily Brief
 
-Every hour, GitHub runs a small Python script that pulls the last 24 hours of headlines from Malaysian news outlets, removes stories that several outlets ran, and publishes a clean one-page brief you can open on your phone.
+Every hour (and whenever you tap **Refresh now** on the page), GitHub runs a small Python script that pulls the last 24 hours of headlines from Malaysian news outlets, removes stories that several outlets ran, and publishes a clean one-page brief you can open on your phone.
 
 ## How it works
 

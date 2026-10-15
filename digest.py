@@ -183,7 +183,8 @@ li a.t:hover{color:var(--accent);text-decoration:underline}
 .src b{color:var(--accent);font-weight:600}
 .empty{color:var(--muted);padding:12px 0}
 footer{margin-top:36px;color:var(--muted);font-size:.85rem}
-footer a{color:var(--accent)}
+footer a,a.refresh{color:var(--accent)}
+a.refresh{font-weight:600}
 .archive li a{color:var(--accent);text-decoration:none;font-weight:600}
 """
 
@@ -204,6 +205,14 @@ def page(title, body):
 """
 
 
+def refresh_link(config):
+    url = config["settings"].get("refresh_url", "")
+    if not url.startswith("https://github.com/"):
+        return ""
+    return (f"<p class='meta'><a class='refresh' href='{html.escape(url)}' target='_blank' rel='noopener'>"
+            "Refresh now</a> · tap <b>Run workflow</b>, then reload this page in about a minute</p>")
+
+
 def render_html(config, sections, failures, total_feeds, now):
     e = html.escape
     local = now.astimezone(MYT)
@@ -214,6 +223,7 @@ def render_html(config, sections, failures, total_feeds, now):
         f"<p class='date'>{local.strftime('%A, %-d %B %Y')}</p>",
         f"<p class='meta'>Updated {local.strftime('%-I:%M %p')} MYT · {count} stories · "
         f"{total_feeds - len(failures)} of {total_feeds} feeds responded</p>",
+        refresh_link(config),
         "</header>",
         "<nav>" + "".join(f"<a href='#{slug(s['name'])}'>{e(s['name'])}</a>" for s in sections) + "</nav>",
     ]

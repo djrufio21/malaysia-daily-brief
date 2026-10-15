@@ -7,6 +7,8 @@ settings:
   title: Malaysia Daily Brief
   hours_back: 24      # only include stories published in the last N hours
   keep_days: 90       # daily pages older than this are deleted from the site
+  # Shown as a "Refresh now" link. Only works for you (it needs your GitHub login).
+  refresh_url: https://github.com/djrufio21/malaysia-daily-brief/actions/workflows/daily-brief.yml
 
 sections:
   - name: Nation
