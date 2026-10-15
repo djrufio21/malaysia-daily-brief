@@ -1,0 +1,44 @@
+# What goes into your daily brief.
+# Each section pulls from the feeds listed under it, newest first.
+# Add, remove or reorder feeds and sections freely, then commit the change.
+# A feed that fails on a given day is skipped and listed at the bottom of the brief.
+
+settings:
+  title: Malaysia Daily Brief
+  hours_back: 24      # only include stories published in the last N hours
+  keep_days: 90       # daily pages older than this are deleted from the site
+
+sections:
+  - name: Nation
+    max_items: 20
+    feeds:
+      - name: Malaysiakini
+        url: https://www.malaysiakini.com/rss/en/news.rss
+      - name: Malay Mail
+        url: https://www.malaymail.com/feed/rss/malaysia
+      - name: Bernama
+        url: https://www.bernama.com/en/rssfeed.php
+      - name: The Star
+        url: https://www.thestar.com.my/rss/News/Nation
+      - name: FMT
+        url: https://www.freemalaysiatoday.com/category/nation/feed/
+
+  - name: Business
+    max_items: 12
+    feeds:
+      - name: Malay Mail
+        url: https://www.malaymail.com/feed/rss/money
+      - name: The Star
+        url: https://www.thestar.com.my/rss/Business
+      - name: FMT
+        url: https://www.freemalaysiatoday.com/category/business/feed/
+
+  - name: Cyber & Tech
+    max_items: 12
+    feeds:
+      - name: Google News
+        url: "https://news.google.com/rss/search?q=Malaysia+(cybersecurity+OR+%22data+breach%22+OR+NACSA+OR+ransomware+OR+scam)+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+      - name: Google News
+        url: "https://news.google.com/rss/search?q=Malaysia+(AI+OR+%22digital+economy%22+OR+MCMC+OR+%22data+centre%22)+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+      - name: Malay Mail
+        url: https://www.malaymail.com/feed/rss/tech-gadgets
