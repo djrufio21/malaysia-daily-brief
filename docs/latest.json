@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T17:27:06+00:00",
+ "generated": "2026-10-16T21:13:05+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -199,9 +199,7 @@
      "source": "FMT",
      "published": "2026-10-16T12:00:12+00:00",
      "summary": "Seoul and Tokyo stocks ended the week with solid gains, led by chipmakers SK hynix and Kioxia, rebounding from Thursday’s sell-off as investors retreated from the AI sector.",
-     "also": [
-      "Free Malaysia Today"
-     ]
+     "also": []
     },
     {
      "title": "AI is coming for every company, says Nvidia’s boss",
@@ -273,6 +271,38 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Alibaba.com Launches Accio AI Platform For Malaysian SMEs At CoCreate Pitch 2026 Malaysia Final",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uS0xRbm50Nm9tbFFfTEs3QUF1OWJuWGlfRWk4SUtORGFhRmhPRjhWOUtFSFBWRGRzRnVRelZJYWFyRWtxZDByWnRkV1ZUVVpEVVFrM2VpVFp1a2l2dmEtRDJBT0YtdkJmTGg3eDE1dnJSamh4VFpDSg?oc=5",
+     "source": "Pokde.Net",
+     "published": "2026-10-16T18:29:40+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Over 1.8m BD users’ data found on dark web",
+     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52R082WGtsSEhFT1NjTXcxZUVOSTRaVHRfTnBHSUpXdVZEV0ZOZllUU2RCSjFBc0FPdGNuZndPQzJfcXpTOEszbllHRllPUVk?oc=5",
+     "source": "The New Nation",
+     "published": "2026-10-16T18:08:51+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "LEVEL UP KL 2026 Marks A New Growth Phase For Malaysia’s Games Industry",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZ0t5VFRlV1pVN1lxQk5ZTVpVejBYSmN6cEhkdkJtOFVVQTVCVGpHYjBNcTJsYklLLVhsNmxPZk82ZWFQTHlVc2xnS0N6d0pJXzN3NjBiTlBDSEZJV2VORVdiMG5VZw?oc=5",
+     "source": "Pokde.Net",
+     "published": "2026-10-16T17:59:28+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "US, Myanmar hold more talks: sources",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUFlpdUlyRjYxN1dHNW1aZm1NaWN4dEFkWF9DVHZyQXA2T1pTc2w3eE4wWVV6ZE1LRGVfcV9zU0Fvb3piTjloRkNzc1ZJdUFOd3p2eUE3NFVVdVgyOHl0Nndma0ROUTJnZmNoMWhkandYYWtDcWNqTQ?oc=5",
+     "source": "Taipei Times",
+     "published": "2026-10-16T16:00:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Did Michelin use AI to write Dallas restaurant reviews?",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMFREckJybUFkMmsxMmFCR1JiQ0lMRVU0Qk9kM05BaktUal9nYloyekhQcDR5UGxPOWQ0QkFId2JhZ1EtZzJlR05pT2xOY3dFZHhDZUVDLXlYUmJvSFBiNHpnTWNtT1BGZjIzVkVpY3ZnNlU4NFk2SHRMSy16RUlVcQ?oc=5",
      "source": "Yahoo",
@@ -305,14 +335,6 @@
      "also": []
     },
     {
-     "title": "Chase Launches Nationwide AI Fraud Prevention Initiative Across 700 Branches",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNGNRREc5X1JHa3ZvOVBZb3FMa3NWd2d2RmxTV0RRZUI4bGZYTWV5Y0J0X2R0NEg2ZlF5WjA2SEgzdGdJMjVkdVRHT0dzSGtPYjd1N0pfZ1d0cHlpYS1kbmFyU2MyVm5QRGEyTWFOc0ozUUtvbEhaX1psQ3lxQ0FJTHRsaXNwX0gwVnlPQmxOajNMWjJ3c0IzcFRmN0F6UFpJLUM5M0pxN0JrTVBNM0d0OHJRbw?oc=5",
-     "source": "FF News",
-     "published": "2026-10-16T13:40:43+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
      "title": "SANGRIX Inc. Updates Delivery Timeline for 128-GPU NVIDIA Blackwell B300 AI Infrastructure in Malaysia",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEtGYmRVSF9DQ051dHIxZzJEbF9WY0QtYkpxeEpIa2hEMFVDOWtDNzVxUktGck1xUl9OSm9talZIRzVZam5mLUlQbjEzQTA1cDZJb0JwVl9CTEFtLWhRMnpJWVB4bVR5TklZN3JiV2N4YlVVRVl0c1J2YTZLejc2Rng2UV84a3lvTzhRcWdMenR4WmJ6YzZlU01mVDhVMnVCa2g2cmxPUXZaS0FfOGREcFQ5S21YTXJnNlh0eU82blRqREl3THV4SWFWTEhTWDla?oc=5",
      "source": "Quiver Quantitative",
@@ -337,34 +359,10 @@
      "also": []
     },
     {
-     "title": "A Malaysia AI project is due to receive 16 NVIDIA servers with 128 AI chips in November.",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVJfZk93RGR6Si1hYmMtMFVqOUdPbURYYmY2Vk1ZTnd3NU1YWXFBVU1KS2NwTHV4Qkc0R2xxOENaWEVKam5tVjF4OFZ0bUlPVDIxb21TQzgzNmtyLXAtZnZNZ2IyZXVudXZGNGFmS05uS0VyNmlnY1pUODR5LVZjZGJxbUFvVlZDQWQyajhaWDYxM1NUTkpjaU5XVUJubGVmTkJoOUFRbXZqODZzMEZhTGlJMEtlV21QVUtyNTMxa2I?oc=5",
-     "source": "Stock Titan",
+     "title": "2027 Budget strengthens Malaysia's digital economy – TM",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGQ3c1JkTVhCNmhqam9ZRWdXVkEzOHlsZ2tKVmdpdm5LWmZVWDVPNk5XVG9fU3pvWkhKYjEyajJnVHRTczRBc3JDTHdGMVVHOG9QRDVKNHBzODY0YmZ2T0w3N3Qxc2VvdzFhME9UdF9XcGU3d2xTY2YwN05XX2JEM2V5aExyRG8xVUdQQzgzQ05zcjJVXy1xSnVtUk5PbjlMYjBQVHBjQVBxRkZpYUVHQnlCcUNGSFNwNXVZU9IBwgFBVV95cUxOcXJZdk45UlJnbWVwdkZ5QVF2Y1l6VG9EcTFXR2ZtM1VJa0xHYnR5ZzV1ZFQtSC1tXzFtYnI5a0VheWlRZkFQeFc3Z25kUE9uN2Y0dTExcWx5NkV2UnFxc3p1cVBmX3MtMzRPc1ZUdEZTa2JESXNvWUdONzhMaENrUzB6dDB1aDJvX0YxR25IYkdPSU0waFdzZGZoRmxEMWFKWnRVcEI1d09DYURCZm1CUnNubXIyZlRRVnppaHpVanpPdw?oc=5",
+     "source": "NST Online",
      "published": "2026-10-16T13:00:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Mexico turns to AI to age thousands of missing children’s faces and help families find answers",
-     "link": "https://www.malaymail.com/news/tech-gadgets/2026/10/16/mexico-turns-to-ai-to-age-thousands-of-missing-childrens-faces-and-help-families-find-answers/239302",
-     "source": "Malay Mail",
-     "published": "2026-10-16T13:00:00+00:00",
-     "summary": "MEXICO CITY, Oct 16 — Veronica Rosas is one of tens of thousands of Mexican mothers searching for a child who disa...",
-     "also": []
-    },
-    {
-     "title": "AI cracks Napoleon’s 200-year-old secret code in just six hours",
-     "link": "https://www.malaymail.com/news/tech-gadgets/2026/10/16/ai-cracks-napoleons-200-year-old-secret-code-in-just-six-hours/239301",
-     "source": "Malay Mail",
-     "published": "2026-10-16T13:00:00+00:00",
-     "summary": "TOKYO, Oct 16 — Napoleon Bonaparte ordered a wartime message written in code, creating a puzzle that remained unso...",
-     "also": []
-    },
-    {
-     "title": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNc3FtVU5KTmxTeWs4QWJOXy1YekRMNkUtYk9wUkI0cEhmTWQ0NEt0alMzRXA0YjRTaWxPYzdmVmo1aXAza0tXY3dHNV9MQzhkUHRQbmJKdW1JS3BELVlwblNuaXVZaWM4RGFxdm9hQU1GQjY0SU9mWl9mUmYyUXJTcmRnYUItTlFINWpubXpJVExmVFN5Q0VnNE8wWGlzWV9DZncxYzd0dW01b3lFRXlqMGdnX3ZTQms1bm9KSVlwUTZuQkM0a1NfTHVhSU5wNjFXVEVFeGJmYk1nWWNZd1VF?oc=5",
-     "source": "GamesIndustry.biz",
-     "published": "2026-10-16T12:44:48+00:00",
      "summary": "",
      "also": []
     }
