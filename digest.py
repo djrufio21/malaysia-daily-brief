@@ -291,6 +291,24 @@ def write_archive(config, keep_days, today):
     (DOCS / "archive.html").write_text(page("Past briefs", body), encoding="utf-8")
 
 
+def write_json(sections, now, extra=None):
+    """docs/latest.json: the same items in machine-readable form, for the Telegram bot."""
+    import json
+    def item(s):
+        out = {k: v for k, v in s.items() if not k.startswith("_")}
+        for k, v in list(out.items()):
+            if isinstance(v, (dt.datetime, dt.date)):
+                out[k] = v.isoformat()
+            elif isinstance(v, set):
+                out[k] = sorted(v)
+        return out
+    data = {"generated": now.isoformat(timespec="seconds"),
+            "sections": [{"name": sec["name"], "stories": [item(s) for s in sec["stories"]]} for sec in sections]}
+    if extra:
+        data.update(extra)
+    (DOCS / "latest.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def main():
     config = yaml.safe_load((ROOT / "feeds.yml").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
@@ -313,6 +331,7 @@ def main():
         render_markdown(config, sections, failures, now), encoding="utf-8"
     )
     write_archive(config, config["settings"].get("keep_days", 90), today)
+    write_json(sections, now)
 
     count = sum(len(s["stories"]) for s in sections)
     print(f"Done: {count} stories, {len(failures)} feed(s) skipped")
