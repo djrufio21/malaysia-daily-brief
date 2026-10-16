@@ -1,9 +1,17 @@
 {
- "generated": "2026-10-16T21:13:05+00:00",
+ "generated": "2026-10-16T23:38:35+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "White shirts, fast-track passes: Inside an alleged Immigration racket",
+     "link": "https://www.malaysiakini.com/news/887281-white-shirts-fast-track-passes-inside-an-alleged-immigration-racket",
+     "source": "Malaysiakini",
+     "published": "2026-10-16T23:00:00+00:00",
+     "summary": "Agents facilitate pass extensions for scam syndicates seeking longer stays.",
+     "also": []
+    },
     {
      "title": "Bomb maker injured as fish bomb blows up in kitchen",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/16/bomb-maker-injured-as-fish-bomb-blows-up-in-kitchen",
@@ -155,20 +163,36 @@
      "published": "2026-10-16T11:50:00+00:00",
      "summary": "Second officer, the lorry driver and the driver of a motor loader also suffer injuries in crash near Senawang exit.",
      "also": []
-    },
-    {
-     "title": "AAIB flags firefighting gaps at Sarawak airstrip after crash killed five",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/16/aaib-flags-firefighting-gaps-at-sarawak-airstrip-after-crash-killed-five/239371",
-     "source": "Malay Mail",
-     "published": "2026-10-16T11:38:13+00:00",
-     "summary": "KUALA LUMPUR, Oct 16 — The Air Accidents Investigation Bureau (AAIB) has urged the operator of Long Lellang Short...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "UK finance minister says Heathrow expansion would boost growth",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/uk-finance-minister-says-heathrow-expansion-would-boost-growth",
+     "source": "FMT",
+     "published": "2026-10-16T22:13:41+00:00",
+     "summary": "Adding an extra runway at the busiest airport in Europe is an issue that has divided British politicians for decades.",
+     "also": []
+    },
+    {
+     "title": "US budget deficit grows to nearly US$2 trillion, highest since 2021",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/us-budget-deficit-grows-to-nearly-us-2-trillion-highest-since-2021",
+     "source": "FMT",
+     "published": "2026-10-16T22:05:52+00:00",
+     "summary": "The expansion comes amid growing worries over the massive US$40.3 trillion US debt load and rising inflation, as the cost of borrowing climbs.",
+     "also": []
+    },
+    {
+     "title": "Wall Street ends sharply lower as AI trade worries weigh",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/wall-street-ends-sharply-lower-as-ai-trade-worries-weigh",
+     "source": "FMT",
+     "published": "2026-10-16T21:31:40+00:00",
+     "summary": "Tech stocks were under renewed pressure, hammered by concerns that debt-laden AI infrastructure companies may not turn profits in time to repay debts.",
+     "also": []
+    },
     {
      "title": "Iraq says it lost US$60bil as Mideast war hits oil exports",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/iraq-says-it-lost-us-60bil-as-mideast-war-hits-oil-exports",
@@ -240,36 +264,28 @@
      "published": "2026-10-16T10:45:00+00:00",
      "summary": "The statistics department’s advance estimate shows Malaysia’s economy expanded by 5.3% in Q3 2026.",
      "also": []
-    },
-    {
-     "title": "Anthropic co-founder renews call for robust regulation of frontier AI",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/anthropic-co-founder-renews-call-for-robust-regulation-of-frontier-ai",
-     "source": "FMT",
-     "published": "2026-10-16T10:20:51+00:00",
-     "summary": "Jack Clark says allowing companies to operate without robust legislation is like letting a race car loose on the streets at night without brakes.",
-     "also": []
-    },
-    {
-     "title": "Sime Darby to gain from BYD’s local assembly plan",
-     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/16/sime-darby-to-gain-from-byd-s-local-assembly-plan",
-     "source": "FMT",
-     "published": "2026-10-16T10:00:00+00:00",
-     "summary": "BYD has appointed Sime Darby’s subsidiary Inokom Corp to assemble its electric vehicles in Kulim, Kedah.",
-     "also": []
-    },
-    {
-     "title": "Bursa eases as buying interest moves away from heavyweights",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/bursa-eases-as-buying-interest-moves-away-from-heavyweights",
-     "source": "FMT",
-     "published": "2026-10-16T09:42:00+00:00",
-     "summary": "The recent market correction has created attractive opportunities in fundamentally strong blue-chip stocks offering sustainable dividends and solid earnings prospects, says an analyst.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Sarawak AI Centre And IBM Will Build Malaysia's First Quantum-safe Hub",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzWFhGdi01NmN3Z2JpZmlraEt0YnBUTHVXTTVOd1NsNU9hbUFRTFlVZDVabEZrY3FFNmdXTUlpVmtmVlJtVWM4d3dQd3h1ZWN3MTdwSnJsSmEyZXBYbmZfcnVHbHg0U0xVM2prcy1oajd2OHM?oc=5",
+     "source": "Quantum Zeitgeist",
+     "published": "2026-10-16T21:31:05+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Phishing scammers capitalise on Ledger panic with fake firmware update",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWFHS1VCM0JFWnpSVnIteFpRZVpkc2xEM0d5NzE0dWg5VWZfSU1KTHlpX0R5RGlqTUFJbEhUcUxUNXRHRl9LOGNzQWZadnkxVk9LSE0zcTV6dDF6MV9FbGctNndMZUJXUEtCNlpQYjNuSDRlaW9LczRydF9YdXRFWUpsZm1jYmN4dF9kQ295aExnc3ct?oc=5",
+     "source": "Protos | Informed crypto news",
+     "published": "2026-10-16T18:35:33+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "Alibaba.com Launches Accio AI Platform For Malaysian SMEs At CoCreate Pitch 2026 Malaysia Final",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uS0xRbm50Nm9tbFFfTEs3QUF1OWJuWGlfRWk4SUtORGFhRmhPRjhWOUtFSFBWRGRzRnVRelZJYWFyRWtxZDByWnRkV1ZUVVpEVVFrM2VpVFp1a2l2dmEtRDJBT0YtdkJmTGg3eDE1dnJSamh4VFpDSg?oc=5",
@@ -291,6 +307,22 @@
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xZ0t5VFRlV1pVN1lxQk5ZTVpVejBYSmN6cEhkdkJtOFVVQTVCVGpHYjBNcTJsYklLLVhsNmxPZk82ZWFQTHlVc2xnS0N6d0pJXzN3NjBiTlBDSEZJV2VORVdiMG5VZw?oc=5",
      "source": "Pokde.Net",
      "published": "2026-10-16T17:59:28+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia makes data centre investors pay grid upgrade costs",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CSGctbkh0Q3d6ZGszQnlwdml3ZFpMcWJDdnpYODhPMnFmUlhmMGQ1TzdCWHpDcmdsTS1SYllvWlFFeHlhNU0zX0JYd3o4bGZQYWVTNXhCLU1yZHg3djBqc1phX09MZ1QxUE9ITUJleDhyRUtnLVE?oc=5",
+     "source": "Digital Watch Observatory",
+     "published": "2026-10-16T17:56:56+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Tourism Malaysia and Alipay+ sign MoU on digital tourism payments",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWppc1ltdkg3U3VNSkg2OXVNMnh2b3RPQ1RQMWczN3JkYmMzTE9mNWpWcGgxcW1CQkd3cXJQV3AwYnVEZXZVTmRzU04yTHpvT05xUEFCM0lrakgzRXBzY21CMHB6REhsbW9LU3BDSndTU09ZdC1Xc21vZG5PR2VYWE9fWkktblJIQ1U0aklkY2VIWHhWcFhDNXRHcll5T29sZ3dz?oc=5",
+     "source": "The Paypers",
+     "published": "2026-10-16T17:38:41+00:00",
      "summary": "",
      "also": []
     },
@@ -319,14 +351,6 @@
      "also": []
     },
     {
-     "title": "Cover Story 2: Heading deeper into the woods",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0U2h1LVNtbDZnaDhTTjMwdnd6dlFTQWpGMzViWlhfSzFBQ1pTRlpYelZaT2VDamQ2TnlmOFVJWXlFVzlsOFV4R0YzYnE2YVlD?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-10-16T14:07:15+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
      "title": "[UPDATED] Immigration to rope in MCMC, CCID in Pahang scam centre probe",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdmR4dEh2RFdJc0xiV0FGN3QybjYzcEZnN25sZlBmZzBFRXhLSmN1UERpUHdaMVVoU1BsdmNnUUNHX18zQk1kTmxwaU5nVlpWZlV4QS02UldDVGVoR1A1Tk5nNnZZbnVDYzM5cTZ1QVBaQThZM2hseUxaVFVGQmFHVjVoclBvVzR6dFYxdVYzUVBCNHdmY3dzc0l0aVdFNUY0eUd3VzJEZjRvQm9BM2Zz0gG0AUFVX3lxTE9RZjNWQ3FLMFI4azFrUTQ0QU1lUUVWakVCNXllTU9uSWZkLTJWWVNfTjJTQWgxTVVURXRUOExWRF9XWWh3ZTF3Q3VUa2tBQVdOc1Z2ZUU2cm1KZm8tdnYxaHlLbkExdl83b2JqcU8yWm11NEZxM1BHYkltYWZxcUQxRmwtek11eWlFa0VhdWVCQ2lUWVFPbE5TYURwTXRKaHI3U09haU9CS3AwaEpfX1pzZmlRdQ?oc=5",
      "source": "NST Online",
@@ -339,30 +363,6 @@
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWEtGYmRVSF9DQ051dHIxZzJEbF9WY0QtYkpxeEpIa2hEMFVDOWtDNzVxUktGck1xUl9OSm9talZIRzVZam5mLUlQbjEzQTA1cDZJb0JwVl9CTEFtLWhRMnpJWVB4bVR5TklZN3JiV2N4YlVVRVl0c1J2YTZLejc2Rng2UV84a3lvTzhRcWdMenR4WmJ6YzZlU01mVDhVMnVCa2g2cmxPUXZaS0FfOGREcFQ5S21YTXJnNlh0eU82blRqREl3THV4SWFWTEhTWDla?oc=5",
      "source": "Quiver Quantitative",
      "published": "2026-10-16T13:10:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "How Malaysia AI Data Center Deals At Bitdeer Technologies Group Stock Change The Story",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQU0EwSmxiQkhqZ2JoVDFwZ2NkbGg5eVdhWHFVQTJQUDM5amdORklrZGZOWS1YeU5EdDVQQjByWWdnamU0TTFYSW1QWnF2X1pIbnVNSnh1X0dsRUU1bDFpNGFid3NUcXdvVDNHeC1tTUNTYU9zcXJUX09ZQXd4M1VnUHNNN2p5eEpfZWdzUTJ6dDZFYzZ6U1FQXy1VU3RTUXhiaVQzejhZLUdZZ2ZDSDE2UkJLM0RibUhJWmU5Q2lQcEctenpHOFZCM0lTc0JaS1dXbmtZYUtNWUtBSzM0S2N4V21HNNIB4wFBVV95cUxQU0EwSmxiQkhqZ2JoVDFwZ2NkbGg5eVdhWHFVQTJQUDM5amdORklrZGZOWS1YeU5EdDVQQjByWWdnamU0TTFYSW1QWnF2X1pIbnVNSnh1X0dsRUU1bDFpNGFid3NUcXdvVDNHeC1tTUNTYU9zcXJUX09ZQXd4M1VnUHNNN2p5eEpfZWdzUTJ6dDZFYzZ6U1FQXy1VU3RTUXhiaVQzejhZLUdZZ2ZDSDE2UkJLM0RibUhJWmU5Q2lQcEctenpHOFZCM0lTc0JaS1dXbmtZYUtNWUtBSzM0S2N4V21HNA?oc=5",
-     "source": "Simply Wall Street",
-     "published": "2026-10-16T13:09:17+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "SANGRIX Announces November 2026 Delivery Schedule for 128-GPU NVIDIA Blackwell B300 Project in Malaysia",
-     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOMmFQSHo5TDhUSnlwbW5ESW00NnhlTVFwYzZaS1U3QWUwcUZMRDVab0gzSzZXUGV6bUFpYmthTjh4TWlzWlo1aVUzR0FXaUpzU1h2V3dUVGxnM3JlNFk0M2xvZ3p0clJDWUQ3WnBkY20xSDEwcDZBV2pJVTdrbkxqOWdFbVNOZjhnOENETUJBWks5STNBQzNkZmhINTJzbTN2akFscmJxTE94R1hZaEVxQno4MzVBdE45MVpfY19fSlRSUmlCblBiZjBvc2Zic1o4WVVtM0Fkd1E3NmhSX3ZNejU3SVhKYnlxMHJSRE1VNnVTeUFFMENpUUdRQnYwemZJUmpvRWlLWnpCYnBCb3fSAY4CQVVfeXFMTjJhUEh6OUw4VEp5cG1uREltNDZ4ZU1RcGM2WktVN0FlMHFGTEQ1Wm9IM0s2V1Blem1BaWJrYU44eE1pc1paNWlVM0dBV2lKc1NYdld3VFRsZzNyZTRZNDNsb2d6dHJSQ1lEN1pwZGNtMUgxMHA2QVdqSVU3a25MajlnRW1TTmY4ZzhDRE1CQVpLOUkzQUMzZGZoSDUyc20zdmpBbHJicUxPeEdYWWhFcUJ6ODM1QXROOTFaX2NfX0pUUlJpQm5QYmYwb3NmYnNaOFlVbTNBZHdRNzZoUl92TXo1N0lYSmJ5cTByUkRNVTZ1U3lBRTBDaVFHUUJ2MHpmSVJqb0VpS1p6QmJwQm93?oc=5",
-     "source": "The Manila Times",
-     "published": "2026-10-16T13:02:51+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "2027 Budget strengthens Malaysia's digital economy – TM",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaGQ3c1JkTVhCNmhqam9ZRWdXVkEzOHlsZ2tKVmdpdm5LWmZVWDVPNk5XVG9fU3pvWkhKYjEyajJnVHRTczRBc3JDTHdGMVVHOG9QRDVKNHBzODY0YmZ2T0w3N3Qxc2VvdzFhME9UdF9XcGU3d2xTY2YwN05XX2JEM2V5aExyRG8xVUdQQzgzQ05zcjJVXy1xSnVtUk5PbjlMYjBQVHBjQVBxRkZpYUVHQnlCcUNGSFNwNXVZU9IBwgFBVV95cUxOcXJZdk45UlJnbWVwdkZ5QVF2Y1l6VG9EcTFXR2ZtM1VJa0xHYnR5ZzV1ZFQtSC1tXzFtYnI5a0VheWlRZkFQeFc3Z25kUE9uN2Y0dTExcWx5NkV2UnFxc3p1cVBmX3MtMzRPc1ZUdEZTa2JESXNvWUdONzhMaENrUzB6dDB1aDJvX0YxR25IYkdPSU0waFdzZGZoRmxEMWFKWnRVcEI1d09DYURCZm1CUnNubXIyZlRRVnppaHpVanpPdw?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-16T13:00:00+00:00",
      "summary": "",
      "also": []
     }
