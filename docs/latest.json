@@ -1,176 +1,234 @@
 {
- "generated": "2026-10-17T04:31:25+00:00",
+ "generated": "2026-10-17T09:24:56+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
     {
-     "title": "Exercise freedom on social media with respect, courtesy - Agong",
-     "link": "https://www.malaysiakini.com/news/887312-exercise-freedom-on-social-media-with-respect-courtesy-agong",
+     "title": "Health Ministry: Over 6,700 officers approved for promotions and acting appointments, including four chopper crash victims",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/health-ministry-over-6700-officers-approved-for-promotions-and-acting-appointments-including-four-chopper-crash-victims/239480",
+     "source": "Malay Mail",
+     "published": "2026-10-17T09:20:35+00:00",
+     "summary": "PUTRAJAYA, Oct 17 — A total of 6,724 officers from various service schemes under the Ministry of Health (MOH) have...",
+     "also": []
+    },
+    {
+     "title": "‘That is not our job’: Amirudin rejects claims PKR plotted khalwat trap",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/that-is-not-our-job-amirudin-rejects-claims-pkr-plotted-khalwat-trap/239479",
+     "source": "Malay Mail",
+     "published": "2026-10-17T09:16:22+00:00",
+     "summary": "KUALA LUMPUR, Oct 17 — PKR vice-president Datuk Seri Amirudin Shari today denied allegations that the party orches...",
+     "also": []
+    },
+    {
+     "title": "KL Immigration to probe alleged irregularities in special pass issuance",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/kl-immigration-to-probe-alleged-irregularities-in-special-pass-issuance/239478",
+     "source": "Malay Mail",
+     "published": "2026-10-17T09:13:24+00:00",
+     "summary": "KUALA LUMPUR, Oct 17 — The Kuala Lumpur Immigration Department will investigate allegations of irregularities in t...",
+     "also": []
+    },
+    {
+     "title": "Bersama suspends Nik Nazmi for three months over khalwat arrest",
+     "link": "https://www.malaysiakini.com/news/887323-bersama-suspends-nik-nazmi-for-three-months-over-khalwat-arrest",
      "source": "Malaysiakini",
-     "published": "2026-10-17T04:20:51+00:00",
-     "summary": "Sultan Ibrahim also cautions against using AI with intent to embarrass and insult others.",
+     "published": "2026-10-17T09:12:08+00:00",
+     "summary": "President says party takes matter seriously, decision is necessary and reasonable.",
+     "also": []
+    },
+    {
+     "title": "N. Sembilan police: Post-mortem finds border agency officer died from pressure on neck, stab wounds",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/n-sembilan-police-post-mortem-finds-border-agency-officer-died-from-pressure-on-neck-stab-wounds/239477",
+     "source": "Malay Mail",
+     "published": "2026-10-17T09:09:19+00:00",
+     "summary": "SEREMBAN, Oct 17 — Police said preliminary post-mortem findings showed that pressure applied to the neck caused th...",
+     "also": []
+    },
+    {
+     "title": "Malaysian Army to review SOP after serviceman arrested with pistol, ammunition and ketum, says chief",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/malaysian-army-to-review-sop-after-serviceman-arrested-with-pistol-ammunition-and-ketum-says-chief/239476",
+     "source": "Malay Mail",
+     "published": "2026-10-17T09:02:27+00:00",
+     "summary": "PORT DICKSON, Oct 17 — The Malaysian Army (TDM) will review its standard operating procedures (SOP) following the...",
+     "also": []
+    },
+    {
+     "title": "MAF reviewing allowances to boost reserve force participation, says Chief of Defence Force",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/maf-reviewing-allowances-to-boost-reserve-force-participation-says-chief-of-defence-force/239475",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:55:15+00:00",
+     "summary": "PORT DICKSON, Oct 17 — The Malaysian Armed Forces (MAF) is reviewing allowances for its volunteer reserve personne...",
+     "also": []
+    },
+    {
+     "title": "Home minister: Immigration depots facing capacity pressure amid daily enforcement operations",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/home-minister-immigration-depots-facing-capacity-pressure-amid-daily-enforcement-operations/239474",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:48:33+00:00",
+     "summary": "MACHANG, Oct 17 — Immigration depots nationwide are facing capacity pressures due to daily enforcement operations...",
+     "also": []
+    },
+    {
+     "title": "Bersama suspends Nik Nazmi from party activities for three months from Oct 20 after Jais incident",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/bersama-suspends-nik-nazmi-from-party-activities-for-three-months-from-oct-20-after-jais-incident/239473",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:35:45+00:00",
+     "summary": "KUALA LUMPUR, Oct 17 — Parti Bersama Malaysia has suspended Nik Nazmi Nik Ahmad from all official party activities...",
+     "also": []
+    },
+    {
+     "title": "Ministry probes 10 complaints of RON95 petrol mixed with water",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/ministry-probes-10-complaints-of-ron95-petrol-mixed-with-water",
+     "source": "FMT",
+     "published": "2026-10-17T08:24:00+00:00",
+     "summary": "Selangor director says samples were taken from seven petrol stations for analysis by the chemistry department.",
+     "also": []
+    },
+    {
+     "title": "Drug abuse among Malaysian under-15s a growing concern, says Saifuddin Nasution",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/drug-abuse-among-malaysian-under-15s-a-growing-concern-says-saifuddin-nasution/239472",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:23:18+00:00",
+     "summary": "MACHANG, Oct 17 — The trend of drug abuse among those under the age of 15 is increasingly concerning and requires...",
+     "also": []
+    },
+    {
+     "title": "Bersama suspends Nik Nazmi for 3 months",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/bersama-suspends-nik-nazmi-for-3-months",
+     "source": "FMT",
+     "published": "2026-10-17T08:19:00+00:00",
+     "summary": "The party says the decision follows the former Setiawangsa MP’s admission over a suspected khalwat case.",
+     "also": []
+    },
+    {
+     "title": "Lawyer: Zara Qairina’s mother yet to decide on civil action as inquest nears conclusion",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/lawyer-zara-qairinas-mother-yet-to-decide-on-civil-action-as-inquest-nears-conclusion/239471",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:08:45+00:00",
+     "summary": "KOTA KINABALU, Oct 17 — The legal team representing Noraidah Lamat, the mother of Zara Qairina Mahathir, has yet t...",
+     "also": []
+    },
+    {
+     "title": "Defend royal institution or Ismail, Mujahid challenges Umno",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/defend-royal-institution-or-ismail-mujahid-challenges-umno",
+     "source": "FMT",
+     "published": "2026-10-17T08:04:00+00:00",
+     "summary": "The Amanah deputy president says Umno must explain whether it knew of or endorsed a letter allegedly challenging Tuanku Muhriz Tuanku Munawir’s position as Negeri Sembilan ruler.",
+     "also": []
+    },
+    {
+     "title": "Man loses RM363,887 in alleged fake bank auction property scam in Miri",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/man-loses-rm363887-in-alleged-fake-bank-auction-property-scam-in-miri/239470",
+     "source": "Malay Mail",
+     "published": "2026-10-17T08:02:54+00:00",
+     "summary": "MIRI, Oct 17 — A man who intended to buy a property for his family has allegedly been cheated out of RM363,887.49...",
+     "also": []
+    },
+    {
+     "title": "Transport minister: RM1,000 aid for remaining eligible taxi, rental car and school bus drivers to be paid via EFT",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/transport-minister-rm1000-aid-for-remaining-eligible-taxi-rental-car-and-school-bus-drivers-to-be-paid-via-eft/239469",
+     "source": "Malay Mail",
+     "published": "2026-10-17T07:54:34+00:00",
+     "summary": "GEORGE TOWN, Oct 17 — The remaining eligible taxi, rental car and school bus drivers nationwide will receive the R...",
+     "also": []
+    },
+    {
+     "title": "Malaysia records 5,278 domestic violence cases, with numbers still climbing, says Nancy Shukri (VIDEO)",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/malaysia-records-5278-domestic-violence-cases-with-numbers-still-climbing-says-nancy-shukri-video/239468",
+     "source": "Malay Mail",
+     "published": "2026-10-17T07:46:13+00:00",
+     "summary": "KUCHING, Oct 17 — A total of 5,278 domestic violence cases have been reported in Malaysia, with the number continu...",
+     "also": []
+    },
+    {
+     "title": "'Who was with my brother as he lay dying?' – Noorizwan's family demands answers at Bukit Aman",
+     "link": "https://www.malaysiakini.com/news/887319-who-was-with-my-brother-as-he-lay-dying-noorizwans-family-demands-answers-at-bukit-aman",
+     "source": "Malaysiakini",
+     "published": "2026-10-17T07:40:27+00:00",
+     "summary": "About 60 rally attendees call for those responsible to be held accountable.",
+     "also": []
+    },
+    {
+     "title": "Sarawakian couple allegedly paid three friends RM8,000 each to smuggle cocaine into Japan, says Bukit Aman",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/sarawakian-couple-allegedly-paid-three-friends-rm8000-each-to-smuggle-cocaine-into-japan-says-bukit-aman/239467",
+     "source": "Malay Mail",
+     "published": "2026-10-17T07:37:53+00:00",
+     "summary": "KUCHING, Oct 17 — A Sarawakian husband and wife allegedly recruited three friends to traffic cocaine into Japan, s...",
+     "also": []
+    },
+    {
+     "title": "Ports, railways and highways could be next in Malaysia’s 5G coverage push",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/ports-railways-and-highways-could-be-next-in-malaysias-5g-coverage-push/239465",
+     "source": "Malay Mail",
+     "published": "2026-10-17T07:30:34+00:00",
+     "summary": "BUTTERWORTH, Oct 17 — The Communications Ministry and the Malaysian Communications and Multimedia Commission (MCMC...",
      "also": [
-      "Malay Mail"
+      "Newswav"
      ]
-    },
-    {
-     "title": "Putrajaya mulls longer jail terms, higher fines for rail cable theft to protect public safety, says Loke",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/putrajaya-mulls-longer-jail-terms-higher-fines-for-rail-cable-theft-to-protect-public-safety-says-loke/239428",
-     "source": "Malay Mail",
-     "published": "2026-10-17T04:13:48+00:00",
-     "summary": "GEORGE TOWN, Oct 17 — The Transport Ministry is working with the Home Ministry on legal amendments to impose heavi...",
-     "also": []
-    },
-    {
-     "title": "Loke: Rapid Penang starts electric bus services with 15 vehicles, targets 75 by March 2027",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/loke-rapid-penang-starts-electric-bus-services-with-15-vehicles-targets-75-by-march-2027/239425",
-     "source": "Malay Mail",
-     "published": "2026-10-17T03:56:32+00:00",
-     "summary": "GEORGE TOWN, Oct 17 — Rapid Penang began operating its first 15 electric buses today, marking the start of its tra...",
-     "also": []
-    },
-    {
-     "title": "Improving public sentiment can help PH in Melaka polls, says Amanah leader",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/improving-public-sentiment-can-help-ph-in-melaka-polls-says-amanah-leader",
-     "source": "FMT",
-     "published": "2026-10-17T03:47:00+00:00",
-     "summary": "Party secretary-general Faiz Fadzil says the 2027 budget and the coalition's record of governing the state are among the factors that can influence voter support.",
-     "also": []
-    },
-    {
-     "title": "Tawau fire destroys 16 houses, no casualties reported",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/tawau-fire-destroys-16-houses-no-casualties-reported/239418",
-     "source": "Malay Mail",
-     "published": "2026-10-17T03:44:15+00:00",
-     "summary": "TAWAU, Oct 17 — Sixteen wooden houses were destroyed in a fire at Lorong Fook Hwa, Batu 2, Jalan Apas here last ni...",
-     "also": []
-    },
-    {
-     "title": "Nik Nazmi confirms he was one of two caught in Petaling Jaya Jais raid, apologises to wife and family",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/nik-nazmi-confirms-he-was-one-of-two-caught-in-petaling-jaya-jais-raid-apologises-to-wife-and-family/239419",
-     "source": "Malay Mail",
-     "published": "2026-10-17T03:39:05+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — Bersama leader Nik Nazmi Nik Ahmad has confirmed that he is one of the two individuals invo...",
-     "also": []
-    },
-    {
-     "title": "Nik Nazmi confirms Jais arrest, apologises for 'lapse in judgment'",
-     "link": "https://www.malaysiakini.com/news/887308-nik-nazmi-confirms-detained-by-jais-in-khalwat-case-apologises-to-family-party",
-     "source": "Malaysiakini",
-     "published": "2026-10-17T03:38:23+00:00",
-     "summary": "Bersama co-leader apologises to wife, family and party.",
-     "also": []
-    },
-    {
-     "title": "Don’t humiliate others on social media, king warns",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/don-t-humiliate-others-on-social-media-king-warns",
-     "source": "FMT",
-     "published": "2026-10-17T03:33:00+00:00",
-     "summary": "Yang di-Pertuan Agong Sultan Ibrahim says differences in opinion are no reason for hostility and people must express their views in respectful and courteous language.",
-     "also": []
-    },
-    {
-     "title": "TNB fully restores power within 77 minutes after Kangkar Tebrau substation fire in Johor",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/tnb-fully-restores-power-within-77-minutes-after-kangkar-tebrau-substation-fire-in-johor/239417",
-     "source": "Malay Mail",
-     "published": "2026-10-17T03:14:26+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — Tenaga Nasional Berhad has fully restored electricity supply within 77 minutes after a fire...",
-     "also": []
-    },
-    {
-     "title": "Queen expresses concern over haze impact on children’s health, education and mental well-being, says Fadhlina",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/queen-expresses-concern-over-haze-impact-on-childrens-health-education-and-mental-well-being-says-fadhlina/239416",
-     "source": "Malay Mail",
-     "published": "2026-10-17T03:05:51+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — Her Majesty Raja Zarith Sofiah, Queen of Malaysia, has expressed deep concern over the heal...",
-     "also": []
-    },
-    {
-     "title": "Nik Nazmi confirms detained by Jais for alleged khalwat",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/nik-nazmi-confirms-detained-by-jais-for-alleged-khalwat",
-     "source": "FMT",
-     "published": "2026-10-17T03:04:00+00:00",
-     "summary": "The Bersama co-leader apologises to his wife, their families and others affected by the incident.",
-     "also": []
-    },
-    {
-     "title": "PAS accepts reality of BN leading Malacca, cooperation to continue",
-     "link": "https://www.malaysiakini.com/news/887305-pas-accepts-reality-of-bn-leading-malacca-cooperation-to-continue",
-     "source": "Malaysiakini",
-     "published": "2026-10-17T03:00:00+00:00",
-     "summary": "Hadi also responds to reports on Akmal giving up Merlimau seat to PAS.",
-     "also": []
-    },
-    {
-     "title": "Haze: 24 areas record unhealthy API readings as of 9.30am, Pasir Gudang highest at 196, says DOE",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/haze-24-areas-record-unhealthy-api-readings-as-of-930am-pasir-gudang-highest-at-196-says-doe/239414",
-     "source": "Malay Mail",
-     "published": "2026-10-17T02:59:24+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — A total of 24 areas nationwide recorded unhealthy air quality as of 9.30am, with Pasir Guda...",
-     "also": []
-    },
-    {
-     "title": "Negeri Sembilan PKR wants answers over assembly delay, royal dispute",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/negeri-sembilan-pkr-wants-answers-over-assembly-postponement-royal-dispute",
-     "source": "FMT",
-     "published": "2026-10-17T02:57:00+00:00",
-     "summary": "The chapter's communications director says the menteri besar must explain the postponement of the state assembly meeting, and issues raised by the Yang Dipertuan Besar.",
-     "also": []
-    },
-    {
-     "title": "SAR operation underway for father, son feared lost while searching for medicinal roots in Besut forest",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/sar-operation-underway-for-father-son-feared-lost-while-searching-for-medicinal-roots-in-besut-forest/239412",
-     "source": "Malay Mail",
-     "published": "2026-10-17T02:50:32+00:00",
-     "summary": "JERTIH, Oct 17 — A father and son are feared lost in a forest near the La Hot Spring recreational area in Hulu Bes...",
-     "also": []
-    },
-    {
-     "title": "JPN urges public to verify facts and stop spreading misleading claims about 2023 civil marriage video",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/jpn-urges-public-to-verify-facts-and-stop-spreading-misleading-claims-about-2023-civil-marriage-video/239406",
-     "source": "Malay Mail",
-     "published": "2026-10-17T02:27:07+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — The National Registration Department (JPN) has stressed that a video showing the Home Minis...",
-     "also": []
-    },
-    {
-     "title": "Bukit Aman probing Filipino, Bangsamoro links in Laos meth bust",
-     "link": "https://www.malaysiakini.com/news/887303-bukit-aman-probing-filipino-bangsamoro-links-in-laos-meth-bust",
-     "source": "Malaysiakini",
-     "published": "2026-10-17T02:25:57+00:00",
-     "summary": "It follows Philippine authorities identifying 11 persons of interest linked to the attempted shipment.",
-     "also": []
-    },
-    {
-     "title": "‘Very unhealthy’ air quality in Pasir Gudang, Larkin eases this morning",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/17/very-unhealthy-air-quality-in-pasir-gudang-larkin-eases-this-morning",
-     "source": "FMT",
-     "published": "2026-10-17T02:24:00+00:00",
-     "summary": "Twenty-four areas across the country reported unhealthy API readings at 9am today.",
-     "also": []
-    },
-    {
-     "title": "Budget 2027: Record RM57b allocation to boost Malaysian MSMEs’ resilience amid global economic uncertainty",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/budget-2027-record-rm57b-allocation-to-boost-malaysian-msmes-resilience-amid-global-economic-uncertainty/239404",
-     "source": "Malay Mail",
-     "published": "2026-10-17T02:10:27+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — The government has allocated a record RM57 billion in financing facilities for micro, small...",
-     "also": []
-    },
-    {
-     "title": "JBPM officer Mohd Sani, missing after Nepal floods, among 121 honoured at KPKT appreciation night (VIDEO)",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/17/jbpm-officer-mohd-sani-missing-after-nepal-floods-among-121-honoured-at-kpkt-appreciation-night-video/239403",
-     "source": "Malay Mail",
-     "published": "2026-10-17T02:00:06+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — Malaysian Fire and Rescue Department (JBPM) senior officer Mohd Sani Harul, who remains unr...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "IMF chief says she has ‘optimism’ and ‘worry’ after Bangkok annual meetings",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/imf-chief-says-she-has-optimism-and-worry-after-bangkok-annual-meetings",
+     "source": "FMT",
+     "published": "2026-10-17T07:21:06+00:00",
+     "summary": "Kristalina Georgieva cited global economic resilience, AI and Asia as sources of optimism, while warning of inflation, debt, wars and climate risks.",
+     "also": []
+    },
+    {
+     "title": "Penang Port goes high-tech with Malaysia’s first dedicated private 5G network",
+     "link": "https://www.malaymail.com/news/money/2026/10/17/penang-port-goes-high-tech-with-malaysias-first-dedicated-private-5g-network/239461",
+     "source": "Malay Mail",
+     "published": "2026-10-17T06:48:05+00:00",
+     "summary": "BUTTERWORTH, Oct 17 — Penang Port Sdn Bhd (Penang Port) has become Malaysia’s first port to deploy a private...",
+     "also": [
+      "Malaysia-China Insight"
+     ]
+    },
+    {
+     "title": "IMF urges govts to rein in costly subsidies as debt and spending pressures mount",
+     "link": "https://www.malaymail.com/news/money/2026/10/17/imf-urges-govts-to-rein-in-costly-subsidies-as-debt-and-spending-pressures-mount/239457",
+     "source": "Malay Mail",
+     "published": "2026-10-17T06:23:09+00:00",
+     "summary": "WASHINGTON, Oct 17 — Governments in almost all economies face pressing fiscal challenges, with high deb...",
+     "also": []
+    },
+    {
+     "title": "Marrybrown serves up expansion plans with 30 new Malaysian outlets, Cambodia debut",
+     "link": "https://www.malaymail.com/news/money/2026/10/17/marrybrown-serves-up-expansion-plans-with-30-new-malaysian-outlets-cambodia-debut/239448",
+     "source": "Malay Mail",
+     "published": "2026-10-17T05:24:18+00:00",
+     "summary": "JOHOR BAHRU, Oct 17 — Local fast-food chain Marrybrown aims to open 30 new outlets nationwide by 2027 as part of i...",
+     "also": []
+    },
+    {
+     "title": "Vietnam’s prime minister targets 2027 GDP growth of at least 10%",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/vietnam-s-prime-minister-targets-2027-gdp-growth-of-at-least-10",
+     "source": "FMT",
+     "published": "2026-10-17T05:14:04+00:00",
+     "summary": "Le Minh Hung says the government will continue to push for double-digit growth while maintaining macroeconomic stability.",
+     "also": []
+    },
+    {
+     "title": "Temu agrees to data privacy curbs in Texas lawsuit",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/temu-agrees-to-data-privacy-curbs-in-texas-lawsuit",
+     "source": "FMT",
+     "published": "2026-10-17T04:50:34+00:00",
+     "summary": "The online retailer faces several lawsuits from US states concerned that the company unlawfully harvests user data that could be accessed by the Chinese government.",
+     "also": []
+    },
+    {
+     "title": "IMF says Japan to fall to sixth in world GDP rankings behind India, Britain",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/imf-says-japan-to-fall-to-sixth-in-world-gdp-rankings-behind-india-britain",
+     "source": "FMT",
+     "published": "2026-10-17T04:18:04+00:00",
+     "summary": "The nominal gross domestic product projection for 2027 comes amid continued yen weakness against the US dollar and sluggish Japanese economic growth.",
+     "also": []
+    },
     {
      "title": "UK finance minister says Heathrow expansion would boost growth",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/uk-finance-minister-says-heathrow-expansion-would-boost-growth",
@@ -212,68 +270,84 @@
      "published": "2026-10-16T15:42:00+00:00",
      "summary": "The goodwill impairment is expected to lead to a net loss of up to HK$2 billion at its Hong Kong subsidiary.",
      "also": []
-    },
-    {
-     "title": "Malaysia’s economy holds up despite global shocks, economists see room to beat growth target",
-     "link": "https://www.malaymail.com/news/money/2026/10/16/malaysias-economy-holds-up-despite-global-shocks-economists-see-room-to-beat-growth-target/239382",
-     "source": "Malay Mail",
-     "published": "2026-10-16T12:14:50+00:00",
-     "summary": "KUALA LUMPUR, Oct 16 — Malaysia is on track to exceed its official full-year gross domestic product (GDP) growth f...",
-     "also": []
-    },
-    {
-     "title": "Global stocks rise as tech bounces after rout over AI worries",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/global-stocks-rise-as-tech-bounces-after-rout-over-ai-worries",
-     "source": "FMT",
-     "published": "2026-10-16T12:00:12+00:00",
-     "summary": "Seoul and Tokyo stocks ended the week with solid gains, led by chipmakers SK hynix and Kioxia, rebounding from Thursday’s sell-off as investors retreated from the AI sector.",
-     "also": []
-    },
-    {
-     "title": "AI is coming for every company, says Nvidia’s boss",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/ai-is-coming-for-every-company-nvidia-boss-says",
-     "source": "FMT",
-     "published": "2026-10-16T11:50:55+00:00",
-     "summary": "Jensen Huang says Europe needs to ramp up its AI industry, from data centres to chatbots and other apps.",
-     "also": []
-    },
-    {
-     "title": "Bursa Malaysia slips as investors take profit in heavyweight stocks",
-     "link": "https://www.malaymail.com/news/money/2026/10/16/bursa-malaysia-slips-as-investors-take-profit-in-heavyweight-stocks/239379",
-     "source": "Malay Mail",
-     "published": "2026-10-16T11:32:08+00:00",
-     "summary": "KUALA LUMPUR, Oct 16 — Bursa Malaysia closed lower on Friday as buying interest shifted from index heavyweigh...",
-     "also": []
-    },
-    {
-     "title": "Ringgit strengthens against US dollar after robust third-quarter GDP estimate",
-     "link": "https://www.malaymail.com/news/money/2026/10/16/ringgit-strengthens-against-us-dollar-after-robust-third-quarter-gdp-estimate/239378",
-     "source": "Malay Mail",
-     "published": "2026-10-16T11:28:57+00:00",
-     "summary": "KUALA LUMPUR, Oct 16 — The ringgit closed higher against the US dollar on Friday, supported by Malaysia’s hi...",
-     "also": []
-    },
-    {
-     "title": "Elon Musk unveils Tesla’s ‘flying’ car",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/elon-musk-unveils-tesla-s-flying-car",
-     "source": "FMT",
-     "published": "2026-10-16T10:52:01+00:00",
-     "summary": "Tesla CEO Elon Musk said the car was equipped with 'ultra high-pressure air tanks' to propel itself into the air.",
-     "also": []
-    },
-    {
-     "title": "Ringgit strengthens on robust Q3 GDP estimate",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/16/ringgit-strengthens-on-robust-q3-gdp-estimate",
-     "source": "FMT",
-     "published": "2026-10-16T10:45:00+00:00",
-     "summary": "The statistics department’s advance estimate shows Malaysia’s economy expanded by 5.3% in Q3 2026.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Sarawak AI Centre And IBM Will Build Malaysia's First Quantum-safe Hub",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzWFhGdi01NmN3Z2JpZmlraEt0YnBUTHVXTTVOd1NsNU9hbUFRTFlVZDVabEZrY3FFNmdXTUlpVmtmVlJtVWM4d3dQd3h1ZWN3MTdwSnJsSmEyZXBYbmZfcnVHbHg0U0xVM2prcy1oajd2OHM?oc=5",
+     "source": "Quantum Zeitgeist",
+     "published": "2026-10-17T08:15:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MCMC To Study Expanding 5G Coverage To Economic Hubs",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUhPVUtBZXJtZ2dIZXNpNkowSEdGQ1lFdEtfeG1obVYwcGtfcGtLbkxQekprN2o4YVl2bjdRLVRTX2VWTUF2YXVuTS1qalhQeHhhZTIxcTNCbTMxc2VwZWdXQnNzT3lyeVhtcVNBWWdmenNnSzNSclJObTRxY2NRcnJBYUtpc3FzZGhlZ25wdXQ2WFJuNGNHelBLM2FyZw?oc=5",
+     "source": "BusinessToday Malaysia",
+     "published": "2026-10-17T08:03:07+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia explores 5G coverage beyond populated areas",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRC16UW04VHNiV1BtVG5LMEVYUko2d1lLU0o2SFViT3JKSE12aERJbWJ4LTlFTXVUN2tTa3lSMm5xa3RUY25fdUhtbENPTW5wNEZzUHJrS0l1LWN6TWFaY0I1SE9PdDJGZlFKRXc5clpZSnY2bmE1Z3pncjZ3ZzVkRi10SDNOcWRaRDhwWEFuR2NTVzE0eW1kMXJJaGNyRmx5NDBoVkdrRGx0aGvSAasBQVVfeXFMTUQtelFtOFRzYldQbVRuSzBFWFJKNndZS1NKNkhVYk9ySkhNdmhESW1ieC05RU11VDdrU2t5UjJucWt0VGNuX3VIbWxDT01ucDRGc1Bya0tJdS1jek1hWmNCNUhPT3QyRmZRSkV3OXJaWUp2Nm5hNWd6Z3I2d2c1ZEYtdEgzTnFkWkQ4cFhBbkdjU1cxNHltZDFySWhjckZseTQwaFZHa0RsdGhr?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-17T07:39:54+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia unveils six homegrown semiconductor chips",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTRMOEdmdzR0clZJTGRCNjE3bmxYc0s4NkQwemM4Zmt4dHh1VGpRRnQyOTJURlFCcXBpeFdVV05Gb20xTjRKeThLaVdJeWhwaGJQSVZMOV8xb1F2dWx6VUc3c0NKdWJtTXZTNl81dXpwMEYzUC1sQ29uMld4XzdZMG5pTWh3eDVZSnAtVUZ1QVJNcVJ0SVpHQUxtX0NhWTVNd3NwcnQzbUpNQXNDRmdhTjZpM3RBVmNF?oc=5",
+     "source": "Global Sources",
+     "published": "2026-10-17T07:07:30+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysian Chinese entrepreneurs are facing tough challenges now, says ACCCIM president Ng Yih Pyng",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE81TnhUeEFVblA3anJEOHpDSHpIb05GX1lJaS1rNHlBREQwYkMzNzAxV3BzWkNxQTlNc2t5bV9uNFU4VS1sWG5tWFBXSGVPaGlWRERFanFlaFJmVXg3bGZRV05walU4NXk1ajdVdmExX2tIdw?oc=5",
+     "source": "MySinchew",
+     "published": "2026-10-17T06:45:36+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MACC, police to share information in MyEG, Zetrix AI investigation",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS1BBaG9Oa0NiVGNkTFhTekpxOGFwVG5US0VvNkl0SVZDejVhUlVGSGc3UFlTU3BEbmFLQXlNQmhKX0ladkZRLWM5QzdqVjYzT1ZNQTNpNjhkTUZqcUN3WndxVEhsb2VOYUpaeWRmQWJRaFZnNmo1VmZSYnhkOWh5TXZYTmZUS3FkVVlWYzY0SzdPdw?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-10-17T06:36:38+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Designed by Malaysia: The chips inside your cars, smart robots, drones, and even space systems",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMnJjcFFrX0VseGdYNzgxdThFR09fQzQ1dnN2d3Zyb3A5VlJaM05HUlpCeEpSdWNyRnprV3JQZ2pWNkM5Unk5d3JzV3hPa2V2bml2YVhITXAwSVhLenlBU2xFRmxiQ2otZkpEdWlETERCZ195REJLckRMZXlEVmlGcVlvM00tQ3RveUZYUjdTOHpIUV9aM3Nn?oc=5",
+     "source": "Vulcan Post",
+     "published": "2026-10-17T05:49:54+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Zhang Linghe, free shipping and AI try-ons: Taobao goes all out for Malaysia’s 11.11 sale",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTUdSX2FNdDhjaXdSMW9qNXZEV1lPZzJDaTB5UXpMSEdWcjNLR1JvQkx5cWE3Y2JtbkR6OFFGY0FCVmdEX09rQVA5ZzBWeklva2ZYNk5ldnkwdV9zRUt5QjFxWUhHa3RIaGJMZXdoR3lRdzNub2VyRDlMbmxVMFQ4bFFn?oc=5",
+     "source": "Yahoo",
+     "published": "2026-10-17T05:18:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Lenovo Launches New 15-Inch IdeaPad Vibe Laptop In Malaysia And Asia",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa2VrWXJvdEdRZVREYUlHWTA3dS1EQXFoZlNZTXBDbUp2N1h3eElrcEFNblB1V2xIY1Y4b0JKOFRORmJhY3BOcjlZV3lZMFk4LUpZbm4tajBYOVdIUy03NmRkNTRvQTFSb09lMjhLSmFEdXJPb3hxWjlsaXdVaFE5YVEzU3NNaS1sdXIwdW9wSVFlTnBOWE1oR3ZiaWVxLXprN0FWMFVYa18tdw?oc=5",
+     "source": "PenangToday",
+     "published": "2026-10-17T04:54:16+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "Retiree loses RM42,580 to fake ustaz’s RM300k money-doubling scam",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaTdDaVRKZlhoZ0oyNVZReGRUN1F3OFdvTDFpUEl1U0k5SE90RUwycXdQNkNDQ1VUUFJCUUpLdGhTNDAyY0JzUkhvaUxzWDJKWnI1Skh4NG5mbHM3NUxoZVJrYjBlSVg4SEFXUDhUS0EwRTE0ZEcyNElQWVp2RjQxUENib3VpbVl0aDhaaGg3cnR1R09yMHZCQUxIWksxOTVuOUhjTkYtN1NDalZOT0E?oc=5",
@@ -283,90 +357,18 @@
      "also": []
     },
     {
-     "title": "Rogue AI Agents Hit India as Malaysia's Own Agency Warns of the Risk",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjF6dWFuVnpMMU40cTdjQ1doTE51RFBUN0RMbUJCRmsydFEyRVlOZzhCU0ppNVdBYzVNYWs3bzRWS3hEeW9zalQ1VERWbkxCWDl6dm9reGYwNjZVT1prNTVqS0F3ZDJzYzVydkxrVTcybk9pT0gyeGVSSXpydGFjX0ZvS3phOEtp?oc=5",
-     "source": "ProductNation Malaysia",
-     "published": "2026-10-17T03:14:56+00:00",
+     "title": "Wall Street anxiety spreads as AI rout meets US$110 oil shock",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5pNkNTQ2RseVNqZWJhdUh4eTFlWUR5QS1kYlVYcWQxR1UwX1llbTJpSWg2QkFYZWhTd0lteTk1Z19rUEZWNnc1S2JxSFB1NUhI?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-10-17T03:28:06+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Malaysia unveils six homegrown chips in push beyond assembly lines",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOHkwb3VTZWx0ek9jWE03djJkME1LM2hQTExaaEdhVmRRS1RXNjRhVVpCODJ3MV9kMDVhb2ZkTy1yY2hVeVlmNDItdXdPd01qUFlpaS05Wk9RQVRQT0dRbV9EdnJISEI0WEhJX21TWEZ2SHVCTTJ3UmxxcW1jeFlEZEd4dzY?oc=5",
-     "source": "Crypto Briefing",
-     "published": "2026-10-17T02:00:16+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Dual 5G ecosystem gives Malaysian businesses greater flexibility",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdy1oc2k3WDgtZTgzZzlwdjd5elU0dm40ckJHZGRORUo3LTh6RG9OWlJyX25rNUNmcG9mRm5ieDZmM2t1bFBrN0owdWdMa0dFekxOakkxTE1MdUhMdXQ0cm1tUms0aThhQ2JCRHozVnB6VF9MemR4cFpHbExMWjE1bjRQUFRRNVFscWdpdDY2SmpjZDBDM3AwNjgtcm5vc1EtX0hsTXM0WlpJVzBmLVRDQmJjSkNLZzJOVzdlQTF30gG-AUFVX3lxTE53LWhzaTdYOC1lODNnOXB2N3l6VTR2bjRyQkdkZE5FSjctOHpEb05aUnJfbms1Q2Zwb2ZGbmJ4NmYza3VsUGs3SjB1Z0xrR0V6TE5qSTFMTUx1SEx1dDRybW1SazRpOGFDYkJEejNWcHpUX0x6ZHhwWkdsTExaMTVuNFBQVFE1UWxxZ2l0NjZKamNkMEMzcDA2OC1ybm9zUS1fSGxNczRaWklXMGYtVENCYmNKQ0tnMk5XN2VBMXc?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-17T01:49:21+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Sarawak Immigration detains 74 foreigners in Kuching raids, two premises suspected of scam activities",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQzBXMHZtSkdHdUx0M0ZHTGFRSHVJRTZvdWVFSHpaRm9mRlFjQkVkNC04b3hjbnhucEZud0FxUjJyT2FXUFlhUDJ4cW9fWlNXT1ZXNFRvVE1USjFSUGcwY29Dc2VIU05kcWNpMVdjRzJNM1BmenNTQzY4YmZyOGVuY2gzcXFmTFFVT2pKZDI1amFSSV9KWHFLZTBMNU9hd3VCaVd5dDAtY3gxYUpkWE5LeEIxeE1TMkFRNXd3VHN6XzkxQnMwUDRQMFlSZ0Ezcno5M1BYZ3ZURHd4QQ?oc=5",
-     "source": "Borneo Post",
-     "published": "2026-10-17T01:17:20+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Shell NXplorers Sarawak innovators turn everyday challenges into solutions",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM25xSUdra041OGJjTmNnTHZ4N0doWFN1NWUtSWd6czZITmUyWWNQcXBKTGs2TnEzRUN6OFJNNDllYnpkakU5U2dVbGhtTWdfMzAzdnlCU0o1X2gwSzg3ejl5MWFmYlp1bnFZT25LRURKNVNqbmJ3ZkJOOUJQTXV0N0lEVi1WZFVncG4yU05jMXhUbURWcWM2aWtnZUNBcFZDemlEaGhxSmJsbjA5VXdTUTRrV2daQ3c?oc=5",
-     "source": "Borneo Post",
-     "published": "2026-10-17T01:00:53+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Thai arrests expose organised networks funneling migrants into Malaysia",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORl9WdzBOc2tYWTNTTkVpMXM1ZDZISGlYWUNNSWgzblo0OEI1THZWejZ1Vko4NXJBTS12WURKek1NaXVYZm5MeHFjaG5UN045WUVpNEw5QTRfM2lDUjJib2MwQmtrRWsyMVJvQXhQVlVkVEFTVFZGOXNoeTBoMXdERUJsT0pHQXkzR1pDd1JySmlrRF9pUUFJQ3RwXzVzZnFiY2x0c2QtczQtNWpmbFJFaHR3?oc=5",
-     "source": "Newswav",
-     "published": "2026-10-16T23:57:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Seven charged with running crypto scam at Forest City",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0hVRkljS0JlcGdOekNiWnpzN29NQ2VJblI1c1IxOTJUT1djb1h6YlMxakE3YWMwWUlxYVhnbFFjSWZsMmlLRHR4WTdla3ViX2syMUFJdkJiZUJRcnNFZXFDNDl6QWF5NDlUWEFkSXBPbUIwOUlERWdpdWZySlpXZkQzVmxXY1p4eVVVSWhGRkNRTVZTNVRxc2wzbU52UFRFMENYcmdn?oc=5",
-     "source": "The Star",
-     "published": "2026-10-16T23:13:19+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Singapore: Strengthening Cybersecurity Expertise for Secure AI Adoption",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY19nc1BfREpOQTBkNkgtNWFwNWEzZnVqQnRzZ1pCSGtuMkRRQnZISnl5S2pUaGtRWjJBbzNDUjBpd2FOYmJSS2JfVHFWOFpzZEFDSzA0M2xIc2o3LWRUbWppVUtuN1pGZUtONlJ1b3VOMVRQdmlQZzFBb0NaTmhHZHBuY2RzN2xrSi0wQzVDVFNBZHk3NTZaUVBBTQ?oc=5",
-     "source": "OpenGov Asia",
-     "published": "2026-10-16T21:32:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Sarawak AI Centre And IBM Will Build Malaysia's First Quantum-safe Hub",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzWFhGdi01NmN3Z2JpZmlraEt0YnBUTHVXTTVOd1NsNU9hbUFRTFlVZDVabEZrY3FFNmdXTUlpVmtmVlJtVWM4d3dQd3h1ZWN3MTdwSnJsSmEyZXBYbmZfcnVHbHg0U0xVM2prcy1oajd2OHM?oc=5",
-     "source": "Quantum Zeitgeist",
-     "published": "2026-10-16T21:31:05+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Phishing scammers capitalise on Ledger panic with fake firmware update",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWWFHS1VCM0JFWnpSVnIteFpRZVpkc2xEM0d5NzE0dWg5VWZfSU1KTHlpX0R5RGlqTUFJbEhUcUxUNXRHRl9LOGNzQWZadnkxVk9LSE0zcTV6dDF6MV9FbGctNndMZUJXUEtCNlpQYjNuSDRlaW9LczRydF9YdXRFWUpsZm1jYmN4dF9kQ295aExnc3ct?oc=5",
-     "source": "Protos | Informed crypto news",
-     "published": "2026-10-16T18:35:33+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Alibaba.com Launches Accio AI Platform For Malaysian SMEs At CoCreate Pitch 2026 Malaysia Final",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1uS0xRbm50Nm9tbFFfTEs3QUF1OWJuWGlfRWk4SUtORGFhRmhPRjhWOUtFSFBWRGRzRnVRelZJYWFyRWtxZDByWnRkV1ZUVVpEVVFrM2VpVFp1a2l2dmEtRDJBT0YtdkJmTGg3eDE1dnJSamh4VFpDSg?oc=5",
-     "source": "Pokde.Net",
-     "published": "2026-10-16T18:29:40+00:00",
+     "title": "Anthropic pitches AI safety bill to lawmakers — report",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5QlRGSmI1RFN4dHlpeHpReUdDczE3LVYzclpjcHVVaDAyekFzVkZZZWQ5Z0NEXzI4cVRNZHVHR1A5ZUQ0Q0pHQjlyMzc3d2FI?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-10-17T03:18:48+00:00",
      "summary": "",
      "also": []
     }
