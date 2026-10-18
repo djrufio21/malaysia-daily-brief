@@ -1,11 +1,35 @@
 {
- "generated": "2026-10-18T20:47:24+00:00",
+ "generated": "2026-10-18T23:16:04+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
     {
-     "title": "Judges must seek to be right, not to be popular, says Chief Justice",
+     "title": "Budget 2027: 'Sandwich generation' appreciates tax breaks, but is it enough?",
+     "link": "https://www.malaysiakini.com/news/887364-budget-2027-sandwich-generation-appreciates-tax-breaks-but-is-it-enough",
+     "source": "Malaysiakini",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "While those interviewed appreciate the measure, they emphasised more needs to be done.",
+     "also": []
+    },
+    {
+     "title": "Budget 2027: Don’t miss these tax reliefs when you file your taxes next year",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/19/budget-2027-dont-miss-these-tax-reliefs-when-you-file-your-taxes-next-year/239245",
+     "source": "Malay Mail",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Oct 19 — Before you file your next income tax return, remember to lookout for existing and new tax r...",
+     "also": []
+    },
+    {
+     "title": "Logistics subsidies keep essentials affordable in Sabah, S’wak, say economists",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/logistics-subsidies-keep-essentials-affordable-in-sabah-s-wak-say-economists",
+     "source": "FMT",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "Economists say distribution support is vital for interior communities, but implementation and infrastructure improvements must go hand in hand.",
+     "also": []
+    },
+    {
+     "title": "Judges must seek to be right, not to be popular, says chief justice",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/judges-must-seek-to-be-right-not-popular-says-chief-justice",
      "source": "FMT",
      "published": "2026-10-18T15:16:00+00:00",
@@ -139,38 +163,44 @@
      "published": "2026-10-18T11:14:00+00:00",
      "summary": "KUDAT, Oct 18 — The RM18.7 billion allocated to Sabah under Budget 2027 is not solely for development projects, bu...",
      "also": []
-    },
-    {
-     "title": "BN faces challenge of ‘Undi18’, automatic voter registration, says Melaka CM",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/bn-faces-challenge-of-undi18-automatic-voter-registration-says-melaka-cm",
-     "source": "FMT",
-     "published": "2026-10-18T11:08:00+00:00",
-     "summary": "Ab Rauf Yusoh says the coalition won the last state polls prior to the introduction of the two legislations but lost all parliamentary seats it contested in GE15, a year later.",
-     "also": []
-    },
-    {
-     "title": "Melaka election to see wider use of OCR‑VA system, Election Commission confident after MCMC tests",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/melaka-election-to-see-wider-use-of-ocrva-system-election-commission-confident-after-mcmc-tests/239635",
-     "source": "Malay Mail",
-     "published": "2026-10-18T10:57:30+00:00",
-     "summary": "ALOR GAJAH, Oct 18 — The Malaysian Communications and Multimedia Commission (MCMC) and the Election Commission (EC...",
-     "also": [
-      "Newswav"
-     ]
-    },
-    {
-     "title": "Prison Dept still finalising terms of Najib's home detention",
-     "link": "https://www.malaysiakini.com/news/887363-prison-dept-still-finalising-terms-of-najibs-home-detention",
-     "source": "Malaysiakini",
-     "published": "2026-10-18T10:48:18+00:00",
-     "summary": "We never had house arrest before, but suddenly we do, Saifuddin says.",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Luxury giants face shrinking sales in China as second‑hand market rockets towards 100 billion yuan",
+     "link": "https://www.malaymail.com/news/money/2026/10/19/luxury-giants-face-shrinking-sales-in-china-as-secondhand-market-rockets-towards-100-billion-yuan/239569",
+     "source": "Malay Mail",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "SHANGHAI, Oct 19 — With China’s economy still struggling to recover from the pandemic, even global fashion i...",
+     "also": []
+    },
+    {
+     "title": "EPF’s i-Emas monthly payouts could help retirees avoid burning through savings",
+     "link": "https://www.malaymail.com/news/money/2026/10/19/epfs-i-emas-monthly-payouts-could-help-retirees-avoid-burning-through-savings/239555",
+     "source": "Malay Mail",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "MELAKA, Oct 19 — Monthly retirement savings withdrawals under the Employees Provident Fund’s (EPF) i-Emas re...",
+     "also": []
+    },
+    {
+     "title": "China’s growth expected to miss official target in third quarter",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/19/china-s-growth-expected-to-miss-official-target-in-third-quarter",
+     "source": "FMT",
+     "published": "2026-10-18T22:04:23+00:00",
+     "summary": "Beijing targets 4.5% to 5% annual growth, but economists estimate third-quarter growth at 4.4%, slightly up from 4.3% in the second quarter.",
+     "also": []
+    },
+    {
+     "title": "Anthropic to commit 5% stake to new public benefit fund",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/19/anthropic-to-commit-5-stake-to-new-public-benefit-fund",
+     "source": "FMT",
+     "published": "2026-10-18T21:58:50+00:00",
+     "summary": "The fund would receive an extra 2% stake in Anthropic for every 50% rise in its value above an undisclosed baseline, subject to board approval.",
+     "also": []
+    },
     {
      "title": "Nestle, Unilever face action in India over misleading health claims",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/18/nestle-unilever-face-india-action-over-misleading-health-claims",
@@ -241,6 +271,14 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "TradeCash is now live in Malaysia – keep your working capital in step with trade",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejVzNkhTSkxiY3Z5aV9nVmNKSDdqdTROVDdYWHFFSUVZcElwaHJXenZtNWI2a2xqak5lOE5kWlJKcmlUX3ltYlY4MzZjUEEyQzJBUnlDal90Q0Y1VnVZNU41TTJUWEVzWTBIaHg3NkVkMXVGd21zeENKMl9pNHdhSTAyNUF1UVdOSi1yTnRwaDlPYUM4MFRyYzBTWm5yeEtQUmVPeGQxTUlGYlk0dmx2RkZDd2JxN3FxR0VwdmpLd3RYUkR3?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-10-18T23:00:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Shwe Kokko scam compounds flattened in wide-ranging crackdown",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0thRjRPYnk4TVNXUGl4SW5OTF93Z1dYYTdqalJjTVJ4N1Q5NjBYb2hKMHdUR0huVnlGbFY2VG0zQktMODk1WHhkZHdfNVpFdzcxaV9IMEp4eHdUNFpmck40ZGdnZXFRRURGSWJsS19pcXlMRi1ybnpwV19MS0FfLWZJcDRBaHMwZS1ya2Z5Yw?oc=5",
      "source": "Global New Light Of Myanmar",
@@ -250,7 +288,7 @@
     },
     {
      "title": "Data Centre Expansion Tests Southeast Asia's Power and Water Limits",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFN6eGFNLW5mWWFaUk94bE9QcWM5UzdUcmtFVXpwdVJ3ckp5bm1lWnZiczkwQVBXel9od2did3hDX0E3VnY2Nk41OXVseWgwcU5ORzBGaHJTWkNFd1c0Rzl4SWZqTVJQdEhaT0VUd2k1MDVIbnJ1QVAyUVlzZU9KYVR6OEltTC1DUjJrTjBHc0M3Y0REZHBsZ2RaTjFrcU0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczZJbnJoNzVqTkVFR0xqTEg3NnNOWmtnWS1TSTRiaDZqYXVWODNfNXZFN092UFQ1RmNMeFg5aVNQTnBnOTkwQUpsUldEZEx3dmFzTkNVamtjbXhYWHFKMWl0dTlEaDNEWlZWWm5fVndpOVVKSDR4bnk5Y043UlVWM1E1RXhFRXNLb2dtSDNKZl9vNUdUSV9KcFdMMA?oc=5",
      "source": "https://www.briefasia.com/",
      "published": "2026-10-18T18:46:43+00:00",
      "summary": "",
@@ -261,14 +299,6 @@
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51Y0dMSklmcm9reEpLbHVFZXVxTVBYRUxfa1RQaWV3TXFkRml1Z2NiREtEUy1kLTA2aWhTVEZxaGEtdEE1RUEtMTVReHBZZUlHYWV5eUdsNEd0cGkxSUQ0TEFFbW1ncTg0bm9xcFU0ODh4cWc5aGhEWms5SGRGbDg?oc=5",
      "source": "The Sun Malaysia",
      "published": "2026-10-18T17:40:37+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "How can AI reduce teachers' workload instead of adding to it?",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc2t5THdudzBiUUVZVmVtdzkteUpicXRwc3dUQWNweUFkLXNxOUVPSlN0b3ZaQmRjX2hxOTFPdkI5OTh3NFp0TzVuOW9ack9tUmxscW0tNjZfRFR3UHlqaVlBcUJfODBuRzR4cjdnSl9RMHh0UVpkQS1vN0VlZUVXZVdWcEFZQ1FJMFZUcFZ2Mjd6Q1VGQjdWeFNHek8?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-10-18T15:53:09+00:00",
      "summary": "",
      "also": []
     },
@@ -329,10 +359,10 @@
      "also": []
     },
     {
-     "title": "Scammer Loses $4,800,000 in Bitcoin as Thieves Drain Ledger Wallets Holding ‘Task Scam’ Proceeds",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbnlKbV9VdXNGSk1ENzl1TGRBbGQ2MGROLXl6M2VPNXdkYjZQWXM3dDZSZ21rTWJnNjNLZHVpUFpicFRYQ01keFp0UU5SdGJYaC1TdS10dmQ5eG1DTjVUXzQwMGYxbEllZE4xcTRyNjM5Sk53U2R6SnNFa2hQM3BkMzlRSXEzMi1DbjYtREplanNpYnlsVXRiQUU0LW1KTzhWNHFVU3ZrWXBrcHVsSWtuY3BUY2VTYldvRndKSmxDaGxMSnPSAcgBQVVfeXFMTlNTelhBZ2xFQUthaWwwd0hIR09tUW1tUkMzT3MyRlRvc3psZElXb3FzZHgycTRkeC1JRE82N3NXRFY3ZGFxY3VuZ2NMeDFHeWc0T2hMaldpQUJzelFOa0ZhaF9uMTgyY04zaVA1c09aZHBXNlFKNU1BTmF6a3F5WVgwcU5qUWdqWGRwNGw4R0pHM0dRTXR5V0dpV2JGNmxNcXAxcjBaZFJSSG14eno5MzhUcHBTQkI0SWJVaEY4THBlUmxpUEpjaVI?oc=5",
-     "source": "The Daily Hodl",
-     "published": "2026-10-18T10:34:39+00:00",
+     "title": "MCMC, EC test internet connectivity at Melaka polling centres for OCR-VA system",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVVpUWVqbEc0SjBHZnNFbGQzUXluM3FfZGpITk5DSDhqblRxbGNPT3NJVzRpUVhpWjRpMWhYZ3VTYV9JSEVmMXlHMGtSdEpHWkMwT1dOLTAwcFp0SFlMVF80Uzd3RUNXQWU0Q3JSSHF0bGhuSWNCdkk3YV9ZdVhLRWg1SjQ0cEpvLTdWSWxDSlRGTXgtQWxpMzB5UlJ0M1hyRmdtbjVZYUZKZ3hMMlB1dU9LT1pwNmhDV0llVG05TEREb1Qt0gHEAUFVX3lxTE9FVWlRZWpsRzRKMEdmc0VsZDNReW4zcV9kakhOTkNIOGpuVHFsY09Pc0lXNGlRWGlaNGkxaFhndVNhX0lIRWYxeUcwa1J0SkdaQzBPV04tMDBwWnRIWUxUXzRTN3dFQ1dBZTRDclJIcXRsaG5JY0J2STdhX1l1WEtFaDVKNDRwSm8tN1ZJbENKVEZNeC1BbGkzMHlSUnQzWHJGZ21uNVlhRkpneEwyUHV1T0tPWnA2aENXSWVUbTlMRERvVC0?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-18T10:42:43+00:00",
      "summary": "",
      "also": []
     }
