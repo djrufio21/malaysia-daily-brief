@@ -1,24 +1,122 @@
 {
- "generated": "2026-10-18T11:10:54+00:00",
+ "generated": "2026-10-18T14:36:52+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "I’m okay, Ismail says after royal rebuke",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/i-m-okay-ismail-says-after-royal-rebuke",
+     "source": "FMT",
+     "published": "2026-10-18T13:30:00+00:00",
+     "summary": "The Negeri Sembilan menteri besar refuses to comment on the ticking off he received last Friday from the Yang Dipertuan Besar.",
+     "also": []
+    },
+    {
+     "title": "Flood victims in four states go home",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/flood-victims-in-four-states-go-home",
+     "source": "FMT",
+     "published": "2026-10-18T13:06:00+00:00",
+     "summary": "Only two relief centres remained open, housing 200 victims in the Matang area of Perak.",
+     "also": []
+    },
+    {
+     "title": "Old Perkeso contributions open door to life-changing stroke rehabilitation",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/old-perkeso-contributions-open-door-to-life-changing-stroke-rehabilitation/239573",
+     "source": "Malay Mail",
+     "published": "2026-10-18T13:00:00+00:00",
+     "summary": "IPOH, Oct 18 — For five years, a wheelchair was Salinah Osman’s constant companion, confining the once-activ...",
+     "also": []
+    },
+    {
+     "title": "EIS benefits rise to RM25,000 as Perkeso steps up support for jobseekers",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/eis-benefits-rise-to-rm25000-as-perkeso-steps-up-support-for-jobseekers/239571",
+     "source": "Malay Mail",
+     "published": "2026-10-18T13:00:00+00:00",
+     "summary": "KOTA BHARU, Oct 18 — The Social Security Organisation’s (Perkeso) Employment Insurance System (EIS) helps wo...",
+     "also": []
+    },
+    {
+     "title": "GRS unity gives Sabah leverage with federal government, says Hajiji",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/grs-unity-gives-sabah-leverage-with-federal-government-says-hajiji",
+     "source": "FMT",
+     "published": "2026-10-18T13:00:00+00:00",
+     "summary": "The Sabah coalition chairman says such leverage risks being undermined by political egos or power struggles for positions.",
+     "also": []
+    },
+    {
+     "title": "Top cop riled up by report on old drug trafficking case near station",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/top-cop-riled-up-by-report-on-old-drug-trafficking-case-near-station",
+     "source": "FMT",
+     "published": "2026-10-18T12:34:00+00:00",
+     "summary": "The Kuala Lumpur police chief says a reporter's recollections from a decade ago amounted to 'unwarranted publicity' that sparks 'a negative perception of the police force'.",
+     "also": []
+    },
+    {
+     "title": "Flood relief centres shut in Penang, Pahang and Kedah, Perak keeps two open",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/flood-relief-centres-shut-in-penang-pahang-and-kedah-perak-keeps-two-open/239644",
+     "source": "Malay Mail",
+     "published": "2026-10-18T12:08:14+00:00",
+     "summary": "KUALA LUMPUR, Oct 18 — Most temporary flood relief centres (PPS) in Penang, Pahang, Kedah and Perak were closed to...",
+     "also": []
+    },
+    {
+     "title": "Pearly-Thinaah lift Denmark Open title, end 18-year wait",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/pearly-thinaah-lift-denmark-open-title-end-18-year-wait",
+     "source": "FMT",
+     "published": "2026-10-18T12:02:00+00:00",
+     "summary": "The world No 5 pair beat Japan’s Hinata Suzuki-Nao Yamakita in straight games to win their second crown this year.",
+     "also": []
+    },
+    {
+     "title": "Penang’s water lifeline gets boost as new barrage nears completion",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/penang-s-water-lifeline-gets-boost-as-new-barrage-nears-completion",
+     "source": "FMT",
+     "published": "2026-10-18T11:47:00+00:00",
+     "summary": "The new Sungai Muda barrage is expected to be ready by mid-2027, helping Penang and Kedah secure water supplies during dry spells.",
+     "also": []
+    },
+    {
+     "title": "Public Service Dept says Hybrid Workday policy can be used to adapt to haze conditions",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/public-service-dept-says-hybrid-workday-policy-can-be-used-to-adapt-to-haze-conditions/239641",
+     "source": "Malay Mail",
+     "published": "2026-10-18T11:35:49+00:00",
+     "summary": "KUALA TERENGGANU, Oct 18 — Department heads in the public service sector can leverage the Hybrid Workday (HBH) Pol...",
+     "also": []
+    },
+    {
+     "title": "Schools in 5 states to reopen tomorrow despite haze",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/schools-in-5-states-to-reopen-tomorrow-despite-haze",
+     "source": "FMT",
+     "published": "2026-10-18T11:20:00+00:00",
+     "summary": "The education ministry last week said schools will be closed when the API reading reaches 200.",
+     "also": []
+    },
+    {
+     "title": "Masidi: RM18.7b Sabah allocation covers civil service salaries, not just projects",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/masidi-rm187b-sabah-allocation-covers-civil-service-salaries-not-just-projects/239640",
+     "source": "Malay Mail",
+     "published": "2026-10-18T11:14:00+00:00",
+     "summary": "KUDAT, Oct 18 — The RM18.7 billion allocated to Sabah under Budget 2027 is not solely for development projects, bu...",
+     "also": []
+    },
+    {
+     "title": "BN faces challenge of ‘Undi18’, automatic voter registration, says Melaka CM",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/bn-faces-challenge-of-undi18-automatic-voter-registration-says-melaka-cm",
+     "source": "FMT",
+     "published": "2026-10-18T11:08:00+00:00",
+     "summary": "Ab Rauf Yusoh says the coalition won the last state polls prior to the introduction of the two legislations but lost all parliamentary seats it contested in GE15, a year later.",
+     "also": []
+    },
     {
      "title": "Melaka election to see wider use of OCR‑VA system, Election Commission confident after MCMC tests",
      "link": "https://www.malaymail.com/news/malaysia/2026/10/18/melaka-election-to-see-wider-use-of-ocrva-system-election-commission-confident-after-mcmc-tests/239635",
      "source": "Malay Mail",
      "published": "2026-10-18T10:57:30+00:00",
      "summary": "ALOR GAJAH, Oct 18 — The Malaysian Communications and Multimedia Commission (MCMC) and the Election Commission (EC...",
-     "also": []
-    },
-    {
-     "title": "Prison Dept still finalising terms of Najib's home detention",
-     "link": "https://www.malaysiakini.com/news/887363-prison-dept-still-finalising-terms-of-najibs-home-detention",
-     "source": "Malaysiakini",
-     "published": "2026-10-18T10:48:18+00:00",
-     "summary": "Department is in the final phase of drafting them, Saifuddin says.",
-     "also": []
+     "also": [
+      "Newswav"
+     ]
     },
     {
      "title": "Singer Yusuf Islam visits grieving Dr Mahathir, offers prayers for late Tun Dr Hasmah",
@@ -26,14 +124,6 @@
      "source": "Malay Mail",
      "published": "2026-10-18T10:34:26+00:00",
      "summary": "KUALA LUMPUR, Oct 18 — British singer songwriter Yusuf Islam, better known as Cat Stevens, paid a visit to former...",
-     "also": []
-    },
-    {
-     "title": "Sabah Pan Borneo project: Figures cited by AG report doesn't reflect actual progress - Sabah DCM",
-     "link": "https://www.malaysiakini.com/news/887360-sabah-pan-borneo-project-figures-cited-by-ag-report-doesnt-reflect-actual-progress-sabah-dcm",
-     "source": "Malaysiakini",
-     "published": "2026-10-18T10:23:37+00:00",
-     "summary": "Some alignments recording between 90 and 93pct physical progress, Joachim says.",
      "also": []
     },
     {
@@ -53,16 +143,6 @@
      "also": []
     },
     {
-     "title": "Fahmi condemns cyberbullying of UM student, urges victims to lodge reports",
-     "link": "https://www.malaysiakini.com/news/887357-fahmi-condemns-cyberbullying-of-um-student-urges-victims-to-lodge-reports",
-     "source": "Malaysiakini",
-     "published": "2026-10-18T10:02:40+00:00",
-     "summary": "Doxxing doesn't reflect proper decorum, shouldn't occur just because differences in opinion.'",
-     "also": [
-      "NST Online"
-     ]
-    },
-    {
      "title": "Perak shuts all hiking trails in forest reserves from Nov 2 to Jan 17 due to monsoon season",
      "link": "https://www.malaymail.com/news/malaysia/2026/10/18/perak-shuts-all-hiking-trails-in-forest-reserves-from-nov-2-to-jan-17-due-to-monsoon/239629",
      "source": "Malay Mail",
@@ -79,96 +159,11 @@
      "also": []
     },
     {
-     "title": "Tambun monastery urges probe over blockade, cement manufacturer defends action",
-     "link": "https://www.malaysiakini.com/news/887356-tambun-monastery-urges-probe-over-blockade-cement-manufacturer-defends-action",
-     "source": "Malaysiakini",
-     "published": "2026-10-18T09:30:51+00:00",
-     "summary": "We want to prevent further construction, maintain the status quo, APMC says.",
-     "also": []
-    },
-    {
      "title": "Fahmi confirms Pakatan vetting complete, Melaka candidates to sign bond with RM10m penalty",
      "link": "https://www.malaymail.com/news/malaysia/2026/10/18/fahmi-confirms-pakatan-vetting-complete-melaka-candidates-to-sign-bond-with-rm10m-penalty/239625",
      "source": "Malay Mail",
      "published": "2026-10-18T09:29:59+00:00",
      "summary": "KUALA LUMPUR, Oct 18 — Pakatan Harapan (PH) has completed vetting candidates who will contest the 16th Melaka stat...",
-     "also": []
-    },
-    {
-     "title": "Police open two probes into viral issue involving activist and Myanmar refugee community in Kelantan",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/police-open-two-probes-into-viral-issue-involving-activist-and-myanmar-refugee-community-in-kelantan/239623",
-     "source": "Malay Mail",
-     "published": "2026-10-18T09:22:43+00:00",
-     "summary": "KOTA BHARU, Oct 18 — Police have opened two investigation papers following a viral issue involving a social media...",
-     "also": []
-    },
-    {
-     "title": "MCMC probes Threads post allegedly insulting Negeri Sembilan royalty",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/mcmc-probes-threads-post-allegedly-insulting-negeri-sembilan-royalty",
-     "source": "FMT",
-     "published": "2026-10-18T09:22:00+00:00",
-     "summary": "The commission has questioned an individual and seized a mobile phone over a post concerning Tuanku Muhriz Tuanku Munawir’s position as the state ruler.",
-     "also": [
-      "Free Malaysia Today",
-      "The Star"
-     ]
-    },
-    {
-     "title": "Hajiji urges GRS parties to put Sabah first, warns against ego and power struggles",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/hajiji-urges-grs-parties-to-put-sabah-first-warns-against-ego-and-power-struggles/239622",
-     "source": "Malay Mail",
-     "published": "2026-10-18T09:17:57+00:00",
-     "summary": "KUDAT, Oct 18 — All component parties of Gabungan Rakyat Sabah (GRS) must prioritise the interests of Sabah and th...",
-     "also": []
-    },
-    {
-     "title": "Fahmi condemns cyberbullying of UM student Ummi Umairah",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/fahmi-condemns-cyberbullying-of-um-student-ummi-umairah",
-     "source": "FMT",
-     "published": "2026-10-18T09:16:00+00:00",
-     "summary": "At a forum recently, she questioned the call for public donations to help former prime minister Najib Razak pay a court-imposed fine of RM50 million.",
-     "also": []
-    },
-    {
-     "title": "MCMC probes Threads content suspected of insulting Negeri Sembilan royal institution",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/mcmc-probes-threads-content-suspected-of-insulting-negeri-sembilan-royal-institution/239621",
-     "source": "Malay Mail",
-     "published": "2026-10-18T09:14:31+00:00",
-     "summary": "PUTRAJAYA, Oct 18 — The Malaysian Communications and Multimedia Commission (MCMC) has launched an investigation in...",
-     "also": [
-      "NST Online"
-     ]
-    },
-    {
-     "title": "Saifuddin Nasution: Najib’s house arrest conditions being finalised, but RM50m fine yet to be settled",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/saifuddin-najibs-house-arrest-conditions-being-finalised-but-rm50m-fine-yet-to-be-settled/239619",
-     "source": "Malay Mail",
-     "published": "2026-10-18T09:04:34+00:00",
-     "summary": "JERTIH, Oct 18 — The Malaysian Prisons Department is now in the final phase of drafting regulations and conditions...",
-     "also": []
-    },
-    {
-     "title": "Prisons dept finalising regulations for house arrest, says home minister",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/18/prisons-dept-finalising-regulations-for-house-arrest-says-home-minister",
-     "source": "FMT",
-     "published": "2026-10-18T09:01:00+00:00",
-     "summary": "Saifuddin Nasution Ismail says this follows a letter by the pardons board secretariat, which allows the department to set the relevant conditions.",
-     "also": []
-    },
-    {
-     "title": "Fahmi condemns cyberbullying of UM student Ummi after she questioned Najib fine donations",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/fahmi-condemns-cyberbullying-of-um-student-ummi-after-she-questioned-najib-fine-donations/239617",
-     "source": "Malay Mail",
-     "published": "2026-10-18T08:59:35+00:00",
-     "summary": "KUALA LUMPUR, Oct 18 — Communications Minister Datuk Seri Fahmi Fadzil has condemned the bullying and threats dire...",
-     "also": []
-    },
-    {
-     "title": "Kuching, Samarahan and Serian record unhealthy API readings as haze lingers over Sarawak",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/18/kuching-samarahan-and-serian-record-unhealthy-api-readings-as-haze-lingers-over-sarawak/239600",
-     "source": "Malay Mail",
-     "published": "2026-10-18T08:47:31+00:00",
-     "summary": "KUCHING, Oct 18 — Kuching, Samarahan and Serian recorded unhealthy Air Pollutant Index (API) readings as of 2pm to...",
      "also": []
     }
    ]
@@ -176,6 +171,22 @@
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Nestle, Unilever face action in India over misleading health claims",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/18/nestle-unilever-face-india-action-over-misleading-health-claims",
+     "source": "FMT",
+     "published": "2026-10-18T11:42:29+00:00",
+     "summary": "The food regulator has issued notices to Nestle India Ltd and Hindustan Unilever Ltd over alleged misleading claims about nutrition supplements.",
+     "also": []
+    },
+    {
+     "title": "Russia-US diesel deal deliveries to take 15-20 days, says Moscow",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/18/russia-us-diesel-deal-deliveries-to-take-15-20-days-says-moscow",
+     "source": "FMT",
+     "published": "2026-10-18T11:33:00+00:00",
+     "summary": "Deputy prime minister for energy Alexander Novak said negotiations on commercial terms and contract finalisation were under way, with no signing date set.",
+     "also": []
+    },
     {
      "title": "Japan’s yuzu makers see fresh opportunity in Malaysia’s halal sector",
      "link": "https://www.malaymail.com/news/money/2026/10/18/japans-yuzu-makers-see-fresh-opportunity-in-malaysias-halal-sector/239558",
@@ -223,48 +234,6 @@
      "published": "2026-10-18T05:32:31+00:00",
      "summary": "The deal, which includes Iceland, Liechtenstein, Norway and Switzerland, eliminates or reduces customs duties on imports of industrial, fish and agricultural products.",
      "also": []
-    },
-    {
-     "title": "Ringgit seen firmer next week after Malaysia’s 3Q GDP beats expectations",
-     "link": "https://www.malaymail.com/news/money/2026/10/17/ringgit-seen-firmer-next-week-after-malaysias-3q-gdp-beats-expectations/239423",
-     "source": "Malay Mail",
-     "published": "2026-10-17T13:00:00+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — The ringgit is expected to trade within a tight range with an upward bias next week, betwee...",
-     "also": []
-    },
-    {
-     "title": "Bursa Malaysia to stay guarded next week as investors watch US earnings and regional markets",
-     "link": "https://www.malaymail.com/news/money/2026/10/17/bursa-malaysia-to-stay-guarded-next-week-as-investors-watch-us-earnings-and-regional-markets/239424",
-     "source": "Malay Mail",
-     "published": "2026-10-17T13:00:00+00:00",
-     "summary": "KUALA LUMPUR, Oct 17 — Bursa Malaysia is expected to maintain a cautious bias next week as investors adopt a measu...",
-     "also": []
-    },
-    {
-     "title": "IMF chief says global outlook marked by ‘optimism and worry’ as Bangkok meetings end",
-     "link": "https://www.malaymail.com/news/money/2026/10/17/imf-chief-says-global-outlook-marked-by-optimism-and-worry-as-bangkok-meetings-end/239514",
-     "source": "Malay Mail",
-     "published": "2026-10-17T12:32:47+00:00",
-     "summary": "BANGKOK, Oct 17 — International Monetary Fund chief Kristalina Georgieva said today this year’s Annual Meeti...",
-     "also": []
-    },
-    {
-     "title": "Leaders weigh ‘huge benefit’, risks of AI for global economy",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/17/leaders-weigh-huge-benefit-risks-of-ai-for-global-economy",
-     "source": "FMT",
-     "published": "2026-10-17T12:24:24+00:00",
-     "summary": "The IMF said AI, propelled by spending on data centres and microchips, has helped cushion the economic shock caused by the war in the Middle East.",
-     "also": [
-      "Free Malaysia Today"
-     ]
-    },
-    {
-     "title": "IMF says AI slowdown could knock 0.4pc off global GDP by 2028",
-     "link": "https://www.malaymail.com/news/money/2026/10/17/imf-says-ai-slowdown-could-knock-04pc-off-global-gdp-by-2028/239509",
-     "source": "Malay Mail",
-     "published": "2026-10-17T12:03:33+00:00",
-     "summary": "BANGKOK, Oct 17 — The artificial intelligence boom has been a key driver of global growth, but also poses economic...",
-     "also": []
     }
    ]
   },
@@ -272,18 +241,34 @@
    "name": "Cyber & Tech",
    "stories": [
     {
-     "title": "A telegraph-era law cannot protect Malaysia’s digital lifelines",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVhYV0JjYWxyUVNPUHpXUTYyaHhJVDVLbmUxa1lLUHplYXpMOFppenhaUHctN2poazNENmU1ZEhvOWFpVWd5bUxKYnNuajJzaWxEYmZqRDdXbmZ0aW85amo4ZlZNRGNNeU5mVmduREpwX0VZX2xRd2NCVGJqckg5ZHRzcnA4WWpjS256ZW9CZlpsbFVEcmpmUjdnVVQzN2IwUGhaNk5iTFROcjVnZ19hOFNBdlM4d1Rpc2d0MkttZVRKemc?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-10-18T11:06:13+00:00",
+     "title": "Malaysia’s Firefly cancels Seletar-Subang flights for 10th day due to haze",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlR2RkM2SkxrVHFzMnVzZENMX1BLZmJtV1ktVmh5LXNFN1VNcmpNTXJkMHlmTmNmczFZd05RbnFkMnR2MHVtcVRyS1RCNF9aMUJ3LWNqRnlpcUxQUXk0N053eFpVQW5YZzZrUFdoT3R6Y0Q4RHIyaEhXN3NNZk9WM29aSDlxbDlTejVLOVVRalRJbXpmUFlkVkhzdENHYlRyYlNzZ3lYU0RqeEVoVVJnd3J2WnpZb0hPMUNWZ24xRGVSMUE?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-18T11:58:00+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "MCMC, EC test internet connectivity at Melaka polling centres for OCR-VA system",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWtNQmE3Tjl5MVc0czBlQklvVFg2a2lMNFlsM1RFZkkyYTNhcUZxRHBSaTZPd2U2TWNmM2VPU1Yxbl9EY0RVOXRzeDd4YmdqODVnLXJCQk9SRXhFcUJheWRCRXJnNHNybENXbGE5ZTE1alpwTDVHdklqME5URi1zQ0hmOV9xNWFpYklPNXNpMGk1R2lNanNsbTJjT0t3Rzc0a0ZaOUJwQTRYQ0tYMDdyb1ZDYm03anY5UHB2R003SdIBxAFBVV95cUxPRVVpUWVqbEc0SjBHZnNFbGQzUXluM3FfZGpITk5DSDhqblRxbGNPT3NJVzRpUVhpWjRpMWhYZ3VTYV9JSEVmMXlHMGtSdEpHWkMwT1dOLTAwcFp0SFlMVF80Uzd3RUNXQWU0Q3JSSHF0bGhuSWNCdkk3YV9ZdVhLRWg1SjQ0cEpvLTdWSWxDSlRGTXgtQWxpMzB5UlJ0M1hyRmdtbjVZYUZKZ3hMMlB1dU9LT1pwNmhDV0llVG05TEREb1Qt?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-18T10:42:43+00:00",
+     "title": "Malaysia's First 25,000 Free Coursera Passes Are Fully Taken, Waiting List Now Open",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQblRYYksxRjRCSXVnUjVWUWZtWGVPd1N3RmFwOGlOaF9fbWN2R2Y0N00zcXUyR3M0aFhoMWx5NnhYZ082N0NwdEdQTnI5dnpBd2N1djN1TlhuRmEtLVRBQ1MtaEprdVJCZ1B4SmFiWkRsQjlFdzdTMkVFd0tMWnA2b2t5cEhmLXRTdlE?oc=5",
+     "source": "ProductNation Malaysia",
+     "published": "2026-10-18T11:29:41+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Threats against UM student unacceptable despite differences in opinion: Fahmi",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZlpYRWoycVBVcHB0a3Z3Y3pmUDgyeHZqNHlfN284MU9feTJDamVZVWxNdUFXTjhYV1JEbWRCdWdnQXJibzdYLXJoTTNSc3k1X09PaXhHWDZub2ZWRG15N0p6dnBIRG9MdkZqai1nMjNJd1VjaEwxQS1OOHV2MHBnLWh1Y2NNTXhDdUtTVFRHZlBTcVg4ZWVwVm1SZWxHdHFGenN6SW05T2NOdUFMYkY0?oc=5",
+     "source": "scoop.my",
+     "published": "2026-10-18T11:24:58+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "A telegraph-era law cannot protect Malaysia’s digital lifelines",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeVhYV0JjYWxyUVNPUHpXUTYyaHhJVDVLbmUxa1lLUHplYXpMOFppenhaUHctN2poazNENmU1ZEhvOWFpVWd5bUxKYnNuajJzaWxEYmZqRDdXbmZ0aW85amo4ZlZNRGNNeU5mVmduREpwX0VZX2xRd2NCVGJqckg5ZHRzcnA4WWpjS256ZW9CZlpsbFVEcmpmUjdnVVQzN2IwUGhaNk5iTFROcjVnZ19hOFNBdlM4d1Rpc2d0MkttZVRKemc?oc=5",
+     "source": "Free Malaysia Today",
+     "published": "2026-10-18T11:06:13+00:00",
      "summary": "",
      "also": []
     },
@@ -296,10 +281,26 @@
      "also": []
     },
     {
+     "title": "Fahmi condemns cyberbullying of UM student, urges victims to lodge reports",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPejk1bDRaTlRwY1duVGdhR0J2eGk2M0F5N2xtNWdIcURSMlAyNVJnVE5vNEQwRWNyM3lzemdweFhfUy1YN1FOeWNVbW9TRnJ4dVVtdVRDbHRXUllGMmNtc2pNdnEzU1lCMTVPQjRyZlVyS2ZMU0FMSlVHN1BidjFycHYyU3JuUjVmS2VIYXl5MWt0bDNQcmd0alZDZ1drSnJjXzhUVDRJLVRsbnpDdzdCTUo3Vkc?oc=5",
+     "source": "Newswav",
+     "published": "2026-10-18T10:03:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Fahmi condemns threats against UM student over corruption remarks",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnFGei1ZNlJUdGxQSjBoXzFfR0QwRnlHRlZIUC1YZkRJeV91MUFZYVNsTllaVHBoVTgtYVV2MndyNktoZXpNN1BFeEptNTJwSS1wMDFQQ015YzhDa3ZYa2tNekNyZUV6djRXdFBOd3dEaW1FZ3pYZ05Nb3RLUmxaR1l3dEZvWTQxVG9FX0YtTlBaR01SQldkaDFCLUczOVpyQ3RleE4yT2o4bnRqNzZVNw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOG03a05yQ3pBZTlaOU01YzJ2dzZ1c3cxSG1OTjJHZHNqWjFwWXJfYTI4N2RaX2gwYVVVazJEcC1WekJuWHVUYzUxZ3lGSlVPcU50c2trS0dRM2NWZ2libjZPQ3VDRGhnNWowajdkam5kU2RRc0xPQTN3c1FabEdaelBxRnJvTmJUZUdNMnlnaXJQOS1uN05LRnM4V3dNUXZxUU52RXAtN1ZtY2llTnByNFg2eG9aLVFkdUt2Y1RR?oc=5",
      "source": "The Vibes",
      "published": "2026-10-18T10:00:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "AI Powers Malaysia’s Upgraded Growth Outlook AMRO Flags Opportunity to Spread Gains and Reform Subsidies",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFo2aHRDampzeVFHNllCeEI3YkFfaEZIcWRmTWVpTlFPLUROWG5vMWpRTWZaYU9ib21MUnNqdzlzdE4tRzhSNDBKSVdZcGVTdEI3SXE0aWtCbF9jWTUtRjdEREtRR1BlWmxzU05VSV9QZHpuUDQyRjZJSmcwM1pGM3ZqaEhCT1ZpUFBGWjRYYU9seUNuQ2VIU2d5Y05BWUZZbXRvOElJQ0ZCaGJWVl9rc2VXVk44MlZnUXRNRENmOWc1WmJP?oc=5",
+     "source": "Vocal",
+     "published": "2026-10-18T09:22:27+00:00",
      "summary": "",
      "also": []
     },
@@ -308,6 +309,14 @@
      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5VLVA2Q3E1UkxqZDJ6WmpKc3Z2akhXNXpUVzRwcWhCTzYzWThuMlhDVHUyZkxqd29lQmNtY0FLUGZSRE1tMmhFclZPdFR3YkprRHc?oc=5",
      "source": "Instagram",
      "published": "2026-10-18T09:18:38+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MCMC seizes phone in probe into Threads post on Negeri Sembilan ruler",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHowLWhMcHZkYnd6RU9xWXp0V053ejVoSEw2UDhScFV0c0UxeVV3a1gtWUprTkVqOGRPUW1RVTlwZXBTNFlFc3NodXAwMVFTWERWM1RNWmVnZ0RlVkJjUUo2X1VWcUFRNGRhWm9WWjBaMkE1MlM3Q2hyd250R3RoS19XRm9ERktCdXhsUTN4RVMwekpDNkhDSWwybWFsb2daYmY3NlMyMU44LTlMVVN0emJWMC1YMERWN2w4aF8ycnRWbEk?oc=5",
+     "source": "The Vibes",
+     "published": "2026-10-18T09:18:00+00:00",
      "summary": "",
      "also": []
     },
@@ -324,46 +333,6 @@
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0xNcnNTV1JsUjFFUUlrc1ZmUHFVNDZZeWNoa1RLVnVhaTNPbnd3Q2lkTTY1eGVXS3Z0Ni1jaGxZNzZzaHNOa3c0czVQLUc5VWVsRnJrSEpmWGhGdnZOMkdZU0MzY3g2U2o1RXl6cXBEcGgxZVVfRmFmV3plVWdyN1hPSi1VSHl0bkxLMElldGx2aURGMEtYRTVzUXZDdUVzazRvTnh3XzFNZmpXZlQzV2hJV0VVT0FiMi1uMGFzRjNURVBCRlE?oc=5",
      "source": "The Sun Malaysia",
      "published": "2026-10-18T08:31:19+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "#SHOWBIZ: 'Paid more in taxes than I got from Breaking Bad': RJ Mitte's scam",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa2dwVnRwUVctalNjaTlVdDRtbFpoeUh5dWlucmZSVUVzcWJkOTgzMnFCdGdNaEJfelZQbDdpYjZPRC1kOHl4QTVkRU02a1hSaHhtdkdVZG1icE51cXlWNkdBckJTQVVEYUs1aE5BMEl4M3R2Z0V1U1JTYnBsZXVQbFE5TTd5VkNyYktCSFRyQ2FKM1NhRWlsUmhWZ1c0ZExjMlZJeDVOOHNOV0JKUGVGUkhwWmRBWGF0b3haakxDLVNrbVBiUWfSAbgBQVVfeXFMTW9tMVRPUUhIdFRGT3lrNzlodTFzUklXOW81cU5LOWhqNE85N253V3VZZE9FZGk4N3Etd3BGeTM5ME02YnJyVkh5ZTZiNnk2ekZ0VVBiUC1iUXprTllhYlM4VW5hWFlmdkl6ZVBUNkVvbXY2QzBHOEdrVHVFam01UGRHemxrU1pIVVpFWFp4eHdENmpjZG40aENja2NPSlNLV0cydHAzTlp3RGdwNmF3bkdBYXB3MDNLdw?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-18T08:02:02+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Progress with Protection: Ministers Chart Balanced Path for Tech, Jobs, and Talent in Malaysia",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbUxlWXc2ei1PbTlWZHliMmdXb0VwLUZBSDd3WldUVUg4OVBSaTdkWHNrWmVTcXpwQnI3RkNKdmZrakhmQ1M1ZDNNcnprZ3NpdWVUQWV0Q0JMcE1SSjRKY3laNXdrSXNEYnAzTE1FUlM3aXR0ekhla21nSy1qWDZqRk5UUHBvNFpQbDBqZWRMOFFYVXFTNHlaQzJBbmJiVDRpcTZfemhoaklzbTB6QlBCcHRJOExKaThqN1dz?oc=5",
-     "source": "Vocal",
-     "published": "2026-10-18T07:48:24+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Metronomik wins big at SEA Game Awards",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVkzZmFncHpSQ1l3aUpYeFFQN1hkNnJzRzlSTzhyNEVUV2ZGUGo3MWFLNFVHUmcwOFhWQXhoblpvQXdvVVcxbGdHVktpenZLalpXQXhCQjFWamtWNzZMMTNVenhiM0E5MWNtYXB3TWRVRWplNGVfUjAtakl6WndvLTdvbENhZw?oc=5",
-     "source": "Newswav",
-     "published": "2026-10-18T07:22:53+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Police receive five reports over AI-generated nude images of 300 schoolgirls",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVJSSGdrZzM0c2R0WF8xVk55T1ZEOG0wMVVuUzlud2pqdWRfNl85MGxVYnpUbTdfMC1EZ20zUnNNMFlsbEc5a2xHeVpsZXhzWTZndTIyRkFRNmxFRDdHV0ZFWS1zUC1NRDBidmE5a3ZvdkFSbHF0UFhjZzFXRGNnTkF3VjN5U0tnY3g5aUY3dDBJdmhMV1dRUG9vQTlwNEJHSXBkM2J1bWVSYTJhNEdIT0xxdkR3QUp1YWfSAboBQVVfeXFMT1lSUkhna2czNHNkdFhfMVZOeU9WRDhtMDFVblM5bndqanVkXzZfOTBsVWJ6VG03XzAtRGdtM1JzTTBZbGxHOWtsR3labGV4c1k2Z3UyMkZBUTZsRUQ3R1dGRVktc1AtTUQwYnZhOWt2b3ZBUmxxdFBYY2cxV0RjZ05Bd1YzeVNLZ2N4OWlGN3QwSXZoTFdXUVBvb0E5cDRCR0lwZDNidW1lUmEyYTRHSE9McXZEd0FKdWFn?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-18T07:19:19+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Budget 2027: Govt to offer 100,000 more free AI subscriptions, including ChatGPT",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1Myck40Z2Y1WExpdjlvUFE4Yk1JeXgzOXJTN0lRMGVhNXo4OGk3TlMtYVd6SERnQ01qRTk4aWcyTnZqcldmTXlSM3RwaFFaanM1U2VmalpHU194ZEhaVUx1TXpBU05VMUxjekFXVTVJLWZONmlOR0t1TU15N3lHQnIzOWV1Qmo4azBrYklBd0FKQU9YWkFLZ0RBbHh1RXRmRnJQcWlhbEtwU3RR?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-18T07:04:32+00:00",
      "summary": "",
      "also": []
     }
