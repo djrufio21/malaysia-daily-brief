@@ -1,9 +1,27 @@
 {
- "generated": "2026-10-19T15:39:17+00:00",
+ "generated": "2026-10-19T21:05:51+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "4 gangs behind ECRL, TM cable thefts busted by cops",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/4-gangs-behind-ecrl-tm-cable-thefts-busted-by-cops",
+     "source": "FMT",
+     "published": "2026-10-19T16:07:13+00:00",
+     "summary": "Police arrest 17 Malaysian suspects aged 20 to 60 in a series of operations held over the past week in Pahang.",
+     "also": []
+    },
+    {
+     "title": "Data centre power demand to peak at 8.39 gigawatts by 2030",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/data-centre-power-demand-to-peak-at-8-39-gigawatts-by-2030",
+     "source": "FMT",
+     "published": "2026-10-19T15:41:00+00:00",
+     "summary": "Those in Johor are expected to record the highest demand for electricity at 4.42GW.",
+     "also": [
+      "Free Malaysia Today"
+     ]
+    },
     {
      "title": "Hamzah believes Anwar will call for GE16 by August 2027",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/19/hamzah-believes-anwar-will-call-for-ge16-by-august-2027",
@@ -147,22 +165,6 @@
      "published": "2026-10-19T11:47:44+00:00",
      "summary": "KUALA LUMPUR, Oct 19 — The mechanism for allocating parliamentary constituency funds and the influx of foreign nat...",
      "also": []
-    },
-    {
-     "title": "Kelantan police arrest man over alleged indecent act involving cat",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/19/kelantan-police-arrest-man-over-alleged-indecent-act-involving-cat/239781",
-     "source": "Malay Mail",
-     "published": "2026-10-19T11:43:27+00:00",
-     "summary": "KUALA LUMPUR, Oct 19 — A man has been arrested in Kelantan to assist investigations into a viral video allegedly s...",
-     "also": []
-    },
-    {
-     "title": "‘Justice has prevailed’: Teresa Kok wins RM250,000 defamation suit against Dr Akmal over halal certification row",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/19/justice-has-prevailed-teresa-kok-wins-rm250000-defamation-suit-against-dr-akmal-over-halal-certification-row/239779",
-     "source": "Malay Mail",
-     "published": "2026-10-19T11:30:52+00:00",
-     "summary": "KUALA LUMPUR, Oct 19 — Seputeh MP Teresa Kok has won RM250,000 in damages in her defamation suit against Umno Yout...",
-     "also": []
     }
    ]
   },
@@ -271,6 +273,56 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Bitdeer secures $1.7B in AI data center contracts in Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjIzckI3Tmp0bFJCN3p1NWpCYkxEd3QyRGk3NkpwYnZQT21QQVQtMUN2YVlaZUZIOEpZemQ5OTh6S2h0SGczNThZcVg5RDhPX29ORjhIUzk1Vno1cDBBdkhFVk1rY2xlNGpYOUhwd01aMm9XU3lfSWFwNmRMTE5RYnkxNlQ4SEdULWo0QVB3aDZOcUl5dEFHMVFrclEzVk5CMVU3N0VXSkhSMEI2THZXc0RMYUJMc1E?oc=5",
+     "source": "Investing.com",
+     "published": "2026-10-19T20:46:14+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Horizon3 Expands In Singapore With EDBI And SG Growth Capital Investments",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODRzQ0R4anRaSlR6eWZDNTFxeXd0WkZwZ0NfejJuY09HcVJ4ZlAwVFcwTm81Sm1TU2RBZ0pJR3BtT0JCaVc2N2JXZnRPMU1DY29kRVNsMUpxcG1CNXdvZ2FtQmh6SmVKc3lFcEktU1J1Q0RieE5UUkkzQjlvZFJkaG5VV2VQbFlfTDJmUTdqamFNaVBQRVF1dw?oc=5",
+     "source": "Pulse 2.0",
+     "published": "2026-10-19T18:27:49+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Lianhe Sowell secures RMB23.84M order for 80 AI spray painting robots in Malaysia, plus first UK order.",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFVWNXpqSU9heW1XclhlSWJ4SmFmbU50a01Qa0NGWU9RZFFtQS1WZlNGRk5MWFFXdTM2cWYzR3oyTXFJVE11Z0lSZmFGUjRzRy1NVlFRQ1hINzdMWU1KUTlJcy1WZXlMU3hUUkluczdpRUVkeHZid1ExR2tFTFVTY0sxZ3pJZ3lycTlxTmpYUHJfcHc0VUN5a3A0UHJ3Zw?oc=5",
+     "source": "Pluang",
+     "published": "2026-10-19T16:25:11+00:00",
+     "summary": "",
+     "also": [
+      "The Manila Times"
+     ]
+    },
+    {
+     "title": "A Malaysian buyer ordered 80 paint-spraying robots. Lianhe Sowell also got its first UK order.",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPekhCZ0ZFOTNPaGQwT05aTWxMM1VoZ3N6QXRCa1FZY1lvM1VYNTk4TkRHZnJleElObmVELTRvSVdXaGFjNldUNHVxNmVMNnF2TUEtTmEzeEtKVHR3SmNFekxycnZLZHBSRjBDSWJWQ1dFbzBsOTVST2JyMWpnZS1VSWFpLXFzNGEwNlg3cUlxakxUNU9RTW9ZOEthNDdNQ21QQ3MyeFpUT0FpbDRXMjl4Zk9qX1N2UEU0NHVnM0FGdUs?oc=5",
+     "source": "Stock Titan",
+     "published": "2026-10-19T16:07:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Blockchain for Good Alliance and UNDP Launch Two-Year Cybersecurity Initiative for Global Development",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNUNOSjdvQ1hwY2RPVzdFVDJGam9nUFFnU2k3cy10dlh4UVE2MWtNWmpYTWNyeHd6enZYY2dXUDBLSVlOQXJaYWY2dFoweGdJN0MwZXNTb1pSLU5YR3VhcGVseUMxU25ZcWVpX3RTb1BON2pvclNtSXFNVGJXbVlVbjkwX0Z6TVlVdElkdzhsZnVXalJxdWtXak9zQnhvLXV1ZFdOY1dHWVVfWGZsdHppcERsSQ?oc=5",
+     "source": "FF News",
+     "published": "2026-10-19T16:06:35+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia plans data centre bill to align growth with power, water capacity",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPM09hQWVJU19ScG1BNmwzTEhIUHVLM1Z4bmpyMWZiZlREdHpNSS1hekZHNVUwaHZuQ0ZyNm1jZk4wZExlOENPbzRJY25uS2tYN1BPR0k5QjVHN0xhLUxqTUF5bW44Z0M1elZqNS01M3BMQUNPS1pPQl9ONjVfUlpQX0VhdGRwaW9oRkdtSGFOSW51S2Nmd0ZQOXhBUC12aTZFSjlKQkd0QVA?oc=5",
+     "source": "EdgeProp",
+     "published": "2026-10-19T15:44:55+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "EPF, KWAP, Aberdeen pare CTOS stakes as shares plunge 44pct",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2daU25VVnE0Z1ZVX3oyYldiR2IzMHhxVEJQWlBUd3g3dXV2ZmdwYjU4dHI2RXNTTnlXMFFhZWhBWU13MHRlTXZ5cmxOZHV4YW4zVm1rY1QzOVZ6dkVLSnVIcWZBUmNpVko0OHZnWmZycFV6a0VzZXhYNWQ2amJodXVld2tFeGt1eXEzVFpWOWtBX0FrU09jcG4wVHFEcFM5Q1VVTk12VEhFRWM?oc=5",
      "source": "KLSE Screener",
@@ -279,18 +331,29 @@
      "also": []
     },
     {
-     "title": "Malaysia wants at least half its highways equipped with smart tech",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU1ESHFKeHRrOG4xcXFOTEc1aWx2LUtxZkQ0REVFS2FQd3psWnlFUUpQTUN3dlgyZDd4RXkxeEhNQmJUdGMtQmc4YnVqTEFjZENRNExyZ25OMVBEMWNZYU43VnRmRV94N3hsMnpzNDBtblE1SVVIUEhHS0FaeGJudTNhLXYxMnF5c0NSZHlpY3F3dXVHX1U4ckY1V2ZwdmtTSjNZNUZyUEVhMVR3?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-19T14:15:00+00:00",
+     "title": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wajVBYklpQjVIa2twR1hacGptMGYwR2pzcHgwenYzNnVmZ21VVi13TTRqOS1zNDRIajM0SnliVktvdG9fQjdTb1pQYTNWRlpI?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-10-19T14:46:45+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "BGA and UNDP sign a two-year programme on digital safety and development",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95d1NNUHVua0JYMC1UTk51UkNQaEs0bjlnWEdTRTBpOUlpYm5fLUVudzFPdlVyZnljcXZKbEdBSG9BSkpzck1xSk0zQVVUWFpkT0J5V2NlRDk2b1RNbFdzeDJydTJyVnJTelZYcS01dVBrSjgyVVdJ?oc=5",
-     "source": "FinanceFeeds",
-     "published": "2026-10-19T14:07:04+00:00",
+     "title": "Aolani Signs Letters of Intent for Up to 500MW of AI Data Centre Capacity in Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3MzQ1dXeVFlUkVwaGN0cGxTTG1Ba3pKbHZtQzZZYnd3QWlJczBBbldvNl9BbGo3SGFiU1dSaUd1aklzSXhHTGlmU3hGVHFSYlZiMVQzeWZyMlFJZ1hpUEI3MWdQT2JCZDRuWEdmcHNVbm1xWW5FVnFoNmZXLXdzNl9OQ3Zqc2I1ejg5dHc5MktiWVY4VG9MR3hraktidUNQQUtTNHNZSVgyWkFLa0RmbnctNzA5Q0dpWmozVU9EMWRISjA?oc=5",
+     "source": "Indovizka.com",
+     "published": "2026-10-19T14:37:26+00:00",
+     "summary": "",
+     "also": [
+      "The Manila Times",
+      "Media OutReach Newswire"
+     ]
+    },
+    {
+     "title": "Malaysia wants at least half its highways equipped with smart tech",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWU1ESHFKeHRrOG4xcXFOTEc1aWx2LUtxZkQ0REVFS2FQd3psWnlFUUpQTUN3dlgyZDd4RXkxeEhNQmJUdGMtQmc4YnVqTEFjZENRNExyZ25OMVBEMWNZYU43VnRmRV94N3hsMnpzNDBtblE1SVVIUEhHS0FaeGJudTNhLXYxMnF5c0NSZHlpY3F3dXVHX1U4ckY1V2ZwdmtTSjNZNUZyUEVhMVR3?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-19T14:15:00+00:00",
      "summary": "",
      "also": []
     },
@@ -307,62 +370,6 @@
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZTZmeThZcG9hQXVFUTBRYWJvbkI0aGxQNTJTVUYwNHBnUVdfbm1uVk14YjNQLU5GUHJDbThqVGtzZmhlcm9DS0RiRVFEenhPNVhMRnJMYlBoQ0VqUVdrZTk1LU5Rb0hua0tUbVhVaUYyX0tMbkwzSEg2OFh1UEo2QUxhSHo5Rnhtb1dSY3E3cExhTFBISEtJUkprWG5MZWJaUlVSaTEtWEVEMW1Uc1FBc29iQ3ZDZw?oc=5",
      "source": "Telecompaper",
      "published": "2026-10-19T13:13:35+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Outbound & Inbound: India Brings in UK Business & Singapore Cybersecurity, While it Takes Fintech & DC to Malaysia & South Korea",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVG44LXEzSjdfeFRLVkNWOFp2ZHhHN3lUSUdyTkFYRmo4LVF2WnhfemFCRjlIY1k4X1YtcEJRUVlZSm1Uek8xdWpadnBQcFhKb0E0ZWZMYUtXeHliSXVXZDVldjg1Y1RNWE1oaFBXWWVVMGViN2RoaDd3TDB6eHJNTUxaZ2FNMGlkWkJJRnFrR1VYMEpEeHk5d3dBeEVUZFhQMW5OZXpHYjFZVUx5eFJEUFBta2wzX0VaTzFJRzJUUlRicVRWVXFsQ2dXZXpNYlZqXzRxWDF1V1dnZHlfS1JhNEJuU3g?oc=5",
-     "source": "TheTechPanda",
-     "published": "2026-10-19T11:54:47+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia Could Host 500 MW of Aolani AI Data Centre Capacity",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTU5ZckVheE5Mc1haZzRNdmc1T1hXSV9iaDl0Zmh1dFhwcXVnYTU0UUtkRTRqZ195c1BQUGRVSTZnWG4ybnZEQkIwWWFiTC1NWTNXMFY2OHVVcnI3VV9HdDJpc2N6S3A5X2JWZ1pkanR2Wmxoa2YwYjhULXUzbG1zOFNodF9ud0RiR1BWR0I3Yw?oc=5",
-     "source": "energynews.pro",
-     "published": "2026-10-19T11:19:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Govt drafting law to regulate data centre growth — Economy Ministry",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IUnFIQ1RVOGRmTk9kS29LaWd2VzU3LU1Nb254UDdFSU15Ty1xUVZBN0t4Wm9UTTE0X0JrVGZJTjhONTFZMWN4SjI2YW5KUkFz?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-10-19T10:54:15+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Jati Tinggi wins RM30m power infrastructure job for Johor data centre",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHFKbFNENkdobjBZRi1RSkNSME9YRHZyNkZidnJmN2xSUWhUTGllakV0N0NnaWZJWVhNQ0VRaXlZN1p1NVhpVXdzeUVjclF6UFVsWnNmNC1DcjEyR3BZV1VNOXpNY2hSU2JfcnB0NjJUS0tIVmhuMzh5RGZrRE84bF9mTUlkR3pteG9WQVZ3cEFOdERIMF9MMkVOYkJGZHVtVWR3alRuLURWaGdrTjNSeDV1Yw?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-10-19T10:50:48+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysian firms struggle to align teams in cyber defence, Cisco study shows",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSGozeUZSdE9ySzhCekpzOG03Q2Rxa1Exak9PdUc5WFZoZzBlNXRkdlBuQnRlNWlNXy1leVhtcTRWajV0VHM3VGlubldicDQ5OTJwanhZVHltZk1xRng5Rk5kbXdpRS1EaDBmU1FPX01XZG84YnRPSzJpRHI5cnVpR3pYckMtWExTQ3QzSHVWQUpvLUNSSWY4YnhLenktRUJDQnRqYQ?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-19T10:28:58+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Fans urged to \"Boot Out Piracy\" as Premier League campaign highlights cybersecurity risks linked to illegal streaming",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPckJOOHBxeGxPU215dkJDOHpvYjkxM1c1anBLODFjSF83c3dGdkFoWWFRVEJrdUVhU0VVZUlERG5YUnk0Q2dmSXpFcjlJN3ZxbU93TzAxWTQ2anhuNlJPbk53OTRzNWxCVTdGbkpreGs5RW5NZUh2SXhEbWc3Mmx6NnlmR2NXQnBBNVphSzZ0eFp4TFFhRkZ4VWFKcnRjTlMxWXBLcU83UE1ReVVpQzN0TzFySF9md3hvd0FpdnpJbUYyZ0M0ai1EbzcyTFB6bnNQdTFpYldqRHhsTzBKUVhJc2JmcVQ?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-19T10:20:07+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia pushes chip-design startups to turn technology into global sales",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlBPT3BNZWtFQ0NNQ3d5YjJvaTlUV1hyem9VU0I4RnBFRUk4MVNlQlBOblhDMVVNNGFmbFZnSkxJTV9hbGs3UnpzRHZIMXhDclZRUVgwRmp3eEhidEd2bHBLaW1ZQmhaTGNtbExQdEZqM0R3aVZhT3RPbFExc1VmU21TbFVYSUpzVkxyc1ZfZWFNOFJwYVc5Y0J1Zk1yZkRFVDFhZmpBQVpTV19iRkhfNXJIdXFkaHF2TkVqSjRrbnM?oc=5",
-     "source": "The Vibes",
-     "published": "2026-10-19T09:48:00+00:00",
      "summary": "",
      "also": []
     }
