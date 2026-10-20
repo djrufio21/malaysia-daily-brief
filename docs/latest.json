@@ -1,9 +1,25 @@
 {
- "generated": "2026-10-20T20:37:57+00:00",
+ "generated": "2026-10-20T23:55:24+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Why won’t the rain wash away Malaysia’s haze? Experts explain what’s keeping the smoke coming",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/21/why-wont-the-rain-wash-away-malaysias-haze-experts-explain-whats-keeping-the-smoke-coming/239859",
+     "source": "Malay Mail",
+     "published": "2026-10-20T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Oct 21 — Malaysia, particularly the Klang Valley, has been experiencing bouts of heavy rain and thun...",
+     "also": []
+    },
+    {
+     "title": "Haze is making pets sick too: Malaysian vets report cats suffering asthma attacks, dogs needing oxygen therapy",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/21/haze-is-making-pets-sick-too-malaysian-vets-report-cats-suffering-asthma-attacks-dogs-needing-oxygen-therapy/239734",
+     "source": "Malay Mail",
+     "published": "2026-10-20T23:00:00+00:00",
+     "summary": "KOTA KINABALU, Oct 21 — Haze and poor air quality are taking a toll on pets, with veterinarians reporting respirat...",
+     "also": []
+    },
     {
      "title": "Zahid cancels on mega ‘ummah unity’ event at Kelantan stadium",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/20/zahid-cancels-on-mega-ummah-unity-event-at-kelantan-stadium",
@@ -151,28 +167,68 @@
      "published": "2026-10-20T12:00:00+00:00",
      "summary": "The pilot project is aimed at reducing backlogs and will involve the High Courts in Kuala Lumpur, Shah Alam, Penang and Johor Bahru.",
      "also": []
-    },
-    {
-     "title": "Greenpeace activists scale Jakarta monument as M'sia moves on regional haze crisis",
-     "link": "https://www.malaysiakini.com/news/887509-greenpeace-activists-scale-jakarta-monument-as-msia-moves-on-regional-haze-crisis",
-     "source": "Malaysiakini",
-     "published": "2026-10-20T11:59:49+00:00",
-     "summary": "Parliamentary committee to deliver memorandum to Indonesian Embassy tomorrow.",
-     "also": []
-    },
-    {
-     "title": "Kampar woman loses over RM129,000 in online job scam",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/20/kampar-woman-loses-over-rm129000-in-online-job-scam/239918",
-     "source": "Malay Mail",
-     "published": "2026-10-20T11:56:04+00:00",
-     "summary": "IPOH, Oct 20 — A local woman suffered losses of more than RM129,000 after being duped by a non-existent online par...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Musk says backs SpaceX-Tesla merger as rocket firm turns profit",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/musk-says-backs-spacex-tesla-merger-as-rocket-firm-turns-profit",
+     "source": "FMT",
+     "published": "2026-10-20T22:49:10+00:00",
+     "summary": "Elon Musk says special committees of independent directors at both SpaceX and Tesla have been set up to study the idea of a merger at the request of shareholders.",
+     "also": []
+    },
+    {
+     "title": "US regulators certify Boeing 737 MAX 10 after delays",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/us-regulators-certify-boeing-737-max-10-after-delays",
+     "source": "FMT",
+     "published": "2026-10-20T22:25:08+00:00",
+     "summary": "The move clears the way for increased plane deliveries in the coming years, a key aspect of Boeing's plan to improve financial performance.",
+     "also": []
+    },
+    {
+     "title": "BBC slashes 100 jobs, closes two channels",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/bbc-slashes-100-jobs-closes-two-channels",
+     "source": "FMT",
+     "published": "2026-10-20T22:10:54+00:00",
+     "summary": "The job cuts represent £5.5 million in savings as the cash-strapped UK broadcaster aims to save £500 million over the next two years.",
+     "also": []
+    },
+    {
+     "title": "Netflix shares drop on slowing engagement, revenue growth",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/netflix-shares-drop-on-slowing-engagement-revenue-growth",
+     "source": "FMT",
+     "published": "2026-10-20T22:01:00+00:00",
+     "summary": "The California-based streaming giant has struggled to meet investor expectations for several quarters amid competition from other entertainment providers.",
+     "also": []
+    },
+    {
+     "title": "Dow leads Wall Street higher as investors focus on healthcare stocks",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/dow-outperforms-as-wall-street-rises-as-healthcare-stocks-lead-gains",
+     "source": "FMT",
+     "published": "2026-10-20T21:31:00+00:00",
+     "summary": "The heavyweight technology sector fell 0.3%, weighing most heavily on the S&P 500 and keeping the Nasdaq close to flat.",
+     "also": []
+    },
+    {
+     "title": "US tariff refund helps Adidas to record quarterly profit",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/us-tariff-refund-helps-adidas-record-quarterly-profit",
+     "source": "FMT",
+     "published": "2026-10-20T21:20:00+00:00",
+     "summary": "Core profit for the three months ending in September was €1.01 billion, up 37% at the same time last year.",
+     "also": []
+    },
+    {
+     "title": "Solid GM results overshadowed by latest jump in commodity costs",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/21/solid-gm-results-overshadowed-by-latest-jump-in-commodity-costs",
+     "source": "FMT",
+     "published": "2026-10-20T21:14:25+00:00",
+     "summary": "General Motors says the Middle East conflict has fuelled a surge in copper, steel and diesel prices, adding US$400 million to costs for 2026.",
+     "also": []
+    },
     {
      "title": "Rubio says India made ‘substantial progress’ in diversifying oil purchases",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/20/rubio-says-india-made-substantial-progress-in-diversifying-oil-purchases",
@@ -216,70 +272,36 @@
      "also": [
       "Free Malaysia Today"
      ]
-    },
-    {
-     "title": "Big Caring IPO to raise RM2.45bil",
-     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/10/20/big-caring-ipo-to-raise-rm2-45bil",
-     "source": "FMT",
-     "published": "2026-10-20T12:10:00+00:00",
-     "summary": "Pharmacy retail chain operator expects to launch its share sale by end-October.",
-     "also": []
-    },
-    {
-     "title": "Google says multiple cloud services suffer network failures in Europe",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/20/google-says-multiple-cloud-services-suffer-network-failures-in-europe",
-     "source": "FMT",
-     "published": "2026-10-20T11:57:48+00:00",
-     "summary": "Internet service tracker Downdetector recorded hundreds of reports of problems affecting UK lenders Lloyds Bank and HSBC, as well as property website Rightmove.",
-     "also": [
-      "Malay Mail"
-     ]
-    },
-    {
-     "title": "Ringgit little changed as markets price in possible December Fed hike",
-     "link": "https://www.malaymail.com/news/money/2026/10/20/ringgit-little-changed-as-markets-price-in-possible-december-fed-hike/239911",
-     "source": "Malay Mail",
-     "published": "2026-10-20T11:00:40+00:00",
-     "summary": "KUALA LUMPUR, Oct 20 — The ringgit closed flat against the US dollar on Tuesday as investors remained cautious ahe...",
-     "also": []
-    },
-    {
-     "title": "Ringgit ends flat as investors await Fed decision",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/20/ringgit-ends-flat-as-investors-await-fed-decision",
-     "source": "FMT",
-     "published": "2026-10-20T10:43:00+00:00",
-     "summary": "The ringgit remained range-bound as markets continue to expect a US Federal Reserve interest rate hike in December, signalling a hawkish monetary policy stance.",
-     "also": []
-    },
-    {
-     "title": "More flights, bigger airports: MAHB maps out next phase of Malaysia aviation growth",
-     "link": "https://www.malaymail.com/news/money/2026/10/20/more-flights-bigger-airports-mahb-maps-out-next-phase-of-malaysia-aviation-growth/239902",
-     "source": "Malay Mail",
-     "published": "2026-10-20T10:15:50+00:00",
-     "summary": "KUALA LUMPUR, Oct 20 — Malaysia Airports Holdings Bhd (MAHB) is focusing on attracting more airlines and expanding...",
-     "also": []
-    },
-    {
-     "title": "Bursa Malaysia claws back losses but remains stuck below 1,600",
-     "link": "https://www.malaymail.com/news/money/2026/10/20/bursa-malaysia-claws-back-losses-but-remains-stuck-below-1600/239899",
-     "source": "Malay Mail",
-     "published": "2026-10-20T10:10:18+00:00",
-     "summary": "KUALA LUMPUR, Oct 20 — Bursa Malaysia’s benchmark index edged higher at the close as bargain hunting emerged...",
-     "also": []
-    },
-    {
-     "title": "DNB, MRT Corp team up to bring 5G to Johor-Singapore RTS Link",
-     "link": "https://www.malaymail.com/news/money/2026/10/20/dnb-mrt-corp-team-up-to-bring-5g-to-johor-singapore-rts-link/239891",
-     "source": "Malay Mail",
-     "published": "2026-10-20T09:39:30+00:00",
-     "summary": "KUALA LUMPUR, Oct 20 — Digital Nasional Berhad (DNB) and Malaysia Rapid Transit Corporation Sdn Bhd (MRT Corp) tod...",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Alibaba.com launches AI platform to support M’sian SMEs",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeDhRcEFQT2pZV1VCX25RVGVxQjBGYnN0SmNkeHZQTS1tdDNLS25IekxyUzRSSDhkMGdSSS1MOVJXWlVoSER1Qi1kMUV3aXlnMmhlS0ZCSUdhOHVQeUMySXdZQVVMTXdJdXg4T3RLUlB5TEFOMC1vZlhob2pKSnlZTHQ2UUdTZHJHbkNr?oc=5",
+     "source": "PressReader",
+     "published": "2026-10-20T21:35:02+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Budget 2027: Digital Ministry hopes for affordable AI tools, MSME adoption",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOajI2Uk9WRzd3b2U2ZnRENUtZV3VVcTR0RjVCblhWQlpGSjRuREpvY2NDZ1VyWW1mRWNjQmZjai14MG14TWF6dnhhamlINUVUdlVPaldMOWxqbXA3TnlVa21RZnIxQjljRkdGYjI0UGhDVE1vZjJ6ZzRVNEdMSnlQLUpYOXluT2JxMGtMa2xmaGFDZUQ0MkdHN0ktTDl2eE5ZWnFqSGl2aXZPcEo4YVd5NlVLczVOenVjdlRGeVYtMklYUQ?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-10-20T19:20:43+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia Central Banker Flags Cross-Border Risks From Digital Assets",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rNzdRTUQwQnJTV2ZmdXFaNG5wMXpQa1pMZHpkcVFxcWl4Q1ZNMDc3TUxuelZYLXBsajNLb2FZb1pXNDY0bmRwTmg1NkVMZlRxTjEtRW9hVGQzeTQ?oc=5",
+     "source": "TOKENPOST",
+     "published": "2026-10-20T19:06:52+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "AI-enabled application modernization",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzA4UXpDSEtwVTJiTXVHZnJYQkxZR1JaTEhWdHdRbHJpQ01aNTVjQi1pQnNlT1RZOUdLTUcwTDY3T092M0owREY1dWdNb3JBY040eXh6SlJfdHItbjZsYUNXSjFWcTlJRFVzNERlV1U2VFktc09CRGsxTldPWGRWeW5xWUZ2bFFDY093?oc=5",
@@ -321,6 +343,14 @@
      "also": []
     },
     {
+     "title": "Hackers can now use AI agents, couple thousand dollars to break into websites",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTmNkXzRmYWJzZjFodFBtYXIzT0I4cEhBNV94RWJ0NUNfbW5TSTl2RVotNkVIN0pOVWJNeDd4Q0dvRUY5aXJpcW9SUjVHMWZZWklRRHJaREdtdkhFNkpJekNoaHk2LV9YV2NIQWQtY19kczRvRGdvSnFKTXFTWW45a3ZrR0JfZUh6ekc1TzZqejNvMGllYnViVHFxM1lvOFRCQkxRWE0zZkdvRzNDVkNNanBYZW1maXVEb0FBd2930gG-AUFVX3lxTE1OY2RfNGZhYnNmMWh0UG1hcjNPQjhwSEE1X3hFYnQ1Q19tblNJOXZFWi02RUg3Sk5VYk14N3hDR29FRjlpcmlxb1JSNUcxZllaSVFEclpER212SEU2Skl6Q2hoeTYtX1hXY0hBZC1jX2RzNG9EZ29KcUpNcVNZbjlrdmtHQl9lSHp6RzVPNmp6M28waWVidWJUcXEzWW84VEJCTFFYTTNmR29HM0NWQ01qcFhlbWZpdURvQUF3b3c?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-20T15:45:15+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Two men to be charged after woman loses over $23k to scammers posing as Harvey Norman, MAS staff",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEtiTUFUZTFXQ3gtMkYteTdkd3pUV0JIS0NiM1JwbmVVenVrMTFoeTRRdGtyMURhWEszdnF6SjNxX2tNZmQ5TjBEaXBvX2kweGlGdV8tQkVqVDU2NHZlallwaVpoRi02UnZNRGl1TG54dmI3WHFTYmhva1liTldqY3Q4YmxrLU9JVnM2NDdvZmFPMDc5RDBzQ3V5Y2JSbnBUTXhEUUNWdmRsZ3hkT0NYZWk4TEdPSXgwV1YxbmV4eE9tLVRDZldSWnNKVHhZZw?oc=5",
      "source": "The Straits Times",
@@ -341,38 +371,6 @@
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZDd2tJR252b2FGUU5QQ1V1Q0YxSmpJY1BrbWJIWENKVEdhREFJRUcwZzVlU2xLZHBWSlZTaDA0UjdYNG1sWmVLbWhqbWJEVC1XSXZfMHZRTkZwazA2UU55ZVE0QWx6YVhHOWhqdXBKc1IyWUpZMkduOWtOUEpQdkIwUWlBUUxEM1I2TXZyRmZVOFNuby1oR2ZGR0l2bUFtRUVvOXVoVk1UVGFraGVVVzdGM0NVOGY2Wmc?oc=5",
      "source": "NTT Data",
      "published": "2026-10-20T14:59:46+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "ASEAN ministers meet in Manila on scam hubs, and the drafts name AI abuse",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSDlTdmdVd3E3eTVyQ0NFZ1d5NlRRVzMtS2hseW9aRjhvZjJtTF9UZ3ZUNXg0bG1aODM2UnJBMjMtSzVabThSUFVZQ25uOGk0QndQWllNRkpJWXBKbE9Ja2E0cnowZ2dHN3ZYcEo0dHVQcG1jUGpDTDVwSGJpdTJFdlFxazBuUlFvbnBmRFIwNXU?oc=5",
-     "source": "astig.ph",
-     "published": "2026-10-20T14:36:37+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "PN deregistration proves PAS’ failure to manage coalition – Azmin",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1V6UXc1S2YzbUNidVVmX0NxTkxqRGRubG9xUlZ3SUotNDMzTVZNVFZBbjlTTE5FOXhsTjh4dkZpNzhDM3RmcFJEckw3Uk45NW5zVndwZDQ5VnEyb3FzOHNoWXdJRHJxT0w5RkdxNDg5UWtZeWxreWUxWXI5cGdDaUhlVm5uRFpRX3lqWGtWbTQ5R25rLWR3bzA4NHJ0dEpjTnc?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-20T14:30:58+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Anwar raises data security concerns over Waze, urges Malaysians to consider local alternative",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX01QRE1aWjZuS0d2OERSbnlXWXBsY1ZaYlFLX1JrQkQ0Yy1ma25uazVxaTcweGlMXy1TWGEtYWtVdC1RbXRtd2VEbkhNcTdzeEk1Y3dyN0hFZDdrcUtUbndGMFNDbjR2ekFxT1A3Q0x5Y2N4blg5ZjJvZUhMc0dfOEZqNDFHSjVfbURCN25HbkJXZmpVbDZpN3FaZ3ZSOGs5aWNiSzlfb1RpV2VGb05KVTJVMExRSTV1UEd0cDdObmhGc3hPSkx5djg5THJUTFd5LXVlcm5DdDA4MmZk?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-20T14:18:18+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Businessman claims trial to charge of posting offensive content on social media",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWExSRGhOR3Fod3lwV3dxYUZNOEs2YlhHR2ZsQl80Z2NVdElsdWQxOWNWYjVHYW9IZG5jcHlhZ0d6S1RRbE1fLVRMR1pXWWZjNHJxZ09FMEtHeWM3Vmx5QjVuenBGRWFMME0wdzVGMlBVaF9lRUh3QmEyUHRSSnpNa0NNaVRPQzFUZTlrRTk3UWw2eHpsTXJ3c204WjJKMVJtdDdYZHFaOGdHekFBOUE4a0NRdjZZVktC?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-10-20T13:41:43+00:00",
      "summary": "",
      "also": []
     }
