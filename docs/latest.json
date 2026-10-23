@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T19:16:46+00:00",
+ "generated": "2026-10-23T22:21:34+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -170,6 +170,14 @@
    "name": "Business",
    "stories": [
     {
+     "title": "Wall Street closes lower to end rocky week",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/24/wall-street-closes-lower-to-end-rocky-week",
+     "source": "FMT",
+     "published": "2026-10-23T21:44:26+00:00",
+     "summary": "Investors look ahead to a busy slate of corporate earnings and a US Federal Reserve interest-rate policy meeting.",
+     "also": []
+    },
+    {
      "title": "US authorises emergency release of up to 400,000 barrels of oil from reserve",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/23/us-authorises-emergency-release-of-up-to-400-000-oil-barrels-from-strategic-reserve",
      "source": "FMT",
@@ -231,9 +239,7 @@
      "source": "FMT",
      "published": "2026-10-23T10:34:00+00:00",
      "summary": "Investors remain cautious ahead of next week’s Federal Open Market Committee statement, despite widespread expectations that interest rates will hold steady, says an analyst.",
-     "also": [
-      "Free Malaysia Today"
-     ]
+     "also": []
     },
     {
      "title": "Tanker loaded with diesel leaves Russian port for New York",
@@ -263,20 +269,36 @@
       "FMT",
       "The Malaysian Reserve"
      ]
-    },
-    {
-     "title": "Investors pile into Ambani’s Jio IPO as bids top 10 times",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/23/investors-pile-into-ambani-s-jio-ipo-as-bids-top-10-times",
-     "source": "FMT",
-     "published": "2026-10-23T10:11:43+00:00",
-     "summary": "As of Friday, the IPO’s institutional tranche was subscribed 26.5 times, reflecting strong demand from major investors, while the retail tranche was subscribed 2.3 times.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Malaysia Seeks Permanent Task Force to Combat Illegal Online Gambling in Sarawak",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONGtqaFNYWENEbklYRTVTZng0NzBJVmhXeTNWb3phdFpkT3NHRlJORTM5UExmQU1TMVhVcU5qRXF1OERKaDBsNkl1dS1neS1MTzBhZXYxS3g5YVZheDVTdWpGTmVhaTItcUd4OFkwT3RZRVBPR2x4Qnh1aC1wOFFERTZfa1dyenVwRnNQemFRd3l2dTFXbDQyTXkzVW9ldnVGYUw2OFk1bmo1VE82eW9v?oc=5",
+     "source": "iGamingToday.com",
+     "published": "2026-10-23T22:00:56+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "e-Conomy SEA 2026: Southeast Asia AI adoption reaches 243 million users, but usage lags far behind the US",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0dHX3p4Y3Vxa0VYeldCR2NzS2xqaWRwX2J5VUNmYWlra1lTMEU3Q2NlbnVLMHM2Qm5zclp1VEpuNGpQVUhqaEdqazcwRjBTS0NuMi1wNlFlWm9Tbkg0THRIVTJtVFQ1eHVUOWFwbEF2OTMybUZWNVU0Tl9Ic20waTFra0xfaDd0YWRRRGVR?oc=5",
+     "source": "Tech Wire Asia",
+     "published": "2026-10-23T21:02:44+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "How to Invest MyDCD Berhad IPO Malaysia 2026",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWThBUTE0ZzBzeXAwOE01bkR1VThwVUg5aEhIeFZ1dkNYbTdsZXVTVS1ZS0ptWmlHMUZhVFZfNmw4RU5RaVZhUmd4QVJZbDN4UjROU3NOSy1vZUtzQkxiREgwV28?oc=5",
+     "source": "Moomoo",
+     "published": "2026-10-23T19:38:21+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "dorsiacademy.it Ransomware Attack by Lockbit",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVFEtUEdZdVBIbGMzUzgtc3VQRlRGaERjVTJ5eEJfaVZMYWdNRWRnOGk3a0FFVmF0Uy1mWmFSLVRoa0FnNHRQbDNXZTE0REZoLWdoMDZTZG5YYnhfTGRfSkYyWktWMVZWWEhGZVRuYld0V001Zm4za0V1ek0wX3hiTTZ6ZWRwRjhSc3RfbFBDbkc4Z2RrRDhUcW1IMA?oc=5",
@@ -290,6 +312,14 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lV2lPUnNpdG1ycHpKa2twM0lNamcxSi1ZTm1BNzVZR1JzQlFlbWxKeWxfS0NLd0hQYzk0Z0tRZU9VUlA1VHpkcVcwOEE5Sl9q?oc=5",
      "source": "The Edge Malaysia",
      "published": "2026-10-23T15:22:36+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "China Plans to Develop National Blockchain Network by 2030",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONUVGU3ZaOVJQS2lscGxlSTJucTVfRXFNZWtZMTdiRy13VUVia2J4Qkg3ZUhTdUJteEk2cjhGQ1BxNmhvZEJON2ZyZUVVMUFxc1RZNGY1ZmFZZkEzdXlqX0I0SlhDYWNVX0QtTDlEczR0cENVc2didlIzemlnc2p2TE1YOE5hZnVSWlE?oc=5",
+     "source": "ForkLog",
+     "published": "2026-10-23T15:11:28+00:00",
      "summary": "",
      "also": []
     },
@@ -318,10 +348,10 @@
      "also": []
     },
     {
-     "title": "How to Invest MyDCD Berhad IPO Malaysia 2026",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWThBUTE0ZzBzeXAwOE01bkR1VThwVUg5aEhIeFZ1dkNYbTdsZXVTVS1ZS0ptWmlHMUZhVFZfNmw4RU5RaVZhUmd4QVJZbDN4UjROU3NOSy1vZUtzQkxiREgwV28?oc=5",
-     "source": "Moomoo",
-     "published": "2026-10-23T14:47:27+00:00",
+     "title": "Digital 2027 Report Finds 3.24 Billion People Now Using Generative AI Globally",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaUNyT1J6ZHJsdVlrYnZuSkFDTm1wZGNpa2NiYkRqT0FSLTJ5QWg1NWw1TnBxQzBzTWNwUDdJa3l6WDBHWUtIMTRNbHBmUHdMeHpPdEZyTFRucnJJNHJrd09zWF9ONnZQOGFTMVNtbm40QTNQbnBEcHg4c01yX0p5WQ?oc=5",
+     "source": "Pokde.Net",
+     "published": "2026-10-23T14:41:13+00:00",
      "summary": "",
      "also": []
     },
@@ -338,38 +368,6 @@
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OVDFGM3hoeHFMclYtYW5YUFpIZDBKLUJLbGYzV0tERnB5ZlFxUlNFV3BTRmtUX3RESmotMFp2Q3FhalJVZEo4NVczRWN1XzBsdk9tZlZlVU9OZjhjblVScnVXcDNvNDhKX1A4YWM0cFcybnoyb1d0Xw?oc=5",
      "source": "Yahoo",
      "published": "2026-10-23T13:34:39+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Singapore, Malaysia, and Thailand Partner on Cross-Border Digital Money Settlement",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPenJMSTJ2WFN3cE45R19YX28xZVE5VU1JWUROTExlWVFKcXdwY2RyUEhGVnVMdGxpZXRLZDdiSUdaWUt3bDhVc2hJeXp3SElRVUR6cVVDQVhqLUViMXVZV01hYllCVE1BamxIYWRzWkdUT1FtRDBpT2JjMUZTNDl4eHp0RUlNTWlJYTBZQ0xuNkNNTXFqeUtneXcyWkNUTGdtOU9ROFpJSlNrYzNjR2ZMS3BESlN1cU9VRjhF?oc=5",
-     "source": "The Crypto Times",
-     "published": "2026-10-23T12:50:29+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "MSI Prestige N16 Flip AI+ launched in Malaysia, alongside a Prestige 14 Flip AI+ Vincent van Gogh Edition and more",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX1haVHVfLUw0dTFaemlzam9JZEJTYkxINDZadWlYRUs1MjQzM3V5NWllcTY4UV9PeFhNWE8za3QzenJHalZGNDVfeUlMUUFKZ0RpVm1nQlg2czdqRHYxUGU2MDFmMl9FcVRUcUE0bURnRTBvaW04VXFNYlNKdm1vbWFfWlJZbjJyWUt3dWRfQ2ZRZW1TNlNkVVpuVTU3UWRaOWRQWF91c2pYelpuVVdMOUNFY09rZEJYUmt6bjJXMk1rSzhCeWVqTlh4RS1udUxQRDdybjRtclQ5WTdJOG9ub2xBQUI?oc=5",
-     "source": "TechNave",
-     "published": "2026-10-23T12:49:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Your journey is someone else’s data: Malaysia’s push for digital sovereignty",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeHYzQ19RTHhfLUdpWVVFV09WQXB4SDhTY0lSTkhJM25CTmZJR1h4T0ViT2R5dFNjSjVQVHBGaUVNMGZVRVNlUGZMdTR3ZVhPUEw3dkpqSDd4bmJoamVHYUQzSDViWEhHNzVaazNaazZ0WWpSU1FrMG1NWnp4am80S1pJZWRrWUtFMW1tWkRlRjZDdTliV3JXSUFkeWs4RlF6?oc=5",
-     "source": "Focus Malaysia",
-     "published": "2026-10-23T12:48:22+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Self-driving delivery in Malaysia? Not yet, but Neolix is ready",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13NTNhR2RqODE5SWtXbVBaR0cxbXFqUVhVN21OTFBiNFA3b01rVUhtbFVQQXFxS0owOG5vYU4wbkswMmNKZnNNNVhNNFFienc5dnh6NjdES0RWeWNGYU5wbzlseTNqSXk2czVzR0ZlVlNQTW5mYWNPLQ?oc=5",
-     "source": "Tech in Asia",
-     "published": "2026-10-23T12:45:00+00:00",
      "summary": "",
      "also": []
     }
