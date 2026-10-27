@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T18:44:16+00:00",
+ "generated": "2026-10-27T22:58:07+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -170,6 +170,14 @@
    "name": "Business",
    "stories": [
     {
+     "title": "Wall Street ends higher on revived AI momentum",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/28/wall-street-ends-higher-on-revived-ai-momentum",
+     "source": "FMT",
+     "published": "2026-10-27T21:55:26+00:00",
+     "summary": "The buzz surrounding details of Anthropic's impending initial public offering helped boost chip stocks for the third consecutive session.",
+     "also": []
+    },
+    {
      "title": "Boeing’s Q3 results weighed down by production challenges",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/10/27/boeing-s-q3-results-weighed-down-by-production-challenges",
      "source": "FMT",
@@ -258,117 +266,12 @@
      "published": "2026-10-27T09:02:22+00:00",
      "summary": "Belgium’s debt-to-GDP ratio rose to 110.2% in Q2, about 27 percentage points above the EU average.",
      "also": []
-    },
-    {
-     "title": "Apple’s foldable iPhone Duo draws early complaints of screen cracking",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/27/apple-s-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking",
-     "source": "FMT",
-     "published": "2026-10-27T07:58:00+00:00",
-     "summary": "Customers reported hearing a crunch when unfolding the phone, followed by a crack along the centre crease, while others experienced white patches or display problems on the right side of the screen.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
-   "stories": [
-    {
-     "title": "How to Invest MyDCD IPO Malaysia 2026",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWThBUTE0ZzBzeXAwOE01bkR1VThwVUg5aEhIeFZ1dkNYbTdsZXVTVS1ZS0ptWmlHMUZhVFZfNmw4RU5RaVZhUmd4QVJZbDN4UjROU3NOSy1vZUtzQkxiREgwV28?oc=5",
-     "source": "Moomoo",
-     "published": "2026-10-27T16:50:45+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia’s U Mobile to support coverage for customs complex",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU3hPWTA2YWIzeXNad3RKOFNfLWl0WmVhSm9OMmc3eTRKcVNsWFROaklzQzQwOXhUU1ZoQnVEOUdEd1luVUtjSGdUX2NGbzVQUXN0ZUU3dnlOWmdhRWtjVncweEMxQzJpNHE4dm10b1RsaGdEN3Y3RVlNQW5SWVoyaFAwTlNUSkNKQ1VBN2RJRzRQZlJzd3ctd2ljQldkMDlTRWFsc0xxVUFPWGQ3UDdialBIUTF1cngwUVNrdjk0MzRUMUw4NlZ2RFl5MGhIWDFxZnVvQXdIZmg?oc=5",
-     "source": "Developing Telecoms",
-     "published": "2026-10-27T16:44:52+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "New Malaysian CRM Gives Real Estate Agencies AI Notes From Recorded Sales Calls",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNi13Q08yS3BnTjdTemlEZWw1enk3V1d0ZHA0cFB1S0p5ZU5fNWZiNnRNOFVFQzUxNzRYZERLeTBMcWRxX25vMTR5dmdRdmJoMVdsSVgtMmszVlYydWg0eXVaSTgxQ2pVQkJ2bGlXaVFFeEpLSTBDOGl2VHg1dXVXWnhsTVdFQWFBb2FFWHFDbWFpa2JKSkM5SkdB?oc=5",
-     "source": "openPR.com",
-     "published": "2026-10-27T15:34:39+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Zetrix AI, AirAsia, CIMB, SD Guthrie, Nestle Malaysia, LPI Capital, Dufu Technology, Eco-Shop, Tenaga Nasional, Matrix Concepts, AME Elite, Ni Hsin, HB Global, Infomina, Bintai Kinden, Paragon Globe",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mU0JwQlhaQlE1aUJ6VjJTaEhDVW1EbmJldFRUaW9fX0ZBRVNFYnJEaWotMDN3djRLTU03cGlubFBsdFZBRTNWOWMtTGFpbEZV?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-10-27T15:13:19+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysian accused of collecting scam proceeds for syndicate revisits Punggol crime scene",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkRzc09uM1l0MFBQNmhrVHBOM0Q3b0VLVXRDbjVDS3E4YVY1Ukh0VFR6WTNNVkVrUm0zQ0xLS1Z0ZlctN2JCRkRPNU10bEpZSGpYVU9XUS1mTUhQcEtNc1NwNEZDZGFfYTQ2eDVQWGJOWjVYV3h3RWFlMEkwS2p3TEl5YTYwRzBzYVZDUEk1QS0wcmEzTzdrdzFyYUV1S0tDa3VfUkRrS3NDeXB5V2Y1djBLT2NoQkxtQ1FjN2xrTURKbnFnN0Jr?oc=5",
-     "source": "CNA",
-     "published": "2026-10-27T14:40:46+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Global Research Picks | Escalating AI Security Risks; Bank of America Forecasts 7% Growth in Cybersecurity Budgets by 2027",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZG5GTTdxdW11bWdzNVRBZmtCUGJJUEhlLXlaZVJUaU5aQWdxZk5vYlNrX3NoZkRnMlpnZ0NFbk9OOHF3cVhPbDM1RjFuOXRVS3FDcXVXOFNVbThMOW9zV2pXWDVNOWg5Sjc2WmdhcEw4cDN1blYxY0pJdE9WVTFnYS02Qk04cnV6MWF6LUkzZDJ1dl96SVBabTZ2S0FVbU83Q1duaUYtQTlYbVFLd0d3?oc=5",
-     "source": "Moomoo",
-     "published": "2026-10-27T14:15:11+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Foreign worker hiring: Clearer rules, local jobs and a push to restore trust",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdzhjXzc1TmRONVZBQkJWcUhrVkttSUd6ekpQWVE3X0lKd0M0NDViQ2pjSzA5Zkt0TU1hTVRWbzNkOFZscXhzd1JNOGVmRWo4bEF2eFlpT0V5YjUtaEliQ2RDQlJ5REdybkd2dGx4NHprbGNLLUY0bWxrekZWaFJ6NE1tTHFfeEUyZnByVHFvRXYyeWFRTXZUZ2hxcmxrVGRqTlE?oc=5",
-     "source": "Focus Malaysia",
-     "published": "2026-10-27T12:37:45+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "News - WhiteArmor ransomware group claims Hisense data theft, demands $5 million",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDJEOFB4ZVIxMy1pdnhxQ3J3bFlvdHVpQlAzbzV3SVY3UHFVWVlQWk1Rd3U1TDZocWVLbTlBY19jZWQ5SjNEbjZ4SzAxbFJOME9VQ1dOOGxFNllDUHdmeVpXWGdUWWhCWWc3VHUyQzd1U2o0SDlFOVIwY3AzSzhJVE9JQ3lPRXVqT0Fjd3YteDhNOWFGV1A5RXZGUlRQQ0lvUW8tMl9IWjFjZw?oc=5",
-     "source": "teiss",
-     "published": "2026-10-27T12:11:05+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PNGlOMWhzMWxiMUQ4ejRlTUlBTUIzbVZpMDlCczhwbWR1SzZuaHFKQnNRWjBYWWJRcFdNcEpwc2dOQjA4V2N5NzhWekMyZzBj?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-10-27T12:08:14+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Lawyers must not rely blindly on AI, says Kulasegaran",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRUFkbjlldWUwZGpkekZFLVJfdi1lTTJSMVpiV3hkSlIzZGc1a01ZcmVRUi1VYUlPUDFGRjBCeThRYzZFTTRMWi1sdXZJb3RPYjdHN1phc25QS2NkY3JEOGhPZ3JaRDU5ZkRjV1RJSXVlUkQ3QzdTcDlRMjNJWlA4aVZ6NTRCZ1h5dEJmUGg3WFM1aHc1cF9NWVdTY0hqY1FWWi1rcWJyX3dHZ9IBqgFBVV95cUxPRUFkbjlldWUwZGpkekZFLVJfdi1lTTJSMVpiV3hkSlIzZGc1a01ZcmVRUi1VYUlPUDFGRjBCeThRYzZFTTRMWi1sdXZJb3RPYjdHN1phc25QS2NkY3JEOGhPZ3JaRDU5ZkRjV1RJSXVlUkQ3QzdTcDlRMjNJWlA4aVZ6NTRCZ1h5dEJmUGg3WFM1aHc1cF9NWVdTY0hqY1FWWi1rcWJyX3dHZw?oc=5",
-     "source": "NST Online",
-     "published": "2026-10-27T12:02:09+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Ringgit ends higher against major currencies, eases vs US$",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObzFsRmRZY2N2VVJ6NW5QdzMtVVkyRUFZcHRhU0J6ZnNTWkVVbnlnLXVxTjJTTjVES2hSOEg0WGtscHhGQXQ0bWZHTmduTmpBeTN5Q2l6M2xrdHVJQkdUMW1DSW5VNW1ESjluUjVEUWN6WEVYNS1TT0xlLVB4SVh6eTlBR2pZYjBqaGV1Sjk3SDYxWFNPVGNkYnlvSG1leXE3d2V5RXo5YnYySHhHeGNBNzV6d3diWXdB?oc=5",
-     "source": "The Star",
-     "published": "2026-10-27T11:37:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Infomina bags contract for National Registration Dept's app systems",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2hjVllSdTVhc2NyZS1uZ24xMDNFUUJWNF9reTZJOWR0MGJ3UVdyYXcyMjFsdVpLeVFBZnZrOHpaQmJDTEh5OTVuUUtzNHJVbDVsUjNhMDAzMklNNFBYcnFJdW1EYUh4bzhqOVNWWXhXMkQ0THNkeU1RWWtHT01WVUhwQXd4YVZxRzNiSVRKaGpvaVBaY0JtWWpLbE5aQkFxMUgtYnJjNkh4anNieENWNmdZcUZ1Y0xWMjhhU3pR?oc=5",
-     "source": "KLSE Screener",
-     "published": "2026-10-27T11:35:21+00:00",
-     "summary": "",
-     "also": []
-    }
-   ]
+   "stories": []
   }
  ]
 }
