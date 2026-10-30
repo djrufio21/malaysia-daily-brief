@@ -1,9 +1,25 @@
 {
- "generated": "2026-10-30T19:26:24+00:00",
+ "generated": "2026-10-30T23:50:11+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Harapan drops 'poster boy' tactic in Malacca after Johor, N Sembilan defeats",
+     "link": "https://www.malaysiakini.com/news/888205-harapan-drops-poster-boy-strategy-after-johor-ns-defeats",
+     "source": "Malaysiakini",
+     "published": "2026-10-30T23:00:00+00:00",
+     "summary": "Adly says coalition will prioritise grassroots mobilisation and candidate strengths.",
+     "also": []
+    },
+    {
+     "title": "Friends, foes and four awkward clashes: Who’s teaming up with whom in the Melaka polls?",
+     "link": "https://www.malaymail.com/news/malaysia/2026/10/31/friends-foes-and-four-awkward-clashes-whos-teaming-up-with-whom-in-the-melaka-polls/241283",
+     "source": "Malay Mail",
+     "published": "2026-10-30T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Oct 31 — Former rivals Umno and PAS are joining forces to contest the Melaka state election, while P...",
+     "also": []
+    },
     {
      "title": "Pang Ron-Pei Jing storm into Hylo Open semis in Germany",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/pang-ron-pei-jing-storm-into-hylo-open-semis-in-germany",
@@ -147,28 +163,44 @@
      "published": "2026-10-30T11:51:00+00:00",
      "summary": "The suspended party vice-president says Bersatu should apply the same rules to those who signed the CSA with the government yesterday, or reinstate the six it expelled.",
      "also": []
-    },
-    {
-     "title": "Foreign investments should deliver more opportunities for Malaysian SMEs, says Steven Sim",
-     "link": "https://www.malaymail.com/news/malaysia/2026/10/30/foreign-investments-must-deliver-more-opportunities-for-malaysian-smes-says-steven-sim/241327",
-     "source": "Malay Mail",
-     "published": "2026-10-30T11:49:53+00:00",
-     "summary": "GEORGE TOWN, Oct 30 — The government wants local content to be given greater consideration in government, governme...",
-     "also": []
-    },
-    {
-     "title": "Multi-cornered contests will boost PH chances, says Adly",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/10/30/multi-cornered-contest-will-boost-ph-chances-says-adly",
-     "source": "FMT",
-     "published": "2026-10-30T11:40:00+00:00",
-     "summary": "The Melaka PH chairman says past experience with multi-cornered contests provided PH with more room to plan its strategy to secure victories.",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Fitch downgrades France’s economic outlook from stable to negative",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/31/fitch-downgrades-france-s-economic-outlook-from-stable-to-negative",
+     "source": "FMT",
+     "published": "2026-10-30T23:06:00+00:00",
+     "summary": "The assessment follows official figures showing the country's economy has failed to grow so far this year and contracted in Q3.",
+     "also": []
+    },
+    {
+     "title": "Nvidia is becoming the bank of the AI boom — could it also be fuelling a bubble?",
+     "link": "https://www.malaymail.com/news/money/2026/10/31/nvidia-is-becoming-the-bank-of-the-ai-boom-could-it-also-be-fuelling-a-bubble/241246",
+     "source": "Malay Mail",
+     "published": "2026-10-30T23:00:00+00:00",
+     "summary": "NEW YORK, Oct 31 — Nvidia’s US$3 billion (RM12 billion) investment in Meta’s share sale, announced Tue...",
+     "also": []
+    },
+    {
+     "title": "India’s Reliance Industries reports best ever quarterly sales in Q3",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/31/india-s-reliance-industries-reports-best-ever-quarterly-sales-in-q3",
+     "source": "FMT",
+     "published": "2026-10-30T22:57:00+00:00",
+     "summary": "The retail-to-refining giant led by billionaire tycoon Mukesh Ambani raised more than US$3 billion in the country's biggest initial public offering earlier this week.",
+     "also": []
+    },
+    {
+     "title": "Wall Street closes sharply lower amid AI cash burn",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/31/wall-street-closes-sharply-lower-amid-fears-of-tech-selloff",
+     "source": "FMT",
+     "published": "2026-10-30T21:36:00+00:00",
+     "summary": "Disappointing quarterly results from Intel and Amazon, which heightened concerns over heavy AI spending, triggered a tech selloff.",
+     "also": []
+    },
     {
      "title": "Shock at the pump drives Syrians electric as cheap Chinese cars hit the streets of Damascus",
      "link": "https://www.malaymail.com/news/money/2026/10/30/shock-at-the-pump-drives-syrians-electric-as-cheap-chinese-cars-hit-the-streets-of-damascus/241237",
@@ -223,9 +255,7 @@
      "source": "Malay Mail",
      "published": "2026-10-30T10:52:46+00:00",
      "summary": "KUALA LUMPUR, Oct 30 — The ringgit extended its gains to close higher against the US dollar today as tr...",
-     "also": [
-      "The Star"
-     ]
+     "also": []
     },
     {
      "title": "Ringgit rallies against greenback as traders reassess Fed rate outlook",
@@ -234,40 +264,6 @@
      "published": "2026-10-30T10:30:00+00:00",
      "summary": "The ringgit remained in positive territory as traders reassessed the likelihood of a US interest rate hike, pushing the US Dollar Index lower.",
      "also": []
-    },
-    {
-     "title": "FBM KLCI gains 4.44 points despite broader market weakness",
-     "link": "https://www.malaymail.com/news/money/2026/10/30/fbm-klci-gains-444-points-despite-broader-market-weakness/241317",
-     "source": "Malay Mail",
-     "published": "2026-10-30T10:22:55+00:00",
-     "summary": "KUALA LUMPUR, Oct 30 — Bursa Malaysia’s key index ended higher today, supported by renewed buying...",
-     "also": []
-    },
-    {
-     "title": "China’s Xi, Swiss president praise trade deal that boosts access",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/30/china-s-xi-swiss-president-praise-trade-deal-that-boosts-access",
-     "source": "FMT",
-     "published": "2026-10-30T10:09:00+00:00",
-     "summary": "The accord will give Switzerland unusually broad access to Chinese markets, contrasting with trade barriers imposed by the US and European Union.",
-     "also": []
-    },
-    {
-     "title": "Spanish inflation stays at 3-year high ahead of election",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/30/spanish-inflation-stays-at-3-year-high-ahead-of-election",
-     "source": "FMT",
-     "published": "2026-10-30T10:01:23+00:00",
-     "summary": "Inflation held at 4.9% in October, its highest since February 2023, with the cost of living a major issue before the election next month.",
-     "also": []
-    },
-    {
-     "title": "Tech giants’ spending spooks investors as bonds rally",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/10/30/tech-giants-spending-spooks-investors-as-bonds-rally",
-     "source": "FMT",
-     "published": "2026-10-30T09:48:26+00:00",
-     "summary": "Shares in Google parent Alphabet plunged 12.6% on Wall Street, wiping out US$500 billion in market value as massive AI spending pushed its cash flow into negative territory.",
-     "also": [
-      "The Edge Malaysia"
-     ]
     }
    ]
   },
@@ -275,10 +271,36 @@
    "name": "Cyber & Tech",
    "stories": [
     {
-     "title": "Latest Trending News",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUlKTUQwaWpFZG9YOVBka1FOOVExMDQzN2Y2TDQyV3BOYVd1RG9CQkF5c2lHTjFDNkc4TzJIT0wyZjJrMmNNamw3bEltME9jd3dmN0doZnRhR3J2SWttckxaRU9zRVJVWGxlbU9HUVVackJhSFhGRUhtcUppS05qd3BwQUstemh2bXZyUDhUTmdNS2VfQzRDNVJBdw?oc=5",
+     "title": "Malaysia-bound workers’ medical tests to begin October 31",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPODdwQW5faW5sQzhXYm8taXlvR0V2aWRyRUtnbzltdF9la1Faakt3cElkWWVubDFIbXhfbDc2Uk9fazlvLUNaZFdXWnRsSVZqT2xvcFZQZkY0T21DMjBOdVBQWWFlNVdxdGJ0QUZXUXhIbXVDa3h2MEhoQU0yUlRBb0NBRWV4blljd0hSNVZuMmszcURLVzd6MFlfRmtYQi0tUmRpNkNzbG1JZ0JlUTFIMVlldEZtSm9hTWZV?oc=5",
+     "source": "The Daily Star",
+     "published": "2026-10-30T23:29:01+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia’s AI boom offers new stardom",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmQyTWxiLXZ1SFRlRmo2SnpqSXZ2MDh2aTFKNi1VaXhNeUswbnVyTVNpVlJuSDFUNk52WXNBc3ZxSDdpNkhnWk9LMGZzUE5OUDhGZUQtMkVzZFRnc1FLd3FoZ0R3dDBNU19qTUJlR1NKd1FqOGhCMWVpSWF2QVNtMElrZUpWWXhDeUtjbEZ5SkM?oc=5",
+     "source": "KLSE Screener",
+     "published": "2026-10-30T23:06:22+00:00",
+     "summary": "",
+     "also": [
+      "The Star"
+     ]
+    },
+    {
+     "title": "‘I’d rather shake a human hand’: Scientist’s bittersweet reaction as AI threatens to overturn his life’s work",
+     "link": "https://www.malaymail.com/news/tech-gadgets/2026/10/31/id-rather-shake-a-human-hand-scientists-bittersweet-reaction-as-ai-threatens-to-overturn-his-lifes-work/241266",
+     "source": "Malay Mail",
+     "published": "2026-10-30T23:00:00+00:00",
+     "summary": "SAN FRANCISCO, Oct 31 — For decades, three computer scientists built their careers around an idea about the limits...",
+     "also": []
+    },
+    {
+     "title": "Fahmi condemns cyberbullying of UM student, advises victims to lodge reports",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaFI5b0FJX3dnM1RWdEZHamcyaDluajYtWkZhZGNhRE9tTlkxeERodkIyMHYxbU1zSGphYjF4QnpVV0tqbDMxWU5JSUNSa0F3OVF2LWpySFNyb1ctMHhabGIyX2JiNjloNXRJMTA4bWFNamR6eS1YNFJMS0xkcTdPakF1d21lY2JWVk05UEZMQjR6Z1drd1BXSXFuUzd1MXA4R25VUnpDYXp1cmY0RXAwSFdITmJ2S1VwcXhHNl9EXzZlQlJ0c2c?oc=5",
      "source": "The Sun Malaysia",
-     "published": "2026-10-30T17:09:17+00:00",
+     "published": "2026-10-30T19:57:04+00:00",
      "summary": "",
      "also": []
     },
@@ -299,10 +321,18 @@
      "also": []
     },
     {
-     "title": "General Phan Van Giang meets with three defense ministers",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdmJPblJOSDJ2a2dtSUM5TUVpVjhYRG8wSFBTdllzRzduTmRQNjI2NlVvbXBrMEtOemlmcjhFNDN2Mzl0ckpnVHViYmFZMi16dzRMWEl3MjNWWnRWcVhtZmVpR2JRZEZIVjdPSGJEWWlPbGJyNVB2Q0ZsRFI2RzFqN2Nud3gzR28xMGVoN1Z1M2U5bG5lRW5TTGEybDE0cXVFdjFiNW5faEEtNHJEMkhFZnNkcXdhT2lEZUlOVmNGaTk?oc=5",
-     "source": "en.qdnd.vn",
-     "published": "2026-10-30T15:48:00+00:00",
+     "title": "AI risks weakening critical thinking among students, warns Zambry",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjZNVGtXRFRiZlNJVTVrVkkxUEh3eDNwNXIwVnFKZWJXUHRLdzhKdDhTcG9MNFRGOUVQZmY5LXZTdF8yRU9SSjdVaVFrSXpSc3NUVEt3MDE2MEtPMnJCOWxvMThHRUxEU1hSMzJxdDNXMzdWbDJYdC11OWF6QUVwcnFMWHUxcjlVVi1CVHN3aHA3TnlocVlNMW85UWtVdzJFaTAyT203amk5QzU2dks4UjQwQjQyNzd4MXdv0gG7AUFVX3lxTE1yNk1Ua1dEVGJmU0lVNWtWSTFQSHd4M3A1cjBWcUplYldQdEt3OEp0OFNwb0w0VEY5RVBmZjktdlN0XzJFT1JKN1VpUWtJelJzc1RUS3cwMTYwS08yckI5bG8xOEdFTERTWFIzMnF0M1czN1ZsMlh0LXU5YXpBRXBycUxYdTFyOVVWLUJUc3docDdOeWhxWU0xbzlRa1V3MkVpMDJPbTdqaTlDNTZ2SzhSNDBCNDI3N3gxd28?oc=5",
+     "source": "NST Online",
+     "published": "2026-10-30T15:41:43+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "My Say: Wherefore now stands the judge?",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ObWRKZ1UzdmNab2JOY3BOZ2toSEhJTGc5VUQzaUJIMW5BYmdSUDRjcmJWS0NOVURvVkczYnpQUEw2U1F1YVlmR1hZS080U2pL?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-10-30T14:58:58+00:00",
      "summary": "",
      "also": []
     },
@@ -331,42 +361,10 @@
      "also": []
     },
     {
-     "title": "Ruanyun Edai Signs Malaysia Healthcare AI Licensing Deal and Expands Cogni AI Transport Deployment",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPalRFZVNuMXFmWVVrVUlVclpTbzQzMDJBdXFDTHpScVRLUV9PLWJMN3RWeV9QSTlFMUlPUmVLQ1N4UnI1T080cl9kSkNSZmRlalNWY2lsMDBCQzNnUTBOV0NhbGlCUDBBMk4zZEVTaG12NmV0NHlLRzBpaVkwdnhhOENZeGlOU3JobzVhWWlLMnhHNDhjWlVGZDVsRXF6bS1VRVV1RmNBWHdfWlM2ay1ib1lZVUZoWEh4UDZpMHFqQkRwc1FQNlU2YlF2eEhQc01wR3lyQkxCVEctZGpjZGcyakVHTmQ?oc=5",
-     "source": "TipRanks",
-     "published": "2026-10-30T13:27:39+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Bitcoin dips back below US$80,000 while AI trade faces scrutiny",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2OXJ0OUQ3NGdEYjB1QnZvcGJNMEkwUl9ncExQejhkZmxpeTlDRTVCUDNLMlZZa21MOV91R0VwWDR4bWhvM3pNN3BDUlgyOGlZ?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-10-30T13:16:50+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Waze ban must be the start of a wider digital security strategy",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbzdKcGZFWHlpeURQNVJMMzdsMU1fVjBrRk9XWGIwVVRLOVh0M2l3SUROWTJDOGtsODh3ZmVSYml0NS0zNUFsZDZjckNDcHlFZnNCalg5aFJScEZQcXZPSU9Jd1ppakhqaWtOWHlZZllsa040WUdOdHVhU1FpNXJJVWdNRDBCVHdmYWVSMUhZY1NXX1U?oc=5",
-     "source": "Focus Malaysia",
-     "published": "2026-10-30T12:52:17+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Zetrix AI confirms HeiTech Padu collaboration for NIISe project has lapsed",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTExqdmhfZWxBVldlREQzaVhDdzg3c1RFRUJoZmZpV0hKX3RNYXpWNEtNaGtvRktCWWNES3VPWVlCc2RhVWNkd0FPWDhHUjJFWk5kd2RoaDhUcW1Ub0FWWnNXZHlXSVJaN1FtWDdRWXFXeTJ3ZHdRa2ZoY3Y2WmhzTVkyQ25KcmQtWkRLNEIycWFyVXZLb3dnc2V3YXdSdnZscmpYSFpwNUJTc1pQdURtZjdwSktMOVdRd0E?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-10-30T12:31:44+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Cathay Pacific joins growing list of airlines hit by data breach",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOG42akptc3dTSzRPaUtJeHlSRERsWnhLNHFTeVF3LVZ2dEllVFhUWjBFWjFXZ1FycUxNbDBNUnJKNFEyZ3MwXzhsVGtZZl93SldTRS1hbWNSUnlRUklhN1hmX0t1dU5ZeGY3UDVRMUxXMWFJREUzY3RYbngwZmI5VG5PUm5OZElvZXFpdGY3bmFnNzZxUHlJclAwMjd4NEZfX3lHekVhVUdtdW5pM0ZKMEYtbktNVG5iVllrTGFPNHlZTEZuVGc?oc=5",
-     "source": "The Star",
-     "published": "2026-10-30T12:00:00+00:00",
+     "title": "Google expands AI Mode ads to 10 markets, including Southeast Asia",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBXVlVPZFRla2p4a2xjcDZaWHZvYUQxbGxOX2FPUWFuUS1UMlRhWm4zbXVYZUUwbHJHMjRqZmQ5RExqcWE5OWtxWDFUX205OXZSdk9NZHRIUEQ4djdvVFM3VVM4STJ6OHpX?oc=5",
+     "source": "ContentGrip",
+     "published": "2026-10-30T14:03:47+00:00",
      "summary": "",
      "also": []
     }
