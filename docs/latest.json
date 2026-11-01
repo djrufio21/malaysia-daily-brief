@@ -1,9 +1,41 @@
 {
- "generated": "2026-11-01T19:43:49+00:00",
+ "generated": "2026-11-01T23:37:57+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "750 doctor posts for Sabah, Sarawak – but who will take entry-level pay grade?",
+     "link": "https://www.malaysiakini.com/news/888294-750-doctor-posts-for-sabah-sarawak-but-who-will-take-entry-level-pay-grade",
+     "source": "Malaysiakini",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "Groups warn low pay may deter experienced doctors from returning to serve.",
+     "also": []
+    },
+    {
+     "title": "Off the trail, into danger: Mount Kinabalu guides warn trespassers of the price rescuers pay",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/02/off-the-trail-into-danger-mount-kinabalu-guides-warn-trespassers-of-the-price-rescuers-pay/241595",
+     "source": "Malay Mail",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "KOTA KINABALU, Nov 2 — Security controls at Kinabalu Park are adequate, but trespassing on prohibited trails on Mo...",
+     "also": []
+    },
+    {
+     "title": "Why Malaysia should have national long-term care insurance and how it can be funded",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/02/why-malaysia-should-have-national-long-term-care-insurance-and-how-it-can-be-funded/240938",
+     "source": "Malay Mail",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 2 — If Malaysia introduces a new nationwide insurance to cover the cost of long-term care of old...",
+     "also": []
+    },
+    {
+     "title": "Confidence pact loosens BN’s hold on Anwar’s govt, say analysts",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/02/confidence-pact-loosens-bn-hold-on-anwar-s-govt-say-analysts",
+     "source": "FMT",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "The confidence and supply agreement is seen as a long-term strategy to show that the Anwar Ibrahim government 'still has something up its sleeve'.",
+     "also": []
+    },
     {
      "title": "Woman’s body found snagged on fishing net buoy",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/woman-s-body-found-snagged-on-fishing-net-buoy",
@@ -131,44 +163,36 @@
      "published": "2026-11-01T11:48:00+00:00",
      "summary": "The immigration department says the system will offer the choice of five- or 10-year validity periods.",
      "also": []
-    },
-    {
-     "title": "Over 400 people detained in drug raid on Jalan Sultan Ismail entertainment centre",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/01/over-400-people-detained-in-drug-raid-on-jalan-sultan-ismail-entertainment-centre/241620",
-     "source": "Malay Mail",
-     "published": "2026-11-01T11:42:30+00:00",
-     "summary": "KUALA LUMPUR, Nov 1 — A total of 417 individuals were detained after an unlicensed entertainment centre, suspected...",
-     "also": []
-    },
-    {
-     "title": "Man, 42, dies after collapsing during running event in Putrajaya",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/01/man-42-dies-after-collapsing-during-running-event-in-putrajaya/241619",
-     "source": "Malay Mail",
-     "published": "2026-11-01T11:32:50+00:00",
-     "summary": "PUTRAJAYA, Nov 1 — A 42-year-old man died while participating in a running event here early this morning.Putrajaya...",
-     "also": []
-    },
-    {
-     "title": "Guar Chempedak assemblyman, son injured after SUV overturns in Yan crash",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/01/guar-chempedak-assemblyman-son-injured-after-suv-overturns-in-yan-crash/241617",
-     "source": "Malay Mail",
-     "published": "2026-11-01T11:29:03+00:00",
-     "summary": "ALOR SETAR, Nov 1 — Guar Chempedak state assemblyman Abdul Ghafar Saad and his son sustained minor injuries after...",
-     "also": []
-    },
-    {
-     "title": "Campaign ‘flag war’ begins in Melaka as parties stretch limited election budgets",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/01/campaign-flag-war-begins-in-melaka-as-parties-stretch-limited-election-budgets/241613",
-     "source": "Malay Mail",
-     "published": "2026-11-01T11:13:10+00:00",
-     "summary": "MELAKA, Nov 1 — The excitement surrounding the 16th Melaka State Election is beginning to build, with a “fla...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Chinese EV carmakers bring their own parts, and Malaysian suppliers are watching from the kerb",
+     "link": "https://www.malaymail.com/news/money/2026/11/02/chinese-ev-carmakers-bring-their-own-parts-and-malaysian-suppliers-are-watching-from-the-kerb/241569",
+     "source": "Malay Mail",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 2 — Malaysia’s car-parts makers risk being left on the sidelines of the electric vehi...",
+     "also": []
+    },
+    {
+     "title": "Canada’s Carney hails ‘good conversation’ on trade with Trump",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/02/canada-s-carney-hails-good-conversation-on-trade-with-trump",
+     "source": "FMT",
+     "published": "2026-11-01T22:11:12+00:00",
+     "summary": "High-level trade talks between the US and Canada broke down in August, prompting a series of tariffs from both sides.",
+     "also": []
+    },
+    {
+     "title": "Binance resumes withdrawals after more than US$6bil stolen in hack",
+     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/02/binance-resumes-withdrawals-after-more-than-us-6bil-stolen-in-hack",
+     "source": "FMT",
+     "published": "2026-11-01T21:26:38+00:00",
+     "summary": "The world's largest cryptocurrency exchange has already seen a surge in withdrawals amounting to about 2.1% of the total assets the company manages.",
+     "also": []
+    },
     {
      "title": "Opec+ keeps December oil output targets steady ahead of tougher call for 2027",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/11/01/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027",
@@ -199,7 +223,9 @@
      "source": "FMT",
      "published": "2026-11-01T10:12:40+00:00",
      "summary": "Aramco will inject about US$2.6 billion in cash and assets into Humain as the AI firm seeks to expand its capabilities and meet rising demand.",
-     "also": []
+     "also": [
+      "Free Malaysia Today"
+     ]
     },
     {
      "title": "FBI says North Korea behind US$6bil crypto theft from Binance",
@@ -240,32 +266,6 @@
      "published": "2026-11-01T06:35:44+00:00",
      "summary": "DHAKA, Nov 1 — Bangladesh formed a new board today to review the minimum wage for garment workers, as authorities...",
      "also": []
-    },
-    {
-     "title": "South Korean exports nearly doubled in October on AI investment boom",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/01/south-korean-exports-nearly-doubled-in-october-on-ai-investment-boom",
-     "source": "FMT",
-     "published": "2026-11-01T02:02:00+00:00",
-     "summary": "The surge was partly driven by the month having more working days than a year earlier due to differences in the timing of the Chuseok holidays.",
-     "also": [
-      "Free Malaysia Today"
-     ]
-    },
-    {
-     "title": "World’s biggest crypto heist: FBI says North Korean hackers stole US$6b from Binance",
-     "link": "https://www.malaymail.com/news/money/2026/11/01/fbi-blames-north-korea-for-record-us6b-cryptocurrency-heist/241489",
-     "source": "Malay Mail",
-     "published": "2026-11-01T01:24:11+00:00",
-     "summary": "NEW YORK, Nov 1 — The FBI yesterday accused North Korea of stealing more than US$6 billion (RM24.3 billion) in vir...",
-     "also": []
-    },
-    {
-     "title": "Hackers steal US$6.3b, Binance foots the bill — and says it’s 90pc there",
-     "link": "https://www.malaymail.com/news/money/2026/11/01/hackers-steal-us63b-binance-foots-the-bill-and-says-its-90pc-there/241484",
-     "source": "Malay Mail",
-     "published": "2026-11-01T01:01:14+00:00",
-     "summary": "NEW YORK, Nov 1 — Cryptocurrency platform Binance said yesterday it has used company money to buy tokens to replen...",
-     "also": []
     }
    ]
   },
@@ -273,18 +273,90 @@
    "name": "Cyber & Tech",
    "stories": [
     {
-     "title": "Asian Champions Trophy: India pull away in second half to beat Malaysia, reach semis",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTkwS182OEJidUV3TnE0MEw3OTFVYmV6QkJjeWdYQVJ3SHdoOERfZ1dINnc5aDc3dkFHM0laZVJLTlg0N2RYN2pmcmtidFZ0aDVUQ0VCbUhiREU1UVd5SGFDQVpzVjlRaDV4dUNCRnFCd0Y5eUNsZXhlLUQ2dWJyVXk3dmZHNG9mZlhDNC0waEM2c2dqaGhfU1A5M2w5VUZyLU5nQWxnRktTUzRBYWN2c0xn0gG4AUFVX3lxTE1VYUxkSmJWRUVtN1pfSHNNRmwwTTBMMm9qVzIzZm5BUmdQNVN5V2k3TTdMVDVKeWlLeXJfMDdocUwxbC1KNmFMclJCb0QtVm83OVhtRG9VRmRiUnVtREtib3hkamhtbGtXY3NfQWpVYXVLcUFFZzZlOTBOSmlMZnJZQTFSQkFDUFZfWnNzbkpyN2VjeWpHZmphanBzM3pNMEZFYVVHbWRkNDE2WW1BZWp0Zl9yaDRSNXA?oc=5",
-     "source": "The Indian Express",
-     "published": "2026-11-01T18:33:42+00:00",
+     "title": "Malaysia’s data centres, costs and spillovers",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR1Z6TW1oVVkxb2dTaENXZ0l5cjdqd2RNdjZjbDZBYS1xWjI5WXBLekl2NC0taXFERmhReVdEX3ZJallzdk5lV3d2V29Ld2FkODh4TVVQX3BndFNGeklqbXBLdjlBLTJxUFZlMHVNTS1aR0JUVWZxQThOOGJpcDMzZ0ItWEpNT190SmtNRjNTa1JSN3NZWGxV?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T23:00:00+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Chinese scam networks shift operations from Cambodia to Madagascar amid crackdown: Report",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzYyX21mVDVMMXkzRHpQWTM1UUZycWZuaFFTdGtGcklYSDlsNnUzTGFjZ3RIQ1V1UTNjYi1kLXQ5SmhTd3A2ZzFDd3A1RUZkUzd5NHZuN1lsandrV2ZGdWE4YUFJMklTZmkwa2tnSERxM3I3RTl5RzEyUmhHMTVPWWNTWkQ2UDRkajlTa0h6OUlkSWktRTd2UmE4cmMwd1BWX3h6cHE2c1hSOVhLSm1CM3VCYnQxQzZhcU9PalN3V08tTWhqdnfSAcYBQVVfeXFMTzc2Ml9tZlQ1TDF5M0R6UFkzNVFGcnFmbmhRU3RrRnJJWEg5bDZ1M0xhY2d0SENVdVEzY2ItZC10OUpoU3dwNmcxQ3dwNUVGZFM3eTR2bjdZbGp3a1dmRnVhOGFBSTJJU2ZpMGtrZ0hEcTNyN0U5eUcxMlJoRzE1T1ljU1pENlA0ZGo5U2tIejlJZElpLUU3dlJhOHJjMHdQVl94enBxNnNYUjlYS0ptQjN1QmJ0MUM2YXFPT2pTd1dPLU1oanZ3?oc=5",
-     "source": "Social News XYZ",
-     "published": "2026-11-01T18:11:07+00:00",
+     "title": "TraderTraitor: Five things to know about the North Korean hacking crew that keeps on stealing",
+     "link": "https://www.malaymail.com/news/tech-gadgets/2026/11/02/tradertraitor-five-things-to-know-about-the-north-korean-hacking-crew-that-keeps-on-stealing/241531",
+     "source": "Malay Mail",
+     "published": "2026-11-01T23:00:00+00:00",
+     "summary": "SEOUL, Nov 2 — North Korea’s TraderTraitor hacking group has been blamed by US authorities for stealing more...",
+     "also": []
+    },
+    {
+     "title": "Malaysia Airlines' systems untouched by data breach",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVk51MXVMRlpsYkhjZ0tSRWpLTkVkdUlVVUF6bjd5TGQzQ2Rwb0RGck5laTJLMUR3d2p1S09fa3Q2dS1XV0JJbUd0ZjdIOUJkSEFDNmdXM2tJM2R3Ni1aZnU5MGU2ZGRMOVd0WHp2UkpfWjZGaWltbjVpdDVndnhvTGg0VElYZGJqd0FRS3pWcFBIMmFiZmxIYXgyMk5SSHk4MG5HTGhZZWLSAa4BQVVfeXFMTnF6dWlKeU9TSkNJb1hWdXJSOVA2Z1Nvc1p1MklkeVhJZFpIcjg2aWtVeEhzZDNYLVJ3aUFiRmdFajBXMmozZnR3ZFZwbks5ZEhuRXc1SXZpalloWHZ0U3YteGVXal9XamJwemlpcGlXUXF2WkhEbWx2N0NpRjhjR2JjUlhUSVdJM29EU2lPcDFnVnBfQktNamgyV3BobU1rYk9jNlNFUkUzY3RBRlFB?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-01T22:30:59+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Tardozzi elogia a Márquez tras su victoria en Sepang y responde a las críticas de Bagnaia",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFNHWVRYdUJmLXdhbUgyUzdabHd6NmFKUFRHZWZoZW1qYUJDRk5ra1RTd2tUbHdUZlVieThSWDdKalBuLWp2QzNZbzdJb3c5UXN5VGdXRkk2eFpkMnJ6ZDJfV0dCeXVwUk94cUlOS0hrMmRuc3hRRkJncGVROUczak5nWmhvZXZGc0JyQlRyTm0xVGpKc0ZDYkt4V0djTFhpa18zc2RtN1QwQ2MzYTVubXl1RlBlNGp3NWZ6ODUzbFdoRU12U3c?oc=5",
+     "source": "Motorcycle Sports",
+     "published": "2026-11-01T21:39:57+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia rides semiconductor export wave",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kQ3FsYk83dE5TdDVLQV9IZFI0X1AtbUNMNUx3T3VQUVVxVjE0SnF2NGhaVzFWVEZtZ3Y4UVhTdHcwQl9rdjAzeHpHOEVGc2xDUUZCZURvZ3BRSjd6R1FQbHJKeVFnUm93cHJ4azVQRndtRkZVWE4td096aw?oc=5",
+     "source": "Borneo Bulletin",
+     "published": "2026-11-01T21:10:09+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia poised for economic expansion",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVVfRUlyYzFDRUlzeTJLaUVkVzBIWmF6anNPbEUzMDdjUmZpalItOWZoeVIxeGhVVW1WWDZodUh1M1BBUGpmbmxpbU9fanZKaWF4dVN2WGJzLU9qWllkM2dtbzRfSC1kcFpLbXVydjgzaFM1WGpjUUpvbkQyQmtRQVNKZ05SVTZVTldxLUJWYnlTMFU2M0pUb2lDOTFfeWpK?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T21:08:18+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Ideanation’s agentic AI to lend SMEs helping hand",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQem1tX25yVXNmeHZOaldCZkhzV3o5VlhhNEdjQUwxWV8yVWh5aG53VjZfWU9hQWVYTEU5TzdSS2tnQVgtVENoaDdTUjNIMGRINE9qUnFWRkRBRmVTbW05Yi1QYmhCYkk5ZjB6RWZfdDM2LTFNYVlGV2ZtNkthN29fNlljdkVldEx1SzFuVXI1RExiUGtCSndnQldxdXVTTUNQdENqM09VSmktcWN6V3c?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T21:04:12+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Exports extend robust growth on AI chip boom",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFZWaVlhdVlnUUJIRnhjWkR2eHNxaTJ4enNEZjNXajZlYXhWbUJvTHdham01eWk0T3ExREx0N1N0SVJpSkZLUXZXTGVjcWtZR0hlVlFGZkVDbzJPa1ZzYU5SbDBiRV9XVUl4UDA1RE9mLURZbE9QNUhfQ0FEYXh2bnNKdGxUNTdsY05FVFN3aG5Gcm9KUC1OYlRwRk9fSUF6cDBvcmNhbw?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T21:04:12+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Bursa likely to see slower trading growth in FY27",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTctT0lJNHBLenpuSzduNTZqTE40VmpjYTNGU0VWTEVFekNYNTV4SVNKTl81THNxVTJVQkstRnJBMDBlX0d3bklsLXNBLU9xaVBDWnV1Y2Y2ZER4M0h1ZTV4WW1WVVlNTEp6UkZjdUp0UjNUNDIzR0RDcG5oT2JDYUZabnFFTnRFa3dNcG5uWHktRV9RVkd5Q2hmMnUwVDBhNGdLT04wY0dZemhpUEpR?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T21:04:12+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia: University-Industry Collaboration for an AI-Ready Workforce",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjVyYlJibUpRelpjOHVhV3doeEtEa1pFYmIwbXZQUTVyWS1zOVlfUkVsRmNralRNbEQzOXVhMG5aenpvcERwYUtRTTJrZXZlckxKQk8xUEV3Z0VyZTB0Vjh1a3YxWXFlOXpmTmdOSjdzU2hpQ3lhSUZkR3lsc0RRYlMxMUMxOUFDekU0RndFUjctdVFidUdySw?oc=5",
+     "source": "OpenGov Asia",
+     "published": "2026-11-01T20:01:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Asian Champions Trophy: India pull away in second half to beat Malaysia, reach semis",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTkwS182OEJidUV3TnE0MEw3OTFVYmV6QkJjeWdYQVJ3SHdoOERfZ1dINnc5aDc3dkFHM0laZVJLTlg0N2RYN2pmcmtidFZ0aDVUQ0VCbUhiREU1UVd5SGFDQVpzVjlRaDV4dUNCRnFCd0Y5eUNsZXhlLUQ2dWJyVXk3dmZHNG9mZlhDNC0waEM2c2dqaGhfU1A5M2w5VUZyLU5nQWxnRktTUzRBYWN2c0xn0gG4AUFVX3lxTE1VYUxkSmJWRUVtN1pfSHNNRmwwTTBMMm9qVzIzZm5BUmdQNVN5V2k3TTdMVDVKeWlLeXJfMDdocUwxbC1KNmFMclJCb0QtVm83OVhtRG9VRmRiUnVtREtib3hkamhtbGtXY3NfQWpVYXVLcUFFZzZlOTBOSmlMZnJZQTFSQkFDUFZfWnNzbkpyN2VjeWpHZmphanBzM3pNMEZFYVVHbWRkNDE2WW1BZWp0Zl9yaDRSNXA?oc=5",
+     "source": "The Indian Express",
+     "published": "2026-11-01T18:33:42+00:00",
      "summary": "",
      "also": []
     },
@@ -297,78 +369,6 @@
      "also": [
       "Latest news from Azerbaijan"
      ]
-    },
-    {
-     "title": "AI export bet: Here to stay?",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXlWd1YxbGtXSlVLQXlVZHRVSEE4YW8taEZYaTZkRER4aG9Xb3l4b0cwVW4zX1JteG10Vk41cEozSjdMY2NrdmNWOTFoenV5dmUzUXNjcFVlcUNKZXF1a2std2FfX1YxQ2RoeGloMTNjbWdZWlZFcWZBdU14anpuVnlsbXkydVJmaWs5bUpNcjY?oc=5",
-     "source": "The Star",
-     "published": "2026-11-01T17:01:44+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "NST Leader: The scam trail leads home",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjVfS21aNkNsZmdBaC0xYTc4cGp0MTUzLXdfUHM2UW5PUDRPcGdCQmltN1VWUnpvZ0xfdW9VeUJ1YmxSb1dOTjhwWjNzZ3pFenM4N2pxVjdKY0hiUVZURVpuLXlFTFY0X1dSUE1ZOEVYSzB1X0JpMDEweGFxR2Fwc2E2ZTRWd1k1QkZKTERDdXlaUl9UZ2YyY2hhMU5QdFRYQ1VN0gGWAUFVX3lxTE1iT2FvWmFnRjhqbVoweE13eDdyZzhycENWWHBQcDAxX0o3dGZQRmgtM0hCSUNjQWZ5V0dNYnkwbXVSOU1LNnJYRlRUMDVheWxkNmVaeEFMbEtjQkpXUGpxQk9xRjZna3pnY2F6d09iNUc5YkFuTk44S09MUHNPM2tKZGZ3NlFYeEVnTHNNTTFGb3JWZmlVdw?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-01T16:55:52+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia's JurisTech partners Thai-listed TBN to target Thailand's non-bank lending market",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRpWG1QMDNDNWRHSmQzNmFnN0otdHhUUW45aGFIS1FHbUthQy11ZkhJdmJCeUxhZTRzUDhfS3RjUlNNWUp4TXZvM25Xd0hZcm9SYWQyZE13cG5BQWZINEI4cjRneDE5emtxSFpfS1RrcG1YSTBnZV9FLVRJbVNCeFRDZVNxRXlGNDhfaUoteXZESnRXbnlNWEp2WnZWdGhpOEJ0cHBacDdzZlZXbTU5THcxWXlHbnNFTkkwYkNNcmhsYS03?oc=5",
-     "source": "Digital News Asia",
-     "published": "2026-11-01T16:55:20+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysians can choose 5- or 10-year passport validity from Nov 2",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnBwMjA4RFZacWdqUHhCS2Njc1JmZ1lOV2lrRUNYaXR1SndsbVZmYnBMYTlwc29naGVBSHQ0WGRnUVNKbTAwR1VsOC1OSDZTcHN2VXJRVzV5aFZtUXJ6RmdiZTUxZEx4QTVrTng1ZnF5TnVJcEdLa3Q2MWFfNlMwNkVlU1BWQ1VnR3czdWFGZWYxa01hQXJZcGdUMXdoN1hvcmFwQmpFc3pMU2FHU2fSAbMBQVVfeXFMTVZZQlRsV0VHZVlwLVJ1QUV0aTdZTElQU1pPVjFWa3pobjhtckVPMTdOSU9SUmdIOXNaVUF6SWIyMjVOZHRsQ1FfNnRfZEhTRU51bVItcEQtZUsyemc5WkVXYXRQQU9PbXVHYVJxVDEyZTFMSHVLamhlNHJTeF9sOFpVYmtUdFBaTlJwWmVPZUJvNUljNUc3S1Z5TFVHV0ZtTmhZVmVDT1lSM3g5X2x5VGM5dlU?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-01T15:46:24+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Key Highlights: Malaysia Airlines Joins Airlines Affected by Amadeus Cybersecurity Incident",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdkZRcHVDTmg0ZDJka1pFcFR3Ty0yNUhXODExV2lDTFZ0M0lCUEotVmtLd25XeVZKUU5HT0NOODA3ckhQSlloZGNXNlhQTVczYjZOb3hUVndONGNsaGZpbmlfbU5hTS1TXzJ5Zk9rOTBiQnM4cmxLbWhzZnhjdTZHWEFxdzJwY0d0cXl5OTJGdk5aYUhHMGlGZkY1TjRxa0hmUVV1OFJkRUtUU1E0TTlmeUJMRVVNZktjc2lqUkFVc192ZGt4NUpXZUhwTkVyc2stbTlsRGJSSm1uaFdjVkhTZC0tbDREb2xQ?oc=5",
-     "source": "FL360aero",
-     "published": "2026-11-01T14:08:28+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "[MotoGP Malaysia GP] Marc Marquez takes a dominant win, moving closer to the title; Ai Ogura finishes 4th",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1teHlqVGRKZzB0TTFqZUFNYW93M3R1bGhrc3RaZkxhejBocmxtQWRqcDJjck4wMllObGViVEE1RW1vRGphcU0tSnlOeHJnQXEtT2NfanJtbHlYa1FPZWhCTXNCN1ZyRnB0clc4UHFJZVN5U3hFTm5veFliMkpkWmpWN1dEZHVFNm5EZm5fVGxnRzY3aDJaNFJhRjJVVEY2RUZ4cTFob3A0V08tcHhHM2J3a0RoQmJXaHNIeFpGdndRZ2ZJQzBscjNyMzdqTmUxUTR3?oc=5",
-     "source": "Webike Japan",
-     "published": "2026-11-01T13:47:22+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "OPPO Unveils ColorOS 17 Globally: Silky Smooth. Flow with AI.",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tREtISlNVMXV1UmdCeHYtcmRKOGM5Qmhud3FUOW5uNUh6Ymh3NFg5dnNOVEtIVEhiTkV2M0pBQnFlLU9QY1NTNlhlYnNKZ3BZOGZhMHZhZTZhZjRncXhkWFpBbmhSS1k?oc=5",
-     "source": "OPPO",
-     "published": "2026-11-01T13:40:18+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Inside Job Ruins Malaysian MotoGP: Temporary Worker Arrested Over VIP Pass Scam",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0xFUWtGZldDMTRLdmVJNlhvcHRnMFNyUzhwVVNULXVHZy1sSlh3WFc1U29waVRYdEt3LWJwWFRZU3Q4bnd3V1o0WWd1enRkR2pmSFo3RWFsRzktbF9ZdFh3NTFuc2JQMUZSYVlFR0FpWndJZVFSZXZsVC0zSm03cGM5ZTl4X1FURWY0clppQkdwZ1JOWW5TOU5WSlE2V0NCMC1QZ2xRTmZjR3o1eGxnVThMNkl0LTk4SVd0RGJ6YmpienBhOXpta01qczB6ZEk?oc=5",
-     "source": "TRP | The Rakyat Post",
-     "published": "2026-11-01T13:13:56+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Our Economic Resilience Is Real, Risks Are Structural, Not Just External",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzJPb1JEWFYwaWpGWkN4UzJjNHFra1VKQmVUYnNSQ3M0Z3ozaGRibWxNV3hwQndkRkJmSFdQb1U3T3BKVmFhdGlHYWF5X25ReXNMb0dYR0JRWXNBbXRzX3JZd1Qzanh1Rl9Fbk83OXFzcF9GeWhKOXJRQkZ2bUtlX3BneEEyX1pJRHRoQzBXVGNmODhRV0p3aTNtaWNwa1VURjZBTlJGMWpUY2Y1cTRqMFBGUWFtZw?oc=5",
-     "source": "BusinessToday Malaysia",
-     "published": "2026-11-01T11:28:11+00:00",
-     "summary": "",
-     "also": []
     }
    ]
   }
