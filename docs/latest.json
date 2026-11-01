@@ -1,9 +1,33 @@
 {
- "generated": "2026-11-01T15:13:20+00:00",
+ "generated": "2026-11-01T19:43:49+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Woman’s body found snagged on fishing net buoy",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/woman-s-body-found-snagged-on-fishing-net-buoy",
+     "source": "FMT",
+     "published": "2026-11-01T15:50:00+00:00",
+     "summary": "Police said the body was that of a woman in her 30s, clad in a red shirt and white shorts with black patterns.",
+     "also": []
+    },
+    {
+     "title": "First two FA-50M fighter jets arrive at Kuantan airbase",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/first-two-fa-50m-fighter-jets-arrive-at-kuantan-airbase",
+     "source": "FMT",
+     "published": "2026-11-01T15:34:00+00:00",
+     "summary": "Six more aircraft are expected by April, with the remaining 10 to be delivered in stages through early 2028.",
+     "also": []
+    },
+    {
+     "title": "Angry customer smashes ATMs after failing to withdraw cash",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/angry-customer-smashes-atms-after-failing-to-withdraw-cash",
+     "source": "FMT",
+     "published": "2026-11-01T15:18:00+00:00",
+     "summary": "Police say five banking machines were vandalised and a 21-year-old man was injured when he tried to stop the suspect.",
+     "also": []
+    },
     {
      "title": "Man and woman trade blows at mall ‘after children assaulted’",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/man-and-woman-trade-blows-at-mall-after-children-assaulted",
@@ -139,30 +163,6 @@
      "published": "2026-11-01T11:13:10+00:00",
      "summary": "MELAKA, Nov 1 — The excitement surrounding the 16th Melaka State Election is beginning to build, with a “fla...",
      "also": []
-    },
-    {
-     "title": "Runner dies after collapsing during half-marathon run in Putrajaya",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/runner-dies-after-collapsing-during-garmin-run-in-putrajaya",
-     "source": "FMT",
-     "published": "2026-11-01T11:00:00+00:00",
-     "summary": "Police say the 42-year-old man had no history of illness. He was reported to have collapsed at the 19km mark of the 21km run.",
-     "also": []
-    },
-    {
-     "title": "Amanah nearly assured of 4 seats in Melaka, says veep",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/01/amanah-nearly-assured-of-4-seats-in-melaka-says-veep",
-     "source": "FMT",
-     "published": "2026-11-01T10:55:00+00:00",
-     "summary": "Hatta Ramli says the party hopes to win at least five of the seven seats it is contesting, citing the support PH enjoyed in Melaka in GE15.",
-     "also": []
-    },
-    {
-     "title": "Fahmi: Three more Asean countries keen to join Malaysia-led children’s online safety push",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/01/fahmi-three-more-asean-countries-keen-to-join-malaysia-led-childrens-online-safety-push/241612",
-     "source": "Malay Mail",
-     "published": "2026-11-01T10:50:15+00:00",
-     "summary": "MELAKA, Nov 1 — Thailand, Brunei and Cambodia are the latest Asean countries to have expressed interest in joining...",
-     "also": []
     }
    ]
   },
@@ -273,10 +273,84 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Asian Champions Trophy: India pull away in second half to beat Malaysia, reach semis",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTkwS182OEJidUV3TnE0MEw3OTFVYmV6QkJjeWdYQVJ3SHdoOERfZ1dINnc5aDc3dkFHM0laZVJLTlg0N2RYN2pmcmtidFZ0aDVUQ0VCbUhiREU1UVd5SGFDQVpzVjlRaDV4dUNCRnFCd0Y5eUNsZXhlLUQ2dWJyVXk3dmZHNG9mZlhDNC0waEM2c2dqaGhfU1A5M2w5VUZyLU5nQWxnRktTUzRBYWN2c0xn0gG4AUFVX3lxTE1VYUxkSmJWRUVtN1pfSHNNRmwwTTBMMm9qVzIzZm5BUmdQNVN5V2k3TTdMVDVKeWlLeXJfMDdocUwxbC1KNmFMclJCb0QtVm83OVhtRG9VRmRiUnVtREtib3hkamhtbGtXY3NfQWpVYXVLcUFFZzZlOTBOSmlMZnJZQTFSQkFDUFZfWnNzbkpyN2VjeWpHZmphanBzM3pNMEZFYVVHbWRkNDE2WW1BZWp0Zl9yaDRSNXA?oc=5",
+     "source": "The Indian Express",
+     "published": "2026-11-01T18:33:42+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Chinese scam networks shift operations from Cambodia to Madagascar amid crackdown: Report",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzYyX21mVDVMMXkzRHpQWTM1UUZycWZuaFFTdGtGcklYSDlsNnUzTGFjZ3RIQ1V1UTNjYi1kLXQ5SmhTd3A2ZzFDd3A1RUZkUzd5NHZuN1lsandrV2ZGdWE4YUFJMklTZmkwa2tnSERxM3I3RTl5RzEyUmhHMTVPWWNTWkQ2UDRkajlTa0h6OUlkSWktRTd2UmE4cmMwd1BWX3h6cHE2c1hSOVhLSm1CM3VCYnQxQzZhcU9PalN3V08tTWhqdnfSAcYBQVVfeXFMTzc2Ml9tZlQ1TDF5M0R6UFkzNVFGcnFmbmhRU3RrRnJJWEg5bDZ1M0xhY2d0SENVdVEzY2ItZC10OUpoU3dwNmcxQ3dwNUVGZFM3eTR2bjdZbGp3a1dmRnVhOGFBSTJJU2ZpMGtrZ0hEcTNyN0U5eUcxMlJoRzE1T1ljU1pENlA0ZGo5U2tIejlJZElpLUU3dlJhOHJjMHdQVl94enBxNnNYUjlYS0ptQjN1QmJ0MUM2YXFPT2pTd1dPLU1oanZ3?oc=5",
+     "source": "Social News XYZ",
+     "published": "2026-11-01T18:11:07+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia Airlines Warns Customers of Amadeus Data Breach",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTTNfd3FURnFfUjBmNjVTa09BMWtsMGZyeWMzOTM0ajJ1UmYwLUNBVjI0MUxQLUEzMXVXbGlEZnJKT2prT1A1eExrZW9NRWY4N3NnVTh5QnNJTEJpN0o5M3RsNVA2dTFTQWsyRE84VGRiTlY0cUMwWmNWS2hhUQ?oc=5",
+     "source": "Airways Magazine",
+     "published": "2026-11-01T17:06:37+00:00",
+     "summary": "",
+     "also": [
+      "Latest news from Azerbaijan"
+     ]
+    },
+    {
+     "title": "AI export bet: Here to stay?",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLXlWd1YxbGtXSlVLQXlVZHRVSEE4YW8taEZYaTZkRER4aG9Xb3l4b0cwVW4zX1JteG10Vk41cEozSjdMY2NrdmNWOTFoenV5dmUzUXNjcFVlcUNKZXF1a2std2FfX1YxQ2RoeGloMTNjbWdZWlZFcWZBdU14anpuVnlsbXkydVJmaWs5bUpNcjY?oc=5",
+     "source": "The Star",
+     "published": "2026-11-01T17:01:44+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "NST Leader: The scam trail leads home",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjVfS21aNkNsZmdBaC0xYTc4cGp0MTUzLXdfUHM2UW5PUDRPcGdCQmltN1VWUnpvZ0xfdW9VeUJ1YmxSb1dOTjhwWjNzZ3pFenM4N2pxVjdKY0hiUVZURVpuLXlFTFY0X1dSUE1ZOEVYSzB1X0JpMDEweGFxR2Fwc2E2ZTRWd1k1QkZKTERDdXlaUl9UZ2YyY2hhMU5QdFRYQ1VN0gGWAUFVX3lxTE1iT2FvWmFnRjhqbVoweE13eDdyZzhycENWWHBQcDAxX0o3dGZQRmgtM0hCSUNjQWZ5V0dNYnkwbXVSOU1LNnJYRlRUMDVheWxkNmVaeEFMbEtjQkpXUGpxQk9xRjZna3pnY2F6d09iNUc5YkFuTk44S09MUHNPM2tKZGZ3NlFYeEVnTHNNTTFGb3JWZmlVdw?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-01T16:55:52+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia's JurisTech partners Thai-listed TBN to target Thailand's non-bank lending market",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYjRpWG1QMDNDNWRHSmQzNmFnN0otdHhUUW45aGFIS1FHbUthQy11ZkhJdmJCeUxhZTRzUDhfS3RjUlNNWUp4TXZvM25Xd0hZcm9SYWQyZE13cG5BQWZINEI4cjRneDE5emtxSFpfS1RrcG1YSTBnZV9FLVRJbVNCeFRDZVNxRXlGNDhfaUoteXZESnRXbnlNWEp2WnZWdGhpOEJ0cHBacDdzZlZXbTU5THcxWXlHbnNFTkkwYkNNcmhsYS03?oc=5",
+     "source": "Digital News Asia",
+     "published": "2026-11-01T16:55:20+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysians can choose 5- or 10-year passport validity from Nov 2",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnBwMjA4RFZacWdqUHhCS2Njc1JmZ1lOV2lrRUNYaXR1SndsbVZmYnBMYTlwc29naGVBSHQ0WGRnUVNKbTAwR1VsOC1OSDZTcHN2VXJRVzV5aFZtUXJ6RmdiZTUxZEx4QTVrTng1ZnF5TnVJcEdLa3Q2MWFfNlMwNkVlU1BWQ1VnR3czdWFGZWYxa01hQXJZcGdUMXdoN1hvcmFwQmpFc3pMU2FHU2fSAbMBQVVfeXFMTVZZQlRsV0VHZVlwLVJ1QUV0aTdZTElQU1pPVjFWa3pobjhtckVPMTdOSU9SUmdIOXNaVUF6SWIyMjVOZHRsQ1FfNnRfZEhTRU51bVItcEQtZUsyemc5WkVXYXRQQU9PbXVHYVJxVDEyZTFMSHVLamhlNHJTeF9sOFpVYmtUdFBaTlJwWmVPZUJvNUljNUc3S1Z5TFVHV0ZtTmhZVmVDT1lSM3g5X2x5VGM5dlU?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-01T15:46:24+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Key Highlights: Malaysia Airlines Joins Airlines Affected by Amadeus Cybersecurity Incident",
      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdkZRcHVDTmg0ZDJka1pFcFR3Ty0yNUhXODExV2lDTFZ0M0lCUEotVmtLd25XeVZKUU5HT0NOODA3ckhQSlloZGNXNlhQTVczYjZOb3hUVndONGNsaGZpbmlfbU5hTS1TXzJ5Zk9rOTBiQnM4cmxLbWhzZnhjdTZHWEFxdzJwY0d0cXl5OTJGdk5aYUhHMGlGZkY1TjRxa0hmUVV1OFJkRUtUU1E0TTlmeUJMRVVNZktjc2lqUkFVc192ZGt4NUpXZUhwTkVyc2stbTlsRGJSSm1uaFdjVkhTZC0tbDREb2xQ?oc=5",
      "source": "FL360aero",
      "published": "2026-11-01T14:08:28+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "[MotoGP Malaysia GP] Marc Marquez takes a dominant win, moving closer to the title; Ai Ogura finishes 4th",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdW1teHlqVGRKZzB0TTFqZUFNYW93M3R1bGhrc3RaZkxhejBocmxtQWRqcDJjck4wMllObGViVEE1RW1vRGphcU0tSnlOeHJnQXEtT2NfanJtbHlYa1FPZWhCTXNCN1ZyRnB0clc4UHFJZVN5U3hFTm5veFliMkpkWmpWN1dEZHVFNm5EZm5fVGxnRzY3aDJaNFJhRjJVVEY2RUZ4cTFob3A0V08tcHhHM2J3a0RoQmJXaHNIeFpGdndRZ2ZJQzBscjNyMzdqTmUxUTR3?oc=5",
+     "source": "Webike Japan",
+     "published": "2026-11-01T13:47:22+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "OPPO Unveils ColorOS 17 Globally: Silky Smooth. Flow with AI.",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tREtISlNVMXV1UmdCeHYtcmRKOGM5Qmhud3FUOW5uNUh6Ymh3NFg5dnNOVEtIVEhiTkV2M0pBQnFlLU9QY1NTNlhlYnNKZ3BZOGZhMHZhZTZhZjRncXhkWFpBbmhSS1k?oc=5",
+     "source": "OPPO",
+     "published": "2026-11-01T13:40:18+00:00",
      "summary": "",
      "also": []
     },
@@ -289,82 +363,10 @@
      "also": []
     },
     {
-     "title": "Marc Marquez on brink of history after rival's costly Malaysian GP clash",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOelVZNkd0ejl6NUlqSV9LQ0l1ZG5oakRFN0FEMmpyVnNIbHdSM0I0Q28wMVhIUThIcHFCODhRSldxWnVFVnVSVGdKNS1UWjRKSHJxaGVWb2ZaajJmSmhMLWFfbEpBWWlqeS1abzZnTGIzWmt3WTVFQnhIQ2pnYWFFenR2ZUJkSXZuQlFKTUtUQQ?oc=5",
-     "source": "GPblog",
-     "published": "2026-11-01T13:00:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia Airlines warns customers after Amadeus data breach",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG9zcWJlMzZ3X1pvQWlRSDIyaWtKaUJqTnF5cWNVbWllZjJwdGR0dkZ6TzFkQ2pxV3VJVUo0OFVwQl9tSzVDUmc3Q3pMWFlyZFBrOEhMQi1rMklMSzBUZG5Ha3JGMm5ib1hkWVkyYk5wWHdRNmdIOUhxenViZk8yTTF0cC1qWDg?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-01T12:35:54+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Chinese scam networks shift operations from Cambodia to Madagascar amid crackdown: Report",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ3gtVXFoek5ZQXZsRW9lQTVOT0FDdVFrd0dlRGJwSlUybk5ycXFuZ2ZYWFkwTkNPUHpWeEtFVUF3VEZGOFNfeDJxYkhfdmhIcmhMaHhqeTdoUl9EVlpWN2UyR0MyYlpOUXhBM3pzQ1hKTl84QTVVWnF6S2s4U00wOW1Ka1FKd3M5ZElfQ0Z1UUp5VHowTVgyM01iR0E1V1p1MTZpN25tVG5Mb2VuYWY2ZEhwN21nYXFZVHNuUkxSOGZCdw?oc=5",
-     "source": "IANS LIVE",
-     "published": "2026-11-01T12:12:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Kelantan Sultan urges graduates to become job creators, not job seekers",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVd5bXg1RDJWcklrRmtMSW5zVjJoMWROQ1N1NmJkRHFlNjlhd0JnZjVMamZJMk5RYTh2SmxvRW5ueXc5VE9ZeHZxbWgtV1JjQmloVUxaLWljZ3lWS0lRTVc0bHVrQTdobHB0aV9TUVctdDRvTzM3SXJVU3BtNXVqdjZPdTdza2pxRGNIT0pabmxEMDRnN1JfSEtDUGNudnpEeGpOT3NzTzFTdllROE13S00xTTJPR3RJUjVrUUxCMWJJd9IBwgFBVV95cUxQeVd5bXg1RDJWcklrRmtMSW5zVjJoMWROQ1N1NmJkRHFlNjlhd0JnZjVMamZJMk5RYTh2SmxvRW5ueXc5VE9ZeHZxbWgtV1JjQmloVUxaLWljZ3lWS0lRTVc0bHVrQTdobHB0aV9TUVctdDRvTzM3SXJVU3BtNXVqdjZPdTdza2pxRGNIT0pabmxEMDRnN1JfSEtDUGNudnpEeGpOT3NzTzFTdllROE13S00xTTJPR3RJUjVrUUxCMWJJdw?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-01T11:32:56+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Asia-Pacific growth to moderate to 4.3% in 2026 — Moody's Analytics",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDTXdXckhkS3JQaDg5d0psVlk0UnJTWExiclNlS1o3dmY0WDlITkZxSmJ6OG51QWNDZHQtOEFMd1dUQ0xvaXJEQ1BwOEJnQjFh?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-01T11:28:31+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
      "title": "Our Economic Resilience Is Real, Risks Are Structural, Not Just External",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzJPb1JEWFYwaWpGWkN4UzJjNHFra1VKQmVUYnNSQ3M0Z3ozaGRibWxNV3hwQndkRkJmSFdQb1U3T3BKVmFhdGlHYWF5X25ReXNMb0dYR0JRWXNBbXRzX3JZd1Qzanh1Rl9Fbk83OXFzcF9GeWhKOXJRQkZ2bUtlX3BneEEyX1pJRHRoQzBXVGNmODhRV0p3aTNtaWNwa1VURjZBTlJGMWpUY2Y1cTRqMFBGUWFtZw?oc=5",
      "source": "BusinessToday Malaysia",
      "published": "2026-11-01T11:28:11+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "China's new ambassador to Malaysia prioritises trade, AI and semiconductors",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RYm5qellYc0JmZ1ZPUnlpSU1yUE9aN1R5WFVjcExoclhKT24yZUMwSlRNa3VEVmJMYmJDVmhzMGtEVVNGR3lXelJ4SHUtd1VNZXd1UA?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-01T10:47:51+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "'70/30 my fault' - Ogura and Bezzecchi talk Sepang clash",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQS1nMlo0UERJQVY4WlR3eUFsVUt4UEVsOVltQ0lvdEFlRHZfUEhrYVgzRTBvdkxvUm9WeXpaQ0JyT1Myd2pMdWtIWUpSYi1hSVRIS21MSEdlSHJ6RWJJZzUzX2dUT1lVNXBITzFPeUJWcF96MGp2d2xEaDR3RmZNeW0zMnUwZnRUekJTTldDbmVrWUFPWXRFX2dQcE9EaEpsWjJ0dE03dTczaEdxUDVCYl9LaWdES1lkalJpa1pn?oc=5",
-     "source": "motogp.com",
-     "published": "2026-11-01T10:45:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "VIDEO - Ai Ogura takes fourth after intense contact with Marco Bezzecchi in Malaysia MotoGP",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWI5NFg1b2J0d1RlbVR0aXJNb0JuMHd1SWhlZGVsTHFUWFlmTzh1U3ZEdXg5bWsyY2hsLWhBVmMzQ0liOHFpaFZ0YkU2UmNfUzVsZDRZbk9JQTB2NTNDcVpFYmp1MEhHX2dfRzRRa21wZ01PeWVBTWlQUENzZHNtUDlkRlNwcE83VjdLMGhpUUtKcXdwYVVpVDhGSzlqUkxsU2RxSG55UHJndkE3di1fbmtBUTRwNjlXSzRJ?oc=5",
-     "source": "Motorcycle Sports",
-     "published": "2026-11-01T09:20:21+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "'Our system not compromised despite vendor's cybersecurity breach', says Malaysian Airlines",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDhLTWhLWWt2TDJlSHdlUzgwNFlQTzctdjh6emxjVHdadldnOUlYY2lGUDVCcmI5NFVMYTNyd2xXVVd5T1pMazJTWVRyR21FTGhhNnlwVXVHRWVVYmNkUC12dHh1WmxFcUFuSUtUdzZZNHZWSHZZaEU2eFZOUVhUZXRWbFZoTHZ0UWlhR0hhUFpQYTFyWkxUTjk2U3Zvb3RyeHQwZFMzMzl0bmdsbUNqUGtaLVlPSjhfdzlYaGswMkZ6Nzc4UnJzQndHcG5yMUhHN25xTDA3QUlRN2VSWmRN?oc=5",
-     "source": "The Star",
-     "published": "2026-11-01T09:19:00+00:00",
      "summary": "",
      "also": []
     }
