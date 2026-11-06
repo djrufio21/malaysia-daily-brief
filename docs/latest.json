@@ -1,9 +1,25 @@
 {
- "generated": "2026-11-06T17:59:37+00:00",
+ "generated": "2026-11-06T23:12:19+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Deepavali or Diwali? The story behind the two names of the Festival of Lights",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/07/deepavali-or-diwali-the-story-behind-the-two-names-of-the-festival-of-lights/240240",
+     "source": "Malay Mail",
+     "published": "2026-11-06T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 7 — As Malaysians prepare to celebrate Deepavali tomorrow, a linguistic debate about the Festiva...",
+     "also": []
+    },
+    {
+     "title": "If Malaysia plans to roll out a new long-term care insurance, what lessons can be learned from Singapore?",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/07/if-malaysia-plans-to-roll-out-a-new-long-term-care-insurance-what-lessons-can-be-learned-from-singapore/241731",
+     "source": "Malay Mail",
+     "published": "2026-11-06T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 7 — If Malaysia was to introduce its own national insurance for long-term care (especially for o...",
+     "also": []
+    },
     {
      "title": "Why raise house arrest questions only now, Umno asks AGC",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/when-raise-house-arrest-questions-only-now-umno-asks-agc",
@@ -147,28 +163,28 @@
      "published": "2026-11-06T12:24:15+00:00",
      "summary": "KUALA LUMPUR, Nov 6 — A vehicle believed to be carrying former prime minister Datuk Seri Najib Razak returned to K...",
      "also": []
-    },
-    {
-     "title": "Melaka polls: BN, Perikatan pledge RM30b investments, free water and no quit rent hike in joint manifesto",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/06/melaka-polls-bn-perikatan-pledge-rm30b-investments-free-water-and-no-quit-rent-hike-in-joint-manifesto/242249",
-     "source": "Malay Mail",
-     "published": "2026-11-06T12:12:25+00:00",
-     "summary": "MELAKA, Nov 6 — Barisan Nasional (BN) and Perikatan Nasional (PN) today launched a joint manifesto for the 16th Me...",
-     "also": []
-    },
-    {
-     "title": "Bright lights seen in Malaysian skies as Nasa satellite burns up",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/06/bright-lights-seen-in-malaysian-skies-as-nasa-satellite-burns-up",
-     "source": "FMT",
-     "published": "2026-11-06T12:12:00+00:00",
-     "summary": "The government's Space Authority Division said there were no reports so far about any suspected objects of space debris being found.",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "More than 400,000 German workers take action for higher pay",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/more-than-400-000-german-workers-take-action-for-higher-pay",
+     "source": "FMT",
+     "published": "2026-11-06T22:02:00+00:00",
+     "summary": "Germany's biggest union organised strikes and rallies after several rounds of negotiations with employers on behalf of its members ended without a result.",
+     "also": []
+    },
+    {
+     "title": "Nasdaq rebounds but posts fourth straight weekly decline",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline",
+     "source": "FMT",
+     "published": "2026-11-06T21:51:21+00:00",
+     "summary": "Gains within technology were broadly shared, underscoring investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year.",
+     "also": []
+    },
     {
      "title": "US job growth tops expectations in October",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/11/06/us-job-growth-tops-expectations-in-october",
@@ -252,22 +268,6 @@
      "published": "2026-11-06T07:20:00+00:00",
      "summary": "Shares in Taiwanese chipmaking giant TSMC plummeted as much as 9.8%, dragging the Taiex down as much as 9% during trading.",
      "also": []
-    },
-    {
-     "title": "Singapore Airlines to spend US$1.6bil on luxury cabins",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/06/singapore-airlines-to-spend-us-1-6bil-on-luxury-long-haul-cabins",
-     "source": "FMT",
-     "published": "2026-11-06T05:50:00+00:00",
-     "summary": "The airline has unveiled new cabins in all four travel classes in the biggest and most comprehensive overhaul in its history.",
-     "also": []
-    },
-    {
-     "title": "Chinese stocks tumble as global tech selloff deepens",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/06/chinese-stocks-tumble-as-global-tech-selloff-deepens",
-     "source": "FMT",
-     "published": "2026-11-06T05:33:39+00:00",
-     "summary": "The Shanghai Composite Index fell 1.1%, while the tech-focused Star 50 Index and the AI Index slumped as much as 5% before recouping some losses.",
-     "also": []
     }
    ]
   },
@@ -275,9 +275,49 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Treat cybersecurity as a national resilience issue",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzFvWEV1TnVhVmw4a3F5NTZfQ3JiVDFaTnNhbnh2LXlDWmRHYktHRWd1TVd5cXYtR1A2NE0za2Mwb2R6aGJtSXJJcElYWnpFX1JoMnRSTHlXdXRzRlV1NHRWcTZZcG5TNzlKQXdjYklwbnlEa25rNzJwa2RNX3dHMGsyYnJ2X1VvdWo3ZGFTeEtMTVJSSlhMTlhWcUtXeGtHLXo1eDRMTQ?oc=5",
+     "source": "The Star",
+     "published": "2026-11-06T23:09:41+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "SoftBank’s US$50bil investment plan in Malaysia",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVmlBamNYZHk2ME12bHlWOXhtbzVkOHJZdEhQRkQzT3FDMXFoTmdiNDFkRy1xUzNnTjJOdWFILUhKZ0NoQkRaWFhGcVJPVlQxa0Qxa3RBbG5ERGNwN0pXOUdWeU9XS09jRU90azVCOFlzQ1ZHemhmeVphSUpscW1xYmxJWEdialAwZzl6TjhrSFJhNjREU1J4UWswUm1rMC1QNk1PaC1WRXVzQQ?oc=5",
+     "source": "The Star",
+     "published": "2026-11-06T23:03:45+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Cybersecurity – many agencies but how secure are we?",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbDEyT21zRmxKZVMxbVJXTlBQNXhkNzlwbUdraU9xMzd6QnRqWGlIN1FIMzNBUkh3d1l6QXh3bVItNkhBXzRsYXU1bDJqMXpISGdtdHZMcTdGV2RDRlVxRzNxcGZuTU9IT0JZU2VqcUU0OERMaHR2MHVEYVhLQVpmdzdwcVJHVjU3bExDb0NIS3JPeWs4elFsRFZqNmtYV3BoU3dQc0FlaE5zT0k0S1kyWXRB?oc=5",
+     "source": "The Star",
+     "published": "2026-11-06T22:06:10+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Bitdeer To Continue Investing In Malaysia, Confident In Madani Govt's Policies -- PM Anwar",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jZ2cyOThuQ0FURUtLMWh3TEtuQVNYWkZzUEFxUHd6TEtLaTYzWnNLTzVQYkVLWmg4QU1WRl9tb2w1ZWJoUGZZS3hwOHM3LVpOWjZTNnRwNlpmdw?oc=5",
+     "source": "Bernama",
+     "published": "2026-11-06T20:37:30+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "OPPO Unveils ColorOS 17 Globally: Silky Smooth. Flow with AI.",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5tREtISlNVMXV1UmdCeHYtcmRKOGM5Qmhud3FUOW5uNUh6Ymh3NFg5dnNOVEtIVEhiTkV2M0pBQnFlLU9QY1NTNlhlYnNKZ3BZOGZhMHZhZTZhZjRncXhkWFpBbmhSS1k?oc=5",
+     "source": "OPPO",
+     "published": "2026-11-06T18:15:46+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Malaysia Arrests 13 Suspects in Alleged Fake Crypto Exchange Scam",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxV1FQRW5qdUE3enBxNFpzWi1kUUMwRF9MOTlkN2hieVl2c212M3hCa0FrRXBPR0U3aDJlYzVWLS12RmxrSi05MXphck9iUGV1alJzUGd1Mnh3aVE?oc=5",
-     "source": "www.tokenpost.com",
+     "source": "TOKENPOST",
      "published": "2026-11-06T17:32:52+00:00",
      "summary": "",
      "also": []
@@ -287,6 +327,30 @@
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeGl0M3ZTelZxTzhCaVhCMXllV1FUODhvMVByMUxlcVpuaTg3Rjd3UHA3TkJDSHdkdzlWNG11YXl1dE5Na1RoSXlwR3FaNWg1V19EODNMWjNJYkYzNmJiQlpIOWZlbW5uejY0YWtzTFdiV3k3WkNMOWtyZ0Vmczc3Q2FIeWRxazh6QW5OU0hQMi0xUi1OQjVwNHk3YWNxQQ?oc=5",
      "source": "CarbonCredits.com",
      "published": "2026-11-06T16:38:10+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MCMC removes 724,879 gambling content, blocks 2,603 sites",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkFuTFhyOFAwM1BENDlWV29YX19KWjJxVE5XcG82eDZsNGF5NTA1T0Q4ZFBQbElETkpmNG9NczZhNnNyNlBqUGV3Zl8wa0MxYXh4REQ4SVRQQjktODlYN19LdkJIcVhzM2NfNE02ZW9vSV9rWFhReGZ6MlZCYTMzejRYYVE?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-06T16:32:09+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Japan launches emergency cybersecurity package after wave of attacks",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa2REcU1WaktmM29pMlpPVWJxdEdUdWc1WEMyRTl0elB2Z0NHaFNPazhMYS1TT1RWOGpYTlFuNEYxR2l6bUhaR09acVdTWUFpRDVSb2xOalkwUmdPRW5Va0wxeWJ0T2dOYmprLWxvWURvSmtoRFJ2VzJmcVQ3VmE5dXJyZC04RUx1TU9lSDNrN180VHEwXzl6YXBDU1NnVjY3UjBEbTJsLTBacHFBUHByR2V5d2NYSHhIUzNQUFd5MjVpclUwclVB?oc=5",
+     "source": "Free Malaysia Today",
+     "published": "2026-11-06T15:15:37+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Democrats planning flood of AI bills when they take control of Congress",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVXFRbFpzV051YTN6blNMRFhnd1Z4amtsdUpVa2I2bE9MV09XU0h1QzExV3JhQjRnQmZnNHd6Ukl3U1luNGtYcXN6azJPelNGWU5kVExsSVU4ckVtMDNxY2VBNk5LYjFwS0FKaGFRdzZCVlRoaGFYVVRKTmVPVGZwV3lKbm9ZM3FDS2RFc2ZmeGZZcEhhYXJrU0dtbVdrUFdfT0hwMUtWUHlGRjlNby1heWVzUDhZaXd0bnZhVnJTNU1XX1A2MlVEcml2QQ?oc=5",
+     "source": "Free Malaysia Today",
+     "published": "2026-11-06T14:35:07+00:00",
      "summary": "",
      "also": []
     },
@@ -303,72 +367,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53a0RIYVVqTUZacXZKNzRLaU16ZVcyRTl1Z083SEs5WVM3ZzEwdm1HMjd0RXJSZkVwaEg4UUhHNkNFUElPUGl2dVcwU2k1TXdv?oc=5",
      "source": "The Edge Malaysia",
      "published": "2026-11-06T13:28:12+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Zetrix AI Receives Letter From Bursa Malaysia Securities Berhad",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVWtHOXpydU1vY0NMMW5CT3VoamVWYnM0VFRMX3pBWlZWSFlPV3cxWHdsUWJrYlc0U0lRbmZMOTF1NGZMbUlvY0RpQ2FfYzROSUxCanVUMFhUaWdsenlScXdZQU1ySFAzVTR2V2ZVZTVsUXNodGZVNkJ1UHFWaTAyRUFESFhEVmJfQUZsUUVHX1hqYW5jM1E2WWp5ak9MUGJTZlB0WVhNc2EtZFhCNm55RDR4a24tU25WaUJ1bzRndmJxQVo4SzBGbWdBanQtUQ?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-06T12:41:32+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "MCMC removes 724,879 gambling content, blocks 2,603 sites",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkFuTFhyOFAwM1BENDlWV29YX19KWjJxVE5XcG82eDZsNGF5NTA1T0Q4ZFBQbElETkpmNG9NczZhNnNyNlBqUGV3Zl8wa0MxYXh4REQ4SVRQQjktODlYN19LdkJIcVhzM2NfNE02ZW9vSV9rWFhReGZ6MlZCYTMzejRYYVE?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-06T12:28:54+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "How does an AI token travel from China to Malaysia?",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81VHpNZ1RmcE5XZ21jNDZzWkZicF9xU0dxcGRXTWQzWkV1Si10N3JmUmpMSEJDSVZhclpaMlR0ZDVFMGdVZTVMSFBoX3piSUpHZWoxdk1rZmdLTHFBYWk4M9IBXEFVX3lxTE5HYWhqcDM5WF9TX3kxbkhIOVpGX0xvalVaOFQ3TVZhTG5LOWllU2VJS2U5UVg4RG1xTWhOSWZodlVoNU9KR0xuYWxxVzNpZWxoMjkwVTd5V0xoRTU3?oc=5",
-     "source": "Modern Ghana",
-     "published": "2026-11-06T12:20:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Bursa directed Zetrix AI to address 2025 dividend non-payment, disclose material information",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNekgtcXp5TEZqc3IzWTdhdkhsbjFQZ2NieGI5bGpYV01HX1FUckNTMFJHV2Y1aVZENzdsVFM0UUFjb3ZJeWhpSjJEQkdrRWZEQmxHWTVMOXlMTDh1b2Z6cE9WZlZKb1U2bDBLY3IzMUhPTVhTSy1TVFFjZDRHcmZQd0FwazFlMG5CQThvenA2TURNSXZsdDBkX2oyTHFGZ0R1ME5NMXVVUllyM2J3VUQwckY0djlGYzNIMkRtetIBvAFBVV95cUxNekgtcXp5TEZqc3IzWTdhdkhsbjFQZ2NieGI5bGpYV01HX1FUckNTMFJHV2Y1aVZENzdsVFM0UUFjb3ZJeWhpSjJEQkdrRWZEQmxHWTVMOXlMTDh1b2Z6cE9WZlZKb1U2bDBLY3IzMUhPTVhTSy1TVFFjZDRHcmZQd0FwazFlMG5CQThvenA2TURNSXZsdDBkX2oyTHFGZ0R1ME5NMXVVUllyM2J3VUQwckY0djlGYzNIMkRteg?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-06T12:07:09+00:00",
-     "summary": "",
-     "also": [
-      "The Star"
-     ]
-    },
-    {
-     "title": "Only 4% of Malaysians Feel Phones Are Safe From Scams",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlBKNlpoXzJadEdxd3hldmhoVEZQMG8wOHI5Y2Q4V0hoVjlvVXVULWNuMnhNSEZwQXFtemMwalprZTdzOXFIdWpnX2FtSjNBQWhWbzdEV3RvZjFOSktYWS1iQzBFSlVHUHhFTUg1RENFTlpUN1hzYmxCRC04ZWhZUmJ4c28?oc=5",
-     "source": "SoyaCincau",
-     "published": "2026-11-06T11:23:33+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Legal action against MyEG, Zetrix AI in progress over unpaid collections: Loke",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZTVTS0lIeFVaV1JQUm9jRmhpdUJQQ2FzakRCeG1VSXRhLUtjTlVZekZEbFc1OHhabXFrcDR5d1hxd0lpdktNcmNSUWpRSWZFMWg2YTVZTE9kdmhHekd6alduUllTbVRKcmVfdGJha2tUNFZrMjk0aDlBQU5PM1FIcjZiN2tTWmlxN04tVTg2VmFyWlhIUGxiMWtpa21SNUJmTXc?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-06T10:58:56+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "US targets Cambodia-linked scam network with new sanctions",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0QXdoZ1ItZlZtUUI1bVgwUzcxNEc4TDBQcGs5dkg4anM3bF9QZ1ZJZDFYUzdTaWs4YmI1bXdYMkk1VVh6aGgzV2R0cVlyMWw0TFVtc2dKLVgtb1h3NG4yRkctSnZCdlRqQURWVEtSeUxZS1ZkUWpyYzNZVkRfdw?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-06T10:48:42+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Digital ministry to strengthen local talent development from technology consumers to creators — Gobind",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EMzNrN1NFRkU5Z0Vnd1lJWXYxTDJhVlRZYlJSRmtrZXAzOVU2YVFNNXlLSzBhSS1pMWFocFNxc3k3Q0x2OVVPaF9DT0VfVVc3?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-06T10:23:56+00:00",
      "summary": "",
      "also": []
     }
