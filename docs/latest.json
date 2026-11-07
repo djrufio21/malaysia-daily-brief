@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:31:17+00:00",
+ "generated": "2026-11-07T20:55:00+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -241,10 +241,20 @@
    "name": "Cyber & Tech",
    "stories": [
     {
-     "title": "Samsung Galaxy A18 Launches In Malaysia As The Latest 4G-Only Budget Entry",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xQTBrd1hJeDBQSFJZT0xKOHNQN1dyRTVwRTNNNm1yMDlOdzIzaDNwWUFtTnhwX0tycTVYQ2ZCRXJSTWxrN2hTZzRtRlA5QUJoLWpleUVtMzk3U0ZsNUVyd1Z4aWNnU2ZuOHJ0bmNCZlpRUmFOSDhKaFFn?oc=5",
-     "source": "Pokde.Net",
-     "published": "2026-11-07T15:53:39+00:00",
+     "title": "Malaysia's cybersecurity situation remains under control, says security council",
+     "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmOXlFV2huYWNqQk1KclppRlZXQ01wdlViMDFPbUIyZlQxSFowYjFoWHA5VkZJUWFwSmJfWk1PakllQUI1V1pZ?oc=5",
+     "source": "Lumi News Malaysia",
+     "published": "2026-11-07T19:56:37+00:00",
+     "summary": "",
+     "also": [
+      "NST Online"
+     ]
+    },
+    {
+     "title": "Govt to ensure existing industries not affected by power supply to data centres, says Johari Ghani",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sdTkxNTVBYWt2c0xNa255NU91ZDE0QjRLYzlRZjhMSU9NQ3o3UWQ5Mk5PVmZTRTNMbTRGUHNyTUVzRGI0aXpHMTBqUmtzVHRV?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T19:25:22+00:00",
      "summary": "",
      "also": []
     },
@@ -252,15 +262,31 @@
      "title": "Sunway Construction wins RM1.74 bil contract to build another data centre in Selangor",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWVMxTWR4cktEeFJyVjM2eE9lTWdXcGw5WG5Pc3NXdXNKSFJZZEJLYzFjY0ZtMldVUjJzc0RJeXRlazhIMlhwcHdQWWlYSjA4?oc=5",
      "source": "The Edge Malaysia",
-     "published": "2026-11-07T15:43:39+00:00",
+     "published": "2026-11-07T18:38:57+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Malaysia's cybersecurity situation remains under control, says security council",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPY0N2elhDY25XUWtDSndjSW16UDdMZFF4SVhuVXFPcDJ5RmNDbml6MVJXc3F4cGFTVVl1Zm00Q1g2SUxxbjUtWjhyRDFSWDNDS21tZm5ERjJrT1d4ekZUQXVQZkk3dnNmWTFNRmtDSWxyNG12YlJRSTJWNzJibEFGblhxeFpTNEw3MV95MkJGVVlncmloOU84RmRhZ2pOTXg1N0FsOUVocnNFSGNRSXJkR0QyVTNGR2VPLWFZellRMUYxVnZUY1NUb0hhRVduOFXSAcIBQVVfeXFMUHhndnJ0cTQ0Q2hLVl9Teng0eVd4WWtQbFFiVHEzT2NYcGZPbWhoQ2ltZXFIdzNldHp5Qk9zQUtzX2NiRHd0VTBCV0ZRUWF5bWRpel9ia3JyTkpXZlJoV3pwTnRlOHhPN243S2gzb1JoTk5KVjNyTjA1ZGhJSDlFRkZTLWpJVzNiVDhESWtZZnlNRDB2bmRjVlNlR01zaHk0M0M4bmRQUHNuREpDN3BJRFpEOTF3X1NFdm9TZVd5SUVmYVE?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-07T15:32:18+00:00",
+     "title": "MARC Ratings downgrades Zetrix AI sukuk to default over unpaid RM25m",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OSjg0TXBsMHQ2cnFqbVdWRG9sdmVLeEhnZEc4OWFkakhKT3RSeGIyd3l5WW5BLWs1UDhlMl9XRkRsZ3hFRnJYdTBzaVV4R0FU?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T18:38:56+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-07T17:51:16+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Samsung Galaxy A18 Launches In Malaysia As The Latest 4G-Only Budget Entry",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xQTBrd1hJeDBQSFJZT0xKOHNQN1dyRTVwRTNNNm1yMDlOdzIzaDNwWUFtTnhwX0tycTVYQ2ZCRXJSTWxrN2hTZzRtRlA5QUJoLWpleUVtMzk3U0ZsNUVyd1Z4aWNnU2ZuOHJ0bmNCZlpRUmFOSDhKaFFn?oc=5",
+     "source": "Pokde.Net",
+     "published": "2026-11-07T15:53:39+00:00",
      "summary": "",
      "also": []
     },
@@ -289,50 +315,26 @@
      "also": []
     },
     {
-     "title": "Cover Story: What’s left in Zetrix AI?",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50eG9YaVNja05oTW9LakU2RnV5NF9YT3JpZF84bF9ic2RxMklWSGFBTE5rdHRXV1JGNHJuQk11NlJORk1IWkkxbk42Njg3cFJq?oc=5",
+     "title": "Saudi Arabia briefly issues threat alerts for 2 southwestern cities",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczBFVzdMcklOU1Ixa0toVUdCeFRfckNVUFRDalI3Nm5zdHd3Y2FhZUdLd19yUFdkcmVVTWpyVGdRV2c1RXF0TWtxTmhsZDBvNTlHeHYtSGFxWEo2MVhlaVJWM2lQMENSelJUQWdvdjBNWVc5bzRXbE02ZWRCUlFSYjZUTTZxNzF5Qy0xRklHTU90R1A0a09KRV9FZ0wyeWZuT1YyWloxb1ExbEFJS01SZTRqNzNMQQ?oc=5",
+     "source": "The Malaysian Reserve",
+     "published": "2026-11-07T14:25:42+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Tech stocks tumble as AI trade concerns deepen",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1bEtFbzVmcmVfTXJnVkNuT0NpR2dLS3FaRnd6RGx6b0VsQ0VFUnVEOXVydUhsZDJ5UDk0TE15OHdBS3NyMHhxbGpQVktrcEMy?oc=5",
      "source": "The Edge Malaysia",
-     "published": "2026-11-07T13:13:43+00:00",
+     "published": "2026-11-07T13:56:21+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Cambodia raids 972 scam sites, deports 23,760 foreigners",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRy1DN2doTHhqN3p2OFgyNFFCVW4tTnJwTEI4MTdQQjFqaDMzZEh4RVlxS25wZTc0QkxjX3JmNTJTSU5icEl1UVVjUW56Y3FfZ1ZVSTdhVXd0ZjgwbjhnbEk4cDhMc3VLLVhUbU81azNQd3VHU1FfNGN3SWF0eVRjQUhxSWdzS2VNVU1SeF9CVE9TWlRBOVp5U1U5UXBvcUthZUo4d3NOYXVaaTk4YVlYVHp2cDl6QQ?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-11-07T11:10:38+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Cover Story: HeiTech Padu: Collaboration with Zetrix AI for NIISe project lapsed",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hcElVN0FremNFMUJReFZkXzQxZFZZdkQ4NmpOd1FMQUp2T2FDM3hRdTExTS1PYTR6cWh6bUdDMmFZVXNHdDRWTFdhS0JPMkFZ?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-07T10:53:47+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Cutting through the noise: Where AI tax transformation finds its human frequency",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MbThjR2hRaDJRTXFBY0owUWxGV2ZINlc3OVZyRWhZNjNmSXBRZmlrTVpqX3k3WWh0YjNXeVByTXVBbU5OazE0d3g5REswSDVtaVppXzFUTmdyZw?oc=5",
-     "source": "EY",
-     "published": "2026-11-07T10:52:13+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Google invests $15 billion into Malaysia as Southeast Asia's data centre infrastructure ramps up",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ3BmdHdTWEM2c0FfZE1pcktialpSazlGNWhXYW5VMXI4SXpPVUhDMXR2MUJXMjA5VmNxd3dlNm5qVGNGdjBuOGhOdWJFcDlLeXMyN2NyR2NROGoxWDkxZlNCWWdzVWV1RU0zTU55djAwbm93T0xNYTdPQ1pCUEFUbUd6QVpZZFNpZGJqMWdiTGdzMDdydHc2WFYtQ0x0WnRsMXRBNXpjdXQwVlhFZU5QQUkyRk16am9DRXdhOExTeVFYS3laODNjbUZ1cjV0enNodXFuYk9GdGtnZ9IB3wFBVV95cUxNSmRzYW9YRGZIX2FTVWdBQXBpbGdJUG03bjBDY2M1RXo2RzM0Rk9lR1hlTHRjdVQ3NW5qQTFaT0UzMDJZVmdaVVBjSlpMM3Y3M1BxOWtQTVlvejU3dGNYdzJwOUhlNmRNQjV5SG9EZ1dndzBIdUViTE80cllhcXo0SW5zSFVqOHhZWk80X00zTmF5dEotX2g0TTNTaVVsYmw0bjBNU3JuWl80RG4xWjhxNjdpbEdoUlhqcWFnNjFHUy15aWNZM1pDVXZIVkllRkIwVE5TUkFtX3dDdklFNUd3?oc=5",
-     "source": "Khaosod English",
-     "published": "2026-11-07T10:23:42+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Online banking secure in Malaysia despite Bank Rakyat hacking incident — Fahmi",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1YS1piNzFPdFY5Qy00aENxWEFxc3lCd25HejVWUnFJMEdWZmo1ZVBjbWduS1BLN05oc0VfZlVPWGJxZkM0djFJTHJWMG00QndY?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-07T09:53:26+00:00",
+     "title": "Everyone’s welcome at the front door",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fc05mMVhkMnR5T29kWGdzV2FHOU1qVVBzeUZIdnRpOGxKa3V5bWJWMDA3QThFTnVyVkVvdV9JM2NMMXd6QnFYM1Fiai1JekhIMmNSemRzcEpFbVg3YllwTlQ0Wlc0Y3FmNXZ4Zmt4aVZGQktTQ04wRQ?oc=5",
+     "source": "The Malaysianist",
+     "published": "2026-11-07T11:30:37+00:00",
      "summary": "",
      "also": []
     }
