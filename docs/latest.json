@@ -1,9 +1,17 @@
 {
- "generated": "2026-11-07T20:55:00+00:00",
+ "generated": "2026-11-08T00:40:24+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Eat, mingle, celebrate: Five Deepavali open houses from Brickfields to Ipoh for all Malaysians",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/08/eat-mingle-celebrate-five-deepavali-open-houses-from-brickfields-to-ipoh-for-all-malaysians/242181",
+     "source": "Malay Mail",
+     "published": "2026-11-07T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 8 — If colours make up one half of Deepavali, food makes up the other. Wolfing down the cu...",
+     "also": []
+    },
     {
      "title": "Happy Deepavali from Malaysiakini",
      "link": "https://www.malaysiakini.com/news/888733-happy-deepavali-from-malaysiakini",
@@ -157,20 +165,20 @@
      "published": "2026-11-07T12:00:00+00:00",
      "summary": "The communications minister said hacking attempts detected so far had not resulted in data theft or affected the country's online banking operations.",
      "also": []
-    },
-    {
-     "title": "Reveal who’s responsible for house arrest delay, says Wawasan",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/07/reveal-who-s-responsible-for-house-arrest-delay-says-wawasan",
-     "source": "FMT",
-     "published": "2026-11-07T11:53:00+00:00",
-     "summary": "Party information chief Wan Ahmad Fayhsal Wan Ahmad Kamal urges the government to carry out the house arrest order immediately.",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Why the AI stock sell-off could matter far beyond Wall Street",
+     "link": "https://www.malaymail.com/news/money/2026/11/08/why-the-ai-stock-sell-off-could-matter-far-beyond-wall-street/242323",
+     "source": "Malay Mail",
+     "published": "2026-11-07T23:00:00+00:00",
+     "summary": "PARIS, Nov 8 — “Correction” is not the word investors want to hear, but the stampede out of AI an...",
+     "also": []
+    },
     {
      "title": "Musk’s futuristic Cybertruck rolls toward exit as Tesla pivots to robotaxi",
      "link": "https://www.malaymail.com/news/money/2026/11/07/musks-futuristic-cybertruck-rolls-toward-exit-as-tesla-pivots-to-robotaxi/242365",
@@ -210,36 +218,68 @@
      "published": "2026-11-07T03:31:00+00:00",
      "summary": "Eurozone finance ministers officially named former Dutch central bank chief Klaas Knot and Spain's Pablo Hernandez de Cos as candidates.",
      "also": []
-    },
-    {
-     "title": "Musk’s futuristic Cybertruck rolls toward exit",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/musk-s-futuristic-cybertruck-rolls-toward-exit",
-     "source": "FMT",
-     "published": "2026-11-07T00:13:53+00:00",
-     "summary": "Elon Musk says Tesla will stop building the truck at its Texas factory around the middle of 2027 to free up space for its Cybercab robotaxi.",
-     "also": []
-    },
-    {
-     "title": "More than 400,000 German workers take action for higher pay",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/more-than-400-000-german-workers-take-action-for-higher-pay",
-     "source": "FMT",
-     "published": "2026-11-06T22:02:00+00:00",
-     "summary": "Germany's biggest union organised strikes and rallies after several rounds of negotiations with employers on behalf of its members ended without a result.",
-     "also": []
-    },
-    {
-     "title": "Nasdaq rebounds but posts fourth straight weekly decline",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/07/nasdaq-rebounds-but-posts-fourth-straight-weekly-decline",
-     "source": "FMT",
-     "published": "2026-11-06T21:51:21+00:00",
-     "summary": "Gains within technology were broadly shared, underscoring investor faith in the AI buildout that has driven US stock indexes to dozens of record closes this year.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Malaysia, Pakistan discuss follow-up actions regarding detention of 130 Malaysians",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTmdLVE4ta2JpS0NNLTdyNURYX0RkbHV6Um43Q0hnQjVTUDJSSWFsNlJ4UmJRVG9DSnJpX0RlRXBwX0ZqOVpZbnNRVjN1c29odmRMVXgxb3pBMVNtUEI5UTA5SDFUWFY1bEN3VnJGQjVTUlR6STllRElqSG1NcjlGQVhtZUJlUlNpdVk5STFOaWVTdTZfN1NRdk1md1RndW9GQVBENEJCZE5HR3JiVGN6QWlWNFZwckZtdmx3?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-07T23:05:35+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Taipei, Seoul reel under chipmaker rout as AI frenzy unwinds",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZWEVzbHB2NUVMMmJ0MEgzT0R5NG8wT2I4bC1hSFRuZWdSZUhyejNwQ0M3cklPNkdpUWZwZ0R2UnZyVFJmbGVvVVp6SmE4YUxK?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T22:37:12+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Sunway Construction wins RM1.74 bil contract to build another data centre in Selangor",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWVMxTWR4cktEeFJyVjM2eE9lTWdXcGw5WG5Pc3NXdXNKSFJZZEJLYzFjY0ZtMldVUjJzc0RJeXRlazhIMlhwcHdQWWlYSjA4?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T22:03:33+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Google Stock: Alphabet’s $15 Billion Malaysia Bet Faces AI Capex Backlash",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaVM4WklSeWxWRHFhRktScnRLUDg1ZlAtMENzeExjdDFXRDBfOWtkSjl3WC15RXNVSjhHREFtcTVGSkl6eTRfdGdwajRJZ1I3MHl3c3JuMXhBMWFGSTdXRlJPejhjY2pidVZwN084UkhGOHBnT3NtV082ZFFXTUpIZXZTdWpPYU11ZlZEd3lXbHpSTlpvU0dTU0NHY1g?oc=5",
+     "source": "FinanceFeeds",
+     "published": "2026-11-07T22:00:44+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Penang police bust 14 online scam call centres, 141 arrested",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcmt5NVJualFUaDZTS050WlBDeDJXbEpzRVFnQkJIQ2l2a2NuWXdWaUQ3cTJYNkZCMm4tMlFEbWdFOFlGRWdkb1g4V1A0eEN2WlhfV1lGbmRPdFQxQVhxaEx1blhONTREYXNBVjVobjJ6eXNnbmI2V05teV9EX2xVckpSMk8xekRocGpHUXk5eEpVbU5nM1d0YTZhTkFYZw?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-07T21:44:40+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "ViTrox, Sunway Construction, Zetrix AI, SD Guthrie, Lotte Chemical Titan, Pentamaster, Kobay, F&N, Tanco, Alpha IVF, TT Vision",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tc1Nmb29VVDZ0UElmRGhzanNzZzNHcnN6WGNsNEJ5a1luWWNfMjZXcDlDbUd3SkxXa3lfVkJpSGVoalVYNWZyOVJwTHhIZnFl?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T21:38:18+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MCMC removes 724,879 gambling content, blocks 2,603 sites",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkFuTFhyOFAwM1BENDlWV29YX19KWjJxVE5XcG82eDZsNGF5NTA1T0Q4ZFBQbElETkpmNG9NczZhNnNyNlBqUGV3Zl8wa0MxYXh4REQ4SVRQQjktODlYN19LdkJIcVhzM2NfNE02ZW9vSV9rWFhReGZ6MlZCYTMzejRYYVE?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-07T21:32:02+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "Malaysia's cybersecurity situation remains under control, says security council",
      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmOXlFV2huYWNqQk1KclppRlZXQ01wdlViMDFPbUIyZlQxSFowYjFoWHA5VkZJUWFwSmJfWk1PakllQUI1V1pZ?oc=5",
@@ -255,14 +295,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1sdTkxNTVBYWt2c0xNa255NU91ZDE0QjRLYzlRZjhMSU9NQ3o3UWQ5Mk5PVmZTRTNMbTRGUHNyTUVzRGI0aXpHMTBqUmtzVHRV?oc=5",
      "source": "The Edge Malaysia",
      "published": "2026-11-07T19:25:22+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Sunway Construction wins RM1.74 bil contract to build another data centre in Selangor",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1KWVMxTWR4cktEeFJyVjM2eE9lTWdXcGw5WG5Pc3NXdXNKSFJZZEJLYzFjY0ZtMldVUjJzc0RJeXRlazhIMlhwcHdQWWlYSjA4?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-07T18:38:57+00:00",
      "summary": "",
      "also": []
     },
@@ -283,58 +315,10 @@
      "also": []
     },
     {
-     "title": "Samsung Galaxy A18 Launches In Malaysia As The Latest 4G-Only Budget Entry",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xQTBrd1hJeDBQSFJZT0xKOHNQN1dyRTVwRTNNNm1yMDlOdzIzaDNwWUFtTnhwX0tycTVYQ2ZCRXJSTWxrN2hTZzRtRlA5QUJoLWpleUVtMzk3U0ZsNUVyd1Z4aWNnU2ZuOHJ0bmNCZlpRUmFOSDhKaFFn?oc=5",
+     "title": "U Mobile EIP And Cradle Team Up to Support Malaysian Startups In 5G & AI Development",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pQWFPM3ktLWZJa3VMQ3JnMVJpanN2a2phdHFqUWJKSkRvVURaLWVmMl92WFplQUZEU2xxZm1ZN1pSSVFyam5HMW4xWVUwLThxZ1lGM2ZfYklIdHY4TUhmRHc5VktYbEpIR3B1WVBvWUhKdV9ibFU4?oc=5",
      "source": "Pokde.Net",
-     "published": "2026-11-07T15:53:39+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Google Malaysia Investment: US$15 Billion and 6 Big Wins for Jobs, Skills and Clean Energy",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWt0dUFaVmllNU9JREFUZmtUX0lVci1GdWhlc1dMOTh3azhzVmotOGlzdlVsdmlOVUloOWpXRU92ZzhUUmxPcjN0c1FZcWdZLTR2eWVZMGgxMURmdWJQS25lSnZFMGN3UEhHWUlZQ3l0VkhmODdrTnFETWZmRjVuUHlRMEJUR21DbEMxVmplVFlFMFNmMEFRY0FtWk00cmNsYkpxUlFzNzF5MzROWi1xS2hzaU1XaVk?oc=5",
-     "source": "Newswav",
-     "published": "2026-11-07T14:57:22+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "[Updated] Bank Rakyat Under Suspected Cyberattack By Threat Actor \"Marlanwg\", Website Briefly Defaced",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNnh5WnBreUdPWG5NVlMwWUNhMUpjTnltaENLNTh2aVp6NWJJT0V3N0E4Unh2VHdZVTRzSDdhNVdLUzlOV25EbllMeVlZaUVSNXVtcmQzN1BZdS1JeGFNbkNFOFlfeENmZHp3RmFDRzhIR3JW?oc=5",
-     "source": "Pokde.Net",
-     "published": "2026-11-07T14:48:09+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "MKN: National cybersecurity situation under control, threat level moderate",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2ZyY2RDYTV0a3k2THRXMXV5TTB5MVU3ejkxazFQajF4UUpRRERIUl8zTDBab2V5cXp5QjV5WDhCWGpUQzVnUW1lbDF1ajdMd2p6MlZEYi1SZl9GV2dTVUNHOV83X0NqX1ZzSzBPakpYdHVweGh6YXN2MjNHTFJpT3lfeVB6SHdNUElWZ2tBa0J5QkxnNjdwNzBES29oMVhYZ1hwNTF0NTVmbXdBQVBCbDFQYzEtQmc?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-11-07T14:32:20+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Saudi Arabia briefly issues threat alerts for 2 southwestern cities",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQczBFVzdMcklOU1Ixa0toVUdCeFRfckNVUFRDalI3Nm5zdHd3Y2FhZUdLd19yUFdkcmVVTWpyVGdRV2c1RXF0TWtxTmhsZDBvNTlHeHYtSGFxWEo2MVhlaVJWM2lQMENSelJUQWdvdjBNWVc5bzRXbE02ZWRCUlFSYjZUTTZxNzF5Qy0xRklHTU90R1A0a09KRV9FZ0wyeWZuT1YyWloxb1ExbEFJS01SZTRqNzNMQQ?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-11-07T14:25:42+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Tech stocks tumble as AI trade concerns deepen",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1bEtFbzVmcmVfTXJnVkNuT0NpR2dLS3FaRnd6RGx6b0VsQ0VFUnVEOXVydUhsZDJ5UDk0TE15OHdBS3NyMHhxbGpQVktrcEMy?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-07T13:56:21+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Everyone’s welcome at the front door",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Fc05mMVhkMnR5T29kWGdzV2FHOU1qVVBzeUZIdnRpOGxKa3V5bWJWMDA3QThFTnVyVkVvdV9JM2NMMXd6QnFYM1Fiai1JekhIMmNSemRzcEpFbVg3YllwTlQ0Wlc0Y3FmNXZ4Zmt4aVZGQktTQ04wRQ?oc=5",
-     "source": "The Malaysianist",
-     "published": "2026-11-07T11:30:37+00:00",
+     "published": "2026-11-07T17:00:37+00:00",
      "summary": "",
      "also": []
     }
