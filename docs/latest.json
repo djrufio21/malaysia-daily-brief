@@ -1,9 +1,41 @@
 {
- "generated": "2026-11-10T17:53:17+00:00",
+ "generated": "2026-11-10T23:25:27+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "ECRL, bus, plane or car? Weighing the cost, time and convenience of getting to the East Coast",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/11/ecrl-bus-plane-or-car-weighing-the-cost-time-and-convenience-of-getting-to-the-east-coast/241779",
+     "source": "Malay Mail",
+     "published": "2026-11-10T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 11 — For travellers heading to the East Coast, the options may soon extend beyond the familiar b...",
+     "also": []
+    },
+    {
+     "title": "How much has China influenced Malaysian Chinese youths?",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/11/how-much-has-china-influenced-malaysian-chinese-youths/242746",
+     "source": "Malay Mail",
+     "published": "2026-11-10T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 11 — China’s growing influence among Malaysian Chinese youths is increasingly v...",
+     "also": []
+    },
+    {
+     "title": "IMAN Research finds gaps in how Chinese youths understand politics and public institutions",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/11/iman-research-finds-gaps-in-how-chinese-youths-understand-politics-and-public-institutions/242749",
+     "source": "Malay Mail",
+     "published": "2026-11-10T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 11 — A young Chinese individual may know about the latest political controversy, follow deb...",
+     "also": []
+    },
+    {
+     "title": "AG was right to question Najib’s discharge order, says lawyer",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/ag-was-right-to-question-najib-s-discharge-order-says-lawyer",
+     "source": "FMT",
+     "published": "2026-11-10T22:30:00+00:00",
+     "summary": "Hafiz Hassan says corrections to the earlier order justify the attorney-general’s scrutiny, describing accusations of defying the king as misplaced.",
+     "also": []
+    },
     {
      "title": "Use Melaka polls to express views on Najib, Loke urges voters",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/use-melaka-polls-to-express-views-on-najib-loke-urges-voters",
@@ -37,19 +69,19 @@
      "also": []
     },
     {
-     "title": "K’tan Bersatu chief confirms receiving letter on termination of exco appointment",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/k-tan-bersatu-chief-confirms-receiving-letter-on-termination-of-exco-appointment",
-     "source": "FMT",
-     "published": "2026-11-10T14:37:00+00:00",
-     "summary": "Kamarudin Nor, however, refuses to reveal the letter’s contents.",
-     "also": []
-    },
-    {
      "title": "BN looking to wrest at least 1 Chinese seat from DAP in Melaka",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/bn-looking-to-wrest-at-least-1-chinese-seat-from-dap-in-melaka",
      "source": "FMT",
      "published": "2026-11-10T14:37:00+00:00",
      "summary": "Melaka BN chief Ab Rauf Yusoh says while BN naturally hopes MCA will win all four seats it is contesting, the coalition has set a more realistic target of three seats.",
+     "also": []
+    },
+    {
+     "title": "K’tan Bersatu chief confirms receiving letter on termination of exco appointment",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/k-tan-bersatu-chief-confirms-receiving-letter-on-termination-of-exco-appointment",
+     "source": "FMT",
+     "published": "2026-11-10T14:37:00+00:00",
+     "summary": "Kamarudin Nor, however, refuses to reveal the letter’s contents.",
      "also": []
     },
     {
@@ -91,7 +123,8 @@
      "published": "2026-11-10T13:18:00+00:00",
      "summary": "The company says it is taking the necessary steps to settle the outstanding amounts to holders as soon as practicable.",
      "also": [
-      "Free Malaysia Today"
+      "Free Malaysia Today",
+      "The Star"
      ]
     },
     {
@@ -133,44 +166,36 @@
      "published": "2026-11-10T12:57:14+00:00",
      "summary": "SHAH ALAM, Nov 10 — Police are investigating an incident involving an individual setting off firecrackers at the t...",
      "also": []
-    },
-    {
-     "title": "Mental health patient found dead, fellow resident arrested",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/mental-health-patient-found-dead-fellow-resident-arrested",
-     "source": "FMT",
-     "published": "2026-11-10T12:34:00+00:00",
-     "summary": "The victim, who suffered from schizophrenia, is believed to have died from chest injuries.",
-     "also": []
-    },
-    {
-     "title": "‘Alhamdulillah’: Rosmah welcomes news of Najib’s clearance for house arrest",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/10/alhamdulillah-rosmah-welcomes-najib-home/242751",
-     "source": "Malay Mail",
-     "published": "2026-11-10T12:31:47+00:00",
-     "summary": "KUALA LUMPUR, Nov 10 — Datin Seri Rosmah Mansor has expressed gratitude following the return of her husband, forme...",
-     "also": []
-    },
-    {
-     "title": "Chinese national who drove off with son clinging to car nabbed",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/10/chinese-national-who-drove-off-with-son-clinging-to-car-nabbed",
-     "source": "FMT",
-     "published": "2026-11-10T12:30:00+00:00",
-     "summary": "The suspect allegedly asked his son to alight from the car and drove off, apparently to teach him a lesson after the boy got into an argument with his younger sibling.",
-     "also": []
-    },
-    {
-     "title": "Investigation papers on Penang assemblyman accused of injuring wife still under DPP review",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/10/investigation-papers-on-penang-assemblyman-accused-of-injuring-wife-still-under-dpp-review/242750",
-     "source": "Malay Mail",
-     "published": "2026-11-10T12:28:00+00:00",
-     "summary": "GEORGE TOWN, Nov 10 — Penang police are awaiting further instructions from the Deputy Public Prosecutor (DPP) on t...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Nvidia scandal rocks tech world Web Summit",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/nvidia-scandal-rocks-tech-world-web-summit",
+     "source": "FMT",
+     "published": "2026-11-10T21:53:00+00:00",
+     "summary": "The Web Summit in Lisbon opened amid a scandal involving Jensen Huang, head of Nvidia, the dominant supplier of advanced AI chips.",
+     "also": []
+    },
+    {
+     "title": "US stocks fall as inflation data boosts bets on larger Fed rate hike",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/us-stocks-fall-as-inflation-data-boosts-bets-on-larger-fed-rate-hike",
+     "source": "FMT",
+     "published": "2026-11-10T21:17:19+00:00",
+     "summary": "Core CPI, which strips out volatile food and energy prices and is referred to as 'underlying inflation', came in at 0.3%, above the 0.2% consensus.",
+     "also": []
+    },
+    {
+     "title": "Nvidia heads for US$470bil two-day wipeout as CEO affair fallout deepens",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/nvidia-heads-for-us-470bil-two-day-wipeout-as-ceo-affair-fallout-deepens",
+     "source": "FMT",
+     "published": "2026-11-10T20:56:00+00:00",
+     "summary": "Nvidia shares fell more than 6% after Monday’s 4.3% decline, briefly allowing Microsoft to reclaim its position as the world’s second-most valuable company for the first time since June 2025.",
+     "also": []
+    },
     {
      "title": "Anthropic targets valuation of up to US$1.4 trillion",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/11/10/anthropic-targets-valuation-of-up-to-us-1-4-trillion",
@@ -242,33 +267,6 @@
      "published": "2026-11-10T09:32:15+00:00",
      "summary": "Fed governor Christopher Waller said the US central bank must act swiftly and forcefully to address inflation.",
      "also": []
-    },
-    {
-     "title": "Bursa ends lower as banking, data centre heavyweights weigh on sentiment",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/10/bursa-ends-lower-as-banking-data-centre-heavyweights-weigh-on-sentiment",
-     "source": "FMT",
-     "published": "2026-11-10T09:26:00+00:00",
-     "summary": "Despite potential market volatility, attractive valuations could prompt investors to selectively buy fundamentally sound blue-chip stocks, says analyst.",
-     "also": [
-      "Focus Malaysia",
-      "The Malaysian Reserve"
-     ]
-    },
-    {
-     "title": "Tech investor SoftBank Group logs US$7bil quarterly net loss",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/10/tech-investor-softbank-group-logs-us-7bil-quarterly-net-loss",
-     "source": "FMT",
-     "published": "2026-11-10T07:29:39+00:00",
-     "summary": "The company's profits fluctuate sharply due to volatile global technology stocks and changes in its investment and acquisition portfolio.",
-     "also": []
-    },
-    {
-     "title": "California rejects 5pc billionaire tax that would have raised US$100b, US media projects",
-     "link": "https://www.malaymail.com/news/money/2026/11/10/california-rejects-5pc-billionaire-tax-that-would-have-raised-us100b-us-media-projects/242709",
-     "source": "Malay Mail",
-     "published": "2026-11-10T07:05:39+00:00",
-     "summary": "LOS ANGELES, Nov 10 — California voters have rejected a one-time tax on billionaires, US media projected yesterday...",
-     "also": []
     }
    ]
   },
@@ -276,12 +274,56 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Retiree loses RM179,490 in Macau scam involving fake police officers",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSVNxNEVRTGppdk1nQ3NTQkFOUUhoczRoTEZRUDRPbVp4ek0zNEp2dV9aZkZ6bmpnT3p3dlByNk1ybWo4dV9mT0w3ZTE0cUtoeWp0OUpLSV9jWnRNYW0zYkR5SGl6ZmF6SVZkZVRwS0JSSGZqRExUYzRickp6RV9ObXN5V3ZkaEZRS1ZPQXBtZ2h3dVN2Q1E?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-10T20:30:23+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Grab Holdings Stocks Fall 3.20% After $750 Million Bet on Malaysian AI Data Centers",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVp4MDZUNENnaG9KYmNPbDgwY3ZUSWJBeXhFU1VRUVVFZVR1NEtQMmZZXzV5czRfS1IyZDBYdXpvVVlIQXNHU1Jlblg4d09HOEVKX05KWXhsbWlWT1dWcG1IRWtaV2pyeUlTS1lDdTV2VllCbExiNXdGRGlnZTZQMVlwVFZOSWF0dUkzZnVtdUpmX3VLT0ZZ?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-11-10T19:35:26+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Anuar Fariz on his MDEC exit, two years of transformation and advice to the next CEO - Listen first, deliver outcomes, not announcements",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakJzdjRXSXBLWExCSjRNem81TFV2ZlZ0Y3V5a25ubU5ZWFQ4cG9iejIzMXNXM1Itc3h1QnR6MWNwTEtDQ2tfaFh0SVpnaVRGQjVENGltMHo0R2FwbF9QVlM0czZGZnZycDItN3lMcjRKSVlnaTd0VW1BYjlrbzkxQVkwTzJkcTBoems5cnZVS0FzV2RKckV4SDVOeHBIcS1BYUduSkhKZXhNcmVRM3N6cmoxcjlKbGlXM3B1MGFabDNITXpnNW9EQXJDcw?oc=5",
+     "source": "Digital News Asia",
+     "published": "2026-11-10T19:34:06+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Can Malaysia Sustain Its Data Center Boom?",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaDMyX3lzQmxSSVhHZlF4VnNlWmdLa0psWUdzSEstMmpETm9wQ18wQ0lMejFSUmVZZWREdndjdWo2ZnprTW50ZGh2cWtNSVh4Tm5xQkhmUFRiSFpmVVBqQkJFc3VyOVI2OHp4cTQ2bE9XT2w1NG55b3Ywb1pMbFY0RGxZRWRsLWF5Y0FDYks2VQ?oc=5",
+     "source": "International Relations Review",
+     "published": "2026-11-10T18:04:51+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Japan metals maker plans $1.2bn Malaysia copper foil plant on AI demand",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMVlraXpaSF9EelNIaFJBTWpDa2tyMXA0WFlJTXpiQUNWcFZBcjlGMi15bUhIMkZkY2VzVmFNNFRCdFA1UTc1aHYzUzlWMW5vUTVvQXAtNU1TZE54aVBXd09zeEFmb19qUUVKcTFJc3NJZWtyU1Z6NEVOal9RaDdVcFpZMkpXUnlHTzkwdW9LcHlhYUZnSXRkWk1QS21XZlR3M2VXbmV3eVE1VmtSdVVJQndXZw?oc=5",
      "source": "Nikkei Asia",
      "published": "2026-11-10T17:35:00+00:00",
      "summary": "",
      "also": []
+    },
+    {
+     "title": "SoftBank, Grab, PETROS invest $1.85 billion in Malaysia AI infrastructure",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZEhOWUlhWHB4dzRPazk1R1Z2MkV5TE5PaFhJbkd1SEZIV2JMT1RCM3BVRXNGU2NkZVo0Mm5QQlJNUFJwVVBaYWIzSzVqUkt4MmV1NlotMGMwS1hIVkYxSXo4U251Sy1CQnppQ3FhTElRNUhOYUlQSU54SnIyUkJMZGhINGNZQnJLUzM4RG4ySlVrM1FZak5QUkFRM3owQ0Y2dkhpaGx0OE5FMF8xdlo1eVJkdmlrX0laNDJsczk2QmlOcEFkMExpeXA2VmwtdzU4TkhORVlIajRyOHZ6dk9tRGlwaExDY2RWQ0tLdXBDblNCQdIB9gFBVV95cUxQOGROWTF4NmV4OXFuQkxOREdrUGJtZURzUm0wSE14M2VtNjdjUm5KZmcxVkpTX2VSWXRGYXRyM3dLWXZGcWhCZ2kyQzZteFBBWklpdi1idzhhVUxGaW9jVUFpaENLdV8zMjdZaWNBZ2dlYzF3SUhuQUhULXBhLW9yYVFNZWI1VnNCZm11R1JUX2NEOURKU3lkVndoVkg4T3ZUWXBZWkNaVGh6M09MTG5vTE5pT0k2cXRCd3doYTdoRE9ndVdidFFwVmZRWThRbHRTOUpNbjJ1dmFleTdpMVJxTlpZUEFzZFJENmZBdjdtdTJMMUtIQ1E?oc=5",
+     "source": "ET Datacenters",
+     "published": "2026-11-10T16:59:57+00:00",
+     "summary": "",
+     "also": [
+      "marketscreener.com",
+      "Nikkei Asia",
+      "News On Japan"
+     ]
     },
     {
      "title": "SoftBank, Grab and Petros sign pact to develop AI infrastructure in Malaysia",
@@ -318,15 +360,14 @@
      "summary": "",
      "also": [
       "Fintech News Malaysia",
-      "Tech in Asia",
-      "Asia Business Outlook"
+      "Tech in Asia"
      ]
     },
     {
      "title": "Grab, SoftBank and PETROS commit $1.85 billion in seed capital to Malaysian AI data centers",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXJlQThiM0dJYnJfMWF5dFBER3R5NERNZ21XZ1NlOHFDcC1MaV80QlV1WkhsLWJoM3VNTzZxS2tvbXBVVkFEUjg1alg2cF9ETDN5Um5TU3FlU0ZfTzdkd1g0Q1JIYWJqMVgxTWViZldvbHo3emhFSGFrRUNFNngzck53NkRmTVBIZXlpcEFHVVh5TmljNkJWSEhxeGQyOUZDNGFKZW1vSXpmeUFlcGsw?oc=5",
      "source": "MLQ.ai",
-     "published": "2026-11-10T13:59:27+00:00",
+     "published": "2026-11-10T14:10:34+00:00",
      "summary": "",
      "also": []
     },
@@ -335,50 +376,6 @@
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWUdOZVhGeDBDUFlUV0lmcFlCbGtQRTV5SzY3dmhyeDVTdGFZYUo0d202QUVGeEpNOWZDZnV0ZUMydUU0ZXBEeHllN3BKMnpjMm1NSVRzeS1CbU1jWlR2MWk0dG14TV81Tlk3bE5DbC13UEg1ZlhQOFFfY1pUMWhYYjF1eUcwUDlIRG1LVW1TckFOa3QxcTEzX0JIRHRtR1kxQlZHMnREcVM5bDlQWm9wdWNpWGc5dEw4aTVQMVZyOFpIQQ?oc=5",
      "source": "The Canary",
      "published": "2026-11-10T13:25:35+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Nvidia scandal's Malaysian link",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSUxCZWtWd1dITDI2MWd2ZVlfWVNnVTRvR3R1b21sRkQ1eGJmQUFzOWVMaDhDUFVoSS1qUjBVY3hzUGRIMGFXQUY5TGtmOFRYelNoSkJXcTNqNzZoYkhidmxSNkE1WFF4Y2xpVk9HMUVHQk5naUpEQ0tBNzJsYkpWRld0YklsdVA0Wi1ma3gySndpcGM3ME5TTGNn?oc=5",
-     "source": "The Star",
-     "published": "2026-11-10T12:54:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "S’wak secures US$1 bln AI infrastructure under SoftBank-led US$1.85 bln Malaysia deal",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcHlxYmF1R3NJV3prQ1JFVHNGV2VFUEZ0Qms4QzZtck1PTzNCYXRyTHBLem82SDRfQ00xY0xkcXRmNHJVaGhLaFJWV1AtbkszTmZTNHluQWd6bTJTNjM5NkFmMmVmNFh1eU5xSkFyWThrVGtZNUNMZmtJQVhWQ29MeGtlNmctV2U4SWk4N2Nha1ZQQjBwd2ZReEZQZm9EbU1CWlJ1X18tdVZpdw?oc=5",
-     "source": "DayakDaily",
-     "published": "2026-11-10T11:57:29+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "SoftBank, Grab, PETROS invest $1.85 billion in Malaysia AI infrastructure",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZEhOWUlhWHB4dzRPazk1R1Z2MkV5TE5PaFhJbkd1SEZIV2JMT1RCM3BVRXNGU2NkZVo0Mm5QQlJNUFJwVVBaYWIzSzVqUkt4MmV1NlotMGMwS1hIVkYxSXo4U251Sy1CQnppQ3FhTElRNUhOYUlQSU54SnIyUkJMZGhINGNZQnJLUzM4RG4ySlVrM1FZak5QUkFRM3owQ0Y2dkhpaGx0OE5FMF8xdlo1eVJkdmlrX0laNDJsczk2QmlOcEFkMExpeXA2VmwtdzU4TkhORVlIajRyOHZ6dk9tRGlwaExDY2RWQ0tLdXBDblNCQdIB9gFBVV95cUxQOGROWTF4NmV4OXFuQkxOREdrUGJtZURzUm0wSE14M2VtNjdjUm5KZmcxVkpTX2VSWXRGYXRyM3dLWXZGcWhCZ2kyQzZteFBBWklpdi1idzhhVUxGaW9jVUFpaENLdV8zMjdZaWNBZ2dlYzF3SUhuQUhULXBhLW9yYVFNZWI1VnNCZm11R1JUX2NEOURKU3lkVndoVkg4T3ZUWXBZWkNaVGh6M09MTG5vTE5pT0k2cXRCd3doYTdoRE9ndVdidFFwVmZRWThRbHRTOUpNbjJ1dmFleTdpMVJxTlpZUEFzZFJENmZBdjdtdTJMMUtIQ1E?oc=5",
-     "source": "ET Datacenters",
-     "published": "2026-11-10T11:43:24+00:00",
-     "summary": "",
-     "also": [
-      "marketscreener.com",
-      "Nikkei Asia",
-      "News On Japan"
-     ]
-    },
-    {
-     "title": "Zetrix AI Receives Directive From Bursa Malaysia Securities Berhad On Nov 6, 2026",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGhQTE5IeHF3ZnkzTENWYV9ZQnA1TWlNOWQ4UlVSaHpXbF8xYXVVT3llX05TRHB5d3JrX2xxUHMxdnJDSVJCRjdodUtOeUVnbEZJaE05bDJtcTNiYmxiR2ZLM0xsRTdQbkV1UUdWSE8zdFNrZXlMb2E2S0NWQlNMN3hCMG1VeHpDa05KZ1BUeDVFcnJBcmIzb21kNWpTOFhqMEhHemJxaHdNb1NhTmhnZjRUdTNwX3gxbkFZRDVPUEFkX04tN0J5NjQ5MmwzVTdVRklqckcxSDVHUTVlQjQ2WjFDLTI?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-10T10:30:07+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Cyberattacks increasingly target disruption of essential services",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNHV2aV9GNGpoS29LX2ZnR21CX2J5a0FNTlZqMXpxS3lSMzQ5Nzl0VXlOUVUxWFU3ZEczSkMyUkNkRTlWSHQzSGhHVG9sN01LTWl1dVFCQ3NwOVV0STFFSVNScGp1OG1LeVltQWRjUC1FNko2ekFDalRUeXhBZGxIR2hab2R1Y0lUdWVIM3E0VkdCLWxwMkpKNktLUjZpSklRRWh6cGprRTZZSE1LaXc?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-11-10T10:22:12+00:00",
      "summary": "",
      "also": []
     }
