@@ -1,9 +1,41 @@
 {
- "generated": "2026-11-11T15:16:08+00:00",
+ "generated": "2026-11-11T22:02:08+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Guan Eng hits out at Umno for ‘U-turn’ on Loke’s resignation",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/12/guan-eng-hits-out-at-umno-for-u-turn-on-loke-s-resignation",
+     "source": "FMT",
+     "published": "2026-11-11T16:11:00+00:00",
+     "summary": "The DAP adviser says Umno will shift its goalposts as long as it suits them politically.",
+     "also": []
+    },
+    {
+     "title": "Chinese voters in Melaka returning to BN’s fold, says Zahid",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/chinese-voters-in-melaka-returning-to-bn-s-fold-says-zahid",
+     "source": "FMT",
+     "published": "2026-11-11T15:51:00+00:00",
+     "summary": "The BN chairman says a recent study has shown that support among the non-Malay community has swung in the coalition’s favour.",
+     "also": []
+    },
+    {
+     "title": "Umno ignoring public anger over payment of RM50mil fine, says Melaka DAP chief",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/umno-ignoring-public-anger-over-payment-of-rm50mil-fine-says-melaka-dap-chief",
+     "source": "FMT",
+     "published": "2026-11-11T15:43:00+00:00",
+     "summary": "Khoo Poay Tiong says voters will have to decide 'how to respond' when they go to the polls on Saturday.",
+     "also": []
+    },
+    {
+     "title": "Khir Toyo wants police reports lodged against Loke over resignation",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/khir-toyo-wants-police-reports-lodged-against-loke-over-resignation",
+     "source": "FMT",
+     "published": "2026-11-11T15:26:00+00:00",
+     "summary": "The former Selangor menteri besar says the transport minister's resignation is in contempt of the Federal Constitution, which empowers the king to grant pardons.",
+     "also": []
+    },
     {
      "title": "Cabinet reshuffle normal, no need to dissolve Parliament, says Fuziah",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/no-need-to-dissolve-parliament-over-calls-for-cabinet-shakeup-says-fuziah",
@@ -98,9 +130,7 @@
      "source": "Malay Mail",
      "published": "2026-11-11T12:08:15+00:00",
      "summary": "KUALA LUMPUR, Nov 11 — Malaysia has climbed seven rungs to 27th place out of 70 economies in the IMD Wor...",
-     "also": [
-      "Newswav"
-     ]
+     "also": []
     },
     {
      "title": "Stay away from 14 Hulu Selangor rivers, waterfalls amid water surge danger, Fire Dept warns; Pertak, Siling, Batang Kali top hotspots",
@@ -133,44 +163,28 @@
      "published": "2026-11-11T11:39:39+00:00",
      "summary": "KUALA LUMPUR, Nov 11 — The Prisons Department is fully responsible for the security arrangements for former Prime...",
      "also": []
-    },
-    {
-     "title": "Harapan candidate's aide killed in crash",
-     "link": "https://www.malaysiakini.com/news/888905-harapan-candidates-aide-killed-in-crash",
-     "source": "Malaysiakini",
-     "published": "2026-11-11T11:19:56+00:00",
-     "summary": "MALACCA POLLS | Samivel was Alor Gajah PKR deputy division chief and part of Harapan's Asahan candidate's campaign team.",
-     "also": []
-    },
-    {
-     "title": "Unsubsidised fuel prices to drop across the board",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/11/unsubsidised-fuel-prices-to-drop-across-the-board-2",
-     "source": "FMT",
-     "published": "2026-11-11T11:10:00+00:00",
-     "summary": "Unsubsidised RON95 and diesel will go down by 40 sen and 25 sen, retailing at RM3.87 per litre and RM4.87 per litre, respectively.",
-     "also": []
-    },
-    {
-     "title": "Government steps in with RM15m monthly subsidy as palm oil costs rise",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/11/government-steps-in-with-rm15m-monthly-subsidy-as-palm-oil-costs-rise/242884",
-     "source": "Malay Mail",
-     "published": "2026-11-11T10:59:37+00:00",
-     "summary": "KUALA LUMPUR, Nov 11 — The government has approved a special incentive of about RM15 million a month und...",
-     "also": []
-    },
-    {
-     "title": "Car washer charged with murder over fatal Jalan Kuching crash that killed lorry driver",
-     "link": "https://www.malaymail.com/news/malaysia/2026/11/11/car-washer-charged-with-murder-over-fatal-jalan-kuching-crash-that-killed-lorry-driver/242881",
-     "source": "Malay Mail",
-     "published": "2026-11-11T10:46:42+00:00",
-     "summary": "KUALA LUMPUR, Nov 11 — A car washer was brought before the Magistrate’s Court today on a charge of murdering...",
-     "also": []
     }
    ]
   },
   {
    "name": "Business",
    "stories": [
+    {
+     "title": "Stocks end higher as CoreWeave results ease AI spending worries",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/12/stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
+     "source": "FMT",
+     "published": "2026-11-11T21:23:16+00:00",
+     "summary": "Earnings from neocloud firm CoreWeave cooled concerns over the AI trade's durability, while Nvidia stabilised after two straight sessions of sharp declines.",
+     "also": []
+    },
+    {
+     "title": "S&P 500, Nasdaq rise as CoreWeave results ease AI spending worries",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/s-p-500-nasdaq-rise-as-coreweave-results-ease-ai-spending-worries",
+     "source": "FMT",
+     "published": "2026-11-11T15:25:01+00:00",
+     "summary": "The CBOE Volatility Index, Wall Street's fear gauge, fell for the fourth straight session after CoreWeave said it would become profitable in the first half of 2028.",
+     "also": []
+    },
     {
      "title": "France’s 2026 growth forecast cut to 0.2% by Moody’s",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/france-2026-growth-forecast-cut-to-0-2-by-moody-s",
@@ -250,28 +264,36 @@
      "published": "2026-11-11T08:35:04+00:00",
      "summary": "Strong forecasts from Siemens Energy and US-based CoreWeave helped ease concerns about the AI trade outlook.",
      "also": []
-    },
-    {
-     "title": "TNB puts grid first in RM43b modernisation push to power Malaysia’s economic growth",
-     "link": "https://www.malaymail.com/news/money/2026/11/11/tnb-puts-grid-first-in-rm43b-modernisation-push-to-power-malaysias-economic-growth/242852",
-     "source": "Malay Mail",
-     "published": "2026-11-11T07:48:22+00:00",
-     "summary": "KUALA LUMPUR, Nov 11 — Tenaga Nasional Bhd has given top priority to strengthening the national grid, fully recogn...",
-     "also": []
-    },
-    {
-     "title": "Goldman Sachs adds rate hike to Fed outlook after hot inflation data",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/11/goldman-sachs-adds-rate-hike-to-fed-outlook-after-hot-inflation-data",
-     "source": "FMT",
-     "published": "2026-11-11T07:26:41+00:00",
-     "summary": "Tuesday's inflation data marked a third consecutive month of upside surprises, with markets fully expecting a 25-basis-point hike on Dec 9.",
-     "also": []
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "No need to panic as Malaysia monitors global security situation – PM",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CN0lvT0FJblVGc2ZNR1FDNmg3bmppMnRHelVSd2NhbmlNWTdqLVNwTERHZmlyZTFpRlc5dkNLb1MwR2pxR0ZnUk1WMXhOYU1ROElsRURuX25tS2xVVUhFS2JxcDAyejkyWWlRYk10VEN2MTA5MjhQUThPMjRIa3M?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-11T20:27:59+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Waze rejects claims of collecting sensitive government data amid Malaysia’s ban",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQUphbzI4NXRVdHN0SDFJd28xd3pEOXVuNkRuck1PZXpjMkVnVmxWX1BVcUFzam1IVnA5S3NNWmtWWGZGYkZ5ZVM0dGd5eHZUMndLeEE0MWx2R1FVcDJ2ZUU4b0NhVFJ4NmhHY2RUYjM4b3phWlJMdWM0OTZYcFd2VlA2WFJrRk9peV82MUo4MHdic25HQVpLeFRXeWhaX0RUQU52YzYzMWMxUlM2a0NlV0JEeGhSdFk?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-11T18:23:19+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "UAE's Landmark Group probes data breach in Shukran loyalty programme",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcXV3Y0p2TEVTdGozSHluZFh4NDZZXzlLLUc3OEJqczVDbXVBdUJRRVZjMVhEclZOOWlXRXljV1JLMkpGOGVHTk1EM2sta1ZOYUF6bzJvNlJ4OE1RV3dsRmw0ZnJZSUdGbFZIMmlWZ2VRWmVzZWN1aldjVzdibXN3dEpOWVZiVkRmS1hBSlladkJPb2F0ZVFQdllaNHFyV29Pbnh5OU96Ym9DU3p4UlNDYWRlOVREYXdxZkRjUEFJNVJvNHpZZVZjeHFNOA?oc=5",
+     "source": "The National",
+     "published": "2026-11-11T16:07:59+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "Zetrix AI, Dialog, United Plantations, Heineken Malaysia, S P Setia, MMAG, Southern Score, L&P Global",
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01cmYxUXNLQWRMYUVnc3E1YzY0b2IwTDJjMnYweVkzVVJZVUtmMHJvMGlmUzJZSnZLNXpJSW1CbnBfMjF4cUREWEVoU1oxM0gy?oc=5",
@@ -297,10 +319,10 @@
      "also": []
     },
     {
-     "title": "Singapore Blockchain Week 2026 Returns This November, Puts Singapore And Johor, Malaysia Cross-Border Dig",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3NEamM3dC1PTDdoaVBmR01MQjBlQ2dxWndoMHlKcGI0X3JrdWlBbTZVdDhzVkhRXzRBS2ZhWXU5c3pGSWtrdTMxazRZZDBJUUlyVDlOb1JMYzhMamR2Qi1RN0t2TEg2andmaExNVDc1ZnEzUW5aTEY4YWV0V1FWTkJWMUR6SExVQ0x2N0V0ZlByZHNfQlFYWUt0U0FJcHdndTZJSGlIdkZ5M0NBUjhGWUp5clhuZlVJcmpHeVJlZHJWSWxDbHFxWmgwNmx3dXF0SGRYM0IyZ3F3UQ?oc=5",
-     "source": "Benzinga",
-     "published": "2026-11-11T12:32:07+00:00",
+     "title": "ZTE provides digital training for Malaysian government officers",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV183ZGRXVG9CSzI0dk80SERLZG44OXFNVXFwQ3pUclJnVEFFdUhWbkRqVXgyekhNTUhzUGZZTkV1UU9ERFZkSGZ1ckZEN1ZuN280OFhmOTAxWENkTWotTU9sb1VxZkhvWTVzdFc3V2xrdVhSR3luVURxM0RHTXp2a25PRHhONlQ4X01PQi1GbkUwOEpnaWNjMlhrd3ZxM2xLNXViSlNVS3lCUQ?oc=5",
+     "source": "Telecompaper",
+     "published": "2026-11-11T12:41:44+00:00",
      "summary": "",
      "also": []
     },
@@ -308,7 +330,15 @@
      "title": "SoftBank books $3.7bn US data centre loss as it signs $1.85bn Malaysia deal",
      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WWt2YTFHa1NGNExOVmwyZ3FQU1JfeXdoaHpnQzJvSDVzbUhtaWs4eS1XenEyRnU3a3N2dEIxTGYydVZjRFB4Z1IwS0FtZllCNHMxU2tnczFKS2VXSThfcXpCS1MtSGFQU0ZRbzFzaDhrUQ?oc=5",
      "source": "Capacity Media",
-     "published": "2026-11-11T12:32:05+00:00",
+     "published": "2026-11-11T12:34:29+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Singapore Blockchain Week 2026 Returns This November, Puts Singapore And Johor, Malaysia Cross-Border Dig",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3NEamM3dC1PTDdoaVBmR01MQjBlQ2dxWndoMHlKcGI0X3JrdWlBbTZVdDhzVkhRXzRBS2ZhWXU5c3pGSWtrdTMxazRZZDBJUUlyVDlOb1JMYzhMamR2Qi1RN0t2TEg2andmaExNVDc1ZnEzUW5aTEY4YWV0V1FWTkJWMUR6SExVQ0x2N0V0ZlByZHNfQlFYWUt0U0FJcHdndTZJSGlIdkZ5M0NBUjhGWUp5clhuZlVJcmpHeVJlZHJWSWxDbHFxWmgwNmx3dXF0SGRYM0IyZ3F3UQ?oc=5",
+     "source": "Benzinga",
+     "published": "2026-11-11T12:32:07+00:00",
      "summary": "",
      "also": []
     },
@@ -333,38 +363,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oUGVoenZkTkNyRHc2M3ZyN19UMUN1eVF3bU03S2dfU1l5TW12b1VzbHFhLWlLQ2FGSXh3ZWRNTlZ4OFk2TTBXQzhqazVrRXFm?oc=5",
      "source": "The Edge Malaysia",
      "published": "2026-11-11T11:27:58+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Mercedes-Benz Malaysia & NZ Wheels Unveil RM3 Million KL Northeast Service Centre: First 2S Outlet with Latest Retail Identity & Upcoming AI Diagnostics",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzZrR04xTTEzTnZLV0V2VkN1X1kwOE9FUXVPY2xMN1pxYUM1TG9sMHhqS0hmZk5WaEtxamZVb0lCbmk2LWgxSkFpV0dDMmV0VE9EQ1ZQVzR5cUluSC1NLUY1ZV9wSXoyVUo3RXRmMnB3S3VLMV9xN1BSYTQ2UUhzTlZIdkZmMkpFQjVxVFpnbUxGakVXeHpCUjBVZHBNc2xzZ2NRS1lnYzNsc1BZbm9jZ0p2TVR5am8?oc=5",
-     "source": "Newswav",
-     "published": "2026-11-11T11:10:31+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Melaka police bust online scam call centre, arrest 11 Thai nationals in Taman Kota Shahbandar",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOFQzYk4yZUZubVlNY29yQmJGSEhiR1VZbzVxQ3VDNlFNMWZTcWxfcHFndF9ObG9fYWI4bG9SYWxlX05XSFJMMzVUUi1ld3JCYnE3N3hZRHNGR3NDX1JOSUhaNzNMNEw5THZ3d2lFZnBnMWpHYzJPaHREZ1lhN3hNaVRONGtiVzZrSmkzalM3N0s2TGRNWld1ZVZrOVJXbkZ5RVRHQWVkZ0FtakZoLXgyQ2NZRDhwUkE4X0NsT2VDRmVxaGhvZENFQ3h6VFUyYjdqa1E?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-11T11:04:40+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Frac, SuprAI team up to build enterprise AI for SEA region; Frac receives M’sia Book of Records acclaim",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa3c3Vk16OTVfNWZEN3J2UXlpNUJvNlh2RFhsX0VNOUxZcFZYc3lRanFDNlFFTFZFdF9qN0U0OWFRZ0xDSlEwLU9jWUk5UURmVTNWeDRjY1N6SE1PMWJadEZqZk5nYTBHcHRtUXlpOVFHT25Sel9zYVdiMlE3d1VKUnZyMl9hM0F1UGlFalJoWUdBeTZSZUNfT2xmblpzWUNBbFkwV2t0dV9pTGtPZ0RTYjhyd0ZMempBWk1QdXlMamFQaTcy?oc=5",
-     "source": "Focus Malaysia",
-     "published": "2026-11-11T10:52:08+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Omirol AI Expands Across Southeast Asia, Connecting Global AIGC Technology with Regional Creative Industries",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWk5venhIREJqdjN3SlMzOGg5LWJkejJBaHdCVmhzSG9IbmtiWnRZSFNfeUx0ZXFHNWR6eG5GV0E4ZDhicVIxcTlhaXVRWi02TF83U2FxYU1OOVF2QU15bXA4TzlpaUZGbTA2NHNKUDMtSHBYNGMwU2dlMENtclJ3NXZxQy1sUklSYlZRSEN5aWJmOFZLV2xXV3lvQmpRUWwtZWtzQ21yaGFDTFBHb3ZJcnY2OXBWc3Y5QTlOTkhJUnI2UTNoUEs1bnloOWwwYjAzQVVpSWc2Q084WEY0V3oyODI4MnB6ZmVxVkp4ZldCUmh6dVJEOVJ3a2dR?oc=5",
-     "source": "markets.businessinsider.com",
-     "published": "2026-11-11T10:41:39+00:00",
      "summary": "",
      "also": []
     }
