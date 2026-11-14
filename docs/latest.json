@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T18:07:39+00:00",
+ "generated": "2026-11-14T22:28:05+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -224,7 +224,7 @@
      "published": "2026-11-14T03:07:34+00:00",
      "summary": "TOKYO, Nov 14 — AI bots going rogue and humans using the technology for harm will likely be on the agenda whe...",
      "also": [
-      "The Sun Malaysia"
+      "Yahoo"
      ]
     },
     {
@@ -242,32 +242,6 @@
      "published": "2026-11-14T00:29:00+00:00",
      "summary": "The treasury, Pentagon, state department and US trade representative’s office had long supported blacklisting Megaspeed, but the final decision rested with the commerce department.",
      "also": []
-    },
-    {
-     "title": "S&P500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/14/s-p500-nasdaq-end-lower-as-nvidia-uncertainty-weighs-on-tech-shares",
-     "source": "FMT",
-     "published": "2026-11-13T21:51:52+00:00",
-     "summary": "Nvidia's shares fell 2% and recorded their sixth straight week of declines, their longest streak since October 2012, after CEO Jensen Huang's resignation on Thursday.",
-     "also": []
-    },
-    {
-     "title": "Nvidia approached Arm CEO Haas to succeed Huang, FT reports",
-     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/14/nvidia-approached-arm-ceo-haas-to-succeed-huang-ft-reports",
-     "source": "FMT",
-     "published": "2026-11-13T21:38:00+00:00",
-     "summary": "Rene Haas’ knowledge of Nvidia and experience leading a publicly listed chipmaker could make him a strong candidate for the role.",
-     "also": []
-    },
-    {
-     "title": "Singapore says US offered limited help in its probe of AI chip deals",
-     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/14/singapore-says-us-offered-limited-help-in-its-probe-of-ai-chip-deals",
-     "source": "FMT",
-     "published": "2026-11-13T21:23:36+00:00",
-     "summary": "Singapore investigated Megaspeed and other firms in February 2025 over suspected false declarations in server purchases, while repeatedly seeking US assistance to secure AI server maker Super Micro Computer’s…",
-     "also": [
-      "Free Malaysia Today"
-     ]
     }
    ]
   },
@@ -275,14 +249,44 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "Was it really the police? Calls from SPF now come from one number",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR1dYUHZaQ3NUSUN5QXVFRUJjS2lrNWZCb2tIeXRLUHcwR3A2bUppZ1Z4dDF2dUZUM2dlVG1fS2JucHlPMU9WQXVKMjdsdDQ0emZVQjNQZXRhYmFqcEg3dk82WkVDcnhrelAyYWR6dDZtcmgxUWV0UkhNNk5fcjg3c0VRZTktSVFuckhybkJlT1pJMGM2eTJCYXZLZUp3cmtwZTQ3STVn?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-14T20:00:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia plans a law to track AI chip imports and data center power use to catch GPU smugglers",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONjZ4bXJIdUlnOFAyYm5GdHQ4ZkFrUHhocy1JSEx1Mi16emE2c1NMYTFmdEd1QzZ3dTV2YS16MXFQanBQWG0yWGZIZExpOWRvQTk2ZGJTS1U4TzFFSDYzRkprYzF6WFBPWEFsei1MYnh4MTJZY2tTai1yNW1kZGlDbFFRQ0ZJNTVTbnQ5V3A2bnhRY1VNWjBabUI2VkNkQ3BTWlV2QUNNWUgwaUJWeGJocWpfdHotQQ?oc=5",
+     "source": "MLQ.ai",
+     "published": "2026-11-14T18:24:37+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Osaka City Says Over 1 Million Email Addresses Were Leaked",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR1Y5RWJCT19Wd0tOQ3ZIblA0NlBDVkxlQ0NSeTFjVWpSOVNRS05pdmtzUE9aWDRLSGhnTlhqRDR1SDQ3TUw3djZMWllvTlI1Y2I5a1Iza2gtcHR1NVVGdW9DTElNZUVaSExaVWJKdlB5LVFJSlVRRkZuZUhpTWhYOWJfQjZwZWRncFl0ZUlpNHAwa2RKWVFpNlJR?oc=5",
+     "source": "Daily Voice Of Asia",
+     "published": "2026-11-14T18:08:47+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Nvidia fallout throws spotlight on AI boom in Malaysia and Singapore",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtcVJDWk10VjhoWGNUV0w1dC1IWUtEcmhRbHVCMFJMT2M1aGQ0Y3VqdWw3RjNNSU1MWmh2VThUSkxVUXVYSmxqTVJtNHhyWmlm?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-14T18:06:55+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "Malaysia Probes Whether Megaspeed Unit Re-exported AI Chips",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LVThzOW9VTHF0NVNzcGlQd3BwUDhZRVNiVVByNF9iUjZxUTdGeGpDaVVKYUFjbTZyM0hqeG1VT1hySnNSZzFKYlFYU3BCMjFBRnpFY3FKdEd0a1BEOHE4bTZ5UWJPS0p4dmFGLXZfcG9oV0Z3WXpTbDJR?oc=5",
      "source": "CASRAI",
      "published": "2026-11-14T17:28:19+00:00",
      "summary": "",
-     "also": [
-      "CryptoRank"
-     ]
+     "also": []
     },
     {
      "title": "Only 4% report scams to authorities as PH exposure climbs",
@@ -318,9 +322,9 @@
     },
     {
      "title": "FM Mohamad: ASEAN should not be epicentre of transnational crime",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEtoM2VkRzMwRlhMTnpnS1dPelZFbzBuamsybWRNTHp1azZ0TXBzcG94OGJXMlhja3doa25VY2drRTdrX21Na2k5bTNyLWFaNXJQVE0tWUVzWDM4c0hpaXJpSFplaENfVEN1UEJjZjF1TEg0ZUhMbkwxVEktX3I1V1lmYTd2clZIZlJ3d0NqZUtiSU9YR1pxN2VGaHRiUy1Lb2pMakIzTUppWDBxeDVNMA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFdKZ0RYbjZRYzVvSU4xM2ItUmVZdDMzOE96am41T3lYd3ZjQmdpWEtkTG14OERVMzYzQTliT05WZEtkS1duVUV4dWRQTkdUTXRydDREc0ExMW93a1A5dmFNbWNXNklkMUxiOWdlY3pBVWVUc212ZzdZeXdMTjZMcHFxWEFzTUxGMlRZZThVbnZwcE1IcTRsOE1uWlJlRjhFSXYxRlJfM2Vob3M?oc=5",
      "source": "The Malaysian Reserve",
-     "published": "2026-11-14T14:15:43+00:00",
+     "published": "2026-11-14T14:24:59+00:00",
      "summary": "",
      "also": []
     },
@@ -337,38 +341,6 @@
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQjhWRGMyblpTbXlUVEJJYjZPWUI4TktDZGRFOHQ5eFVsRWtWRzJLSWJEODdiRzJMd3kxTEdmUzBoaGhRRHFCTUVCaDhvamtDbkRsc0VwVVFlQjFqSWJyd3VNZmlMajNOeFpGY2gyS0lVbXlPdTZ3eXQwZE1fMHNHYUQ0My1sQTZla3BJS0MwOHVsOEtCSk9ocEd6N000UnhzRGZTaE5GVl9KVVVZQk9kZV9MRUpPeTVqU2NHbdIBvAFBVV95cUxPQjhWRGMyblpTbXlUVEJJYjZPWUI4TktDZGRFOHQ5eFVsRWtWRzJLSWJEODdiRzJMd3kxTEdmUzBoaGhRRHFCTUVCaDhvamtDbkRsc0VwVVFlQjFqSWJyd3VNZmlMajNOeFpGY2gyS0lVbXlPdTZ3eXQwZE1fMHNHYUQ0My1sQTZla3BJS0MwOHVsOEtCSk9ocEd6N000UnhzRGZTaE5GVl9KVVVZQk9kZV9MRUpPeTVqU2NHbQ?oc=5",
      "source": "NST Online",
      "published": "2026-11-14T13:19:09+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "South Africa's Ramaphosa heads to US for AI visit",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbTc5aU14aFZrcXBVb09mNDU3R2tUdF9VdENKMnBQTVhsNlBlUHliREtfVmRhSUJ4bnpGZ0dIWEtjQ1JXbmZoMTZQdWxwS0drVDZ1d3FwYlBaQWpzaVFLa2wxLWVpWWNDOWtYMUxJd0s5OUtqQkRBT2RMWWNteVp2cDd3YVkwZw?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-14T13:13:49+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "FBM KLCI faces near-term pressure as selling hits banking, data centre stocks: Berjaya Research",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWNqbTJ2cWdsanlzTmJXZ2ExNWxkSmFweTNZSExYWG5SeGtEWk5ILVNuX3pSbTlKTXB4dUVOSU1HNXROQk9LaHh5aUY1dWxvaDJId2VRWDF5YmRMTEhteVByVHQ1NlBhdmhudVFpNFFUeGZkRVVORzgzUGVkZkFCS0R4NGFFYi1Ob01xWVhHcVItN3RQRWM1QmZrZzN2ZDVIMmJTQmdKUmxRU1hsbVpScUN3cVFQdWJIWWplOGZB?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-14T13:09:51+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia probes alleged diversion of Nvidia AI chips since April 2025",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUlXUHQ1V25TblZPcWZwMldxNUcybEk3Wk5rbGctVXliTGxtNTAxZ3g3VU9pZlVnakVCWEJvNGw5aURNeDlfZ2xlQk1Qdm1CSHAtTXhyZXhubUx5Mm5pN3hidGJyMXpkY0ZReVpBdElrWDJWWlZhakR6NkF0a0ZfR3A0dmJFWkR0RXdXSm9ZcXROVGRoVW1r?oc=5",
-     "source": "Traders Union",
-     "published": "2026-11-14T11:41:22+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Malaysia probing alleged Nvidia AI chip diversion since April 2025 — home minister",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RZEM4T25NQ2ZadTJWYjNVYUtCbnRibWpNd200VU9iQnN0WWlmOF9oVERDckpJbWNfOGZ5UUs5RXBXTXp5TlhIanlzV2s1ZkJR?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-14T11:25:41+00:00",
      "summary": "",
      "also": []
     }
