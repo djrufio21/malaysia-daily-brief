@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:44:42+00:00",
+ "generated": "2026-11-15T22:51:33+00:00",
  "sections": [
   {
    "name": "Nation",
@@ -170,6 +170,14 @@
    "name": "Business",
    "stories": [
     {
+     "title": "US Treasury chief wants answers soon from Nvidia",
+     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/16/us-treasury-chief-wants-answers-soon-from-nvidia",
+     "source": "FMT",
+     "published": "2026-11-15T21:51:00+00:00",
+     "summary": "Scott Bessent wants to know if Nvidia used shell companies to dodge US restrictions and sell its most powerful chips to China.",
+     "also": []
+    },
+    {
      "title": "‘No role with the company’: Megaspeed distances itself from alleged Chinese spy Alice Huang",
      "link": "https://www.malaymail.com/news/money/2026/11/15/no-role-with-the-company-megaspeed-distances-itself-from-alleged-chinese-spy-alice-huang/243410",
      "source": "Malay Mail",
@@ -247,10 +255,58 @@
    "name": "Cyber & Tech",
    "stories": [
     {
+     "title": "JPMorgan Flags Malaysia's 3.8GW China-Linked Data Centre Pipeline as Washington Closes the AI Backdoor",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZTFIR28zYVhLeVJBOXhJeWoyanFaVVItUUV2YndEWWdXaTNIWjlQbmEzZmxKX1FrVHJ2ZGhidWVqUGliN3p4eUk1aHFJSGFUY1FheE9UWUI4RFVBQXBQbHFKOEd6X1dMQ3hvdnczSnNZZzZpeW9QZ2lYcXFzVUdrUVdaZndpZw?oc=5",
+     "source": "The Dark Side Of The Boom",
+     "published": "2026-11-15T22:01:35+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Ground zero for scam hubs",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SSlp3amVJNlNINGc1eUwwMnFXV29zbXZId3Rtc3F1ckpvdDZCVW5hUUZQZHVaTktFWVhzMU5kb3FSWXlLS0RXRkFHY3haSjlNVk1hMHJxa1hId3J0TUlfV2RrUnl2ZjJMQzd5MGZ30gFzQVVfeXFMTTRJcU9BenJaNFFYMndkYWpiNlFneEd4S0djZEVtQk4yUVNjVlRFWjlIa0Q4Tzg0R0UweEczMFVtS0x6THl1WVR0blNwYmZDUk1pUXZyMWwtREF0ZGN3ODA1bVRnOGxGTUZCb1IyOGp5aWNZTQ?oc=5",
+     "source": "Inquirer.net",
+     "published": "2026-11-15T21:35:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia Hosts International Conference on AI, Islamic Sharia Objectives",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1ljZTlZa0QyUDZ2LXpPMVllb2pJWE5SZ2p4em1sSll0d2p2NG8zRmZhSjR2ZThWdG1hanJYVWF6SzN3aWd3YzRJekprMGZpMlhfeXM2dlRiVE1YY3F1QWRYSFJiX1Z5V0tZME8ya2tUbU9lR01KcGh3bXpqamZOZnp1RUV2RjJNQzZKNnBHQkZjR1JTZ1FYS05kUjNhRHFWS3Bzc0RQTGliT0ZIckgwbTZlNFNXTjA0NHlPQm5ybkJ5bk1YVHV3b3p3?oc=5",
+     "source": "ShiaWaves",
+     "published": "2026-11-15T20:11:24+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "EC works with MCMC to strengthen website security after suspected cyberattack",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVXhPdXNFME9aSVZCX1dFbVBENXBNRG05cFUtYUFja2p2bFdaZkVtcVVlNE5nem5NdnhPbDM2U29oREJDZkhMVTliajE4RERaamh4cURscDRKRHFselBFYTdMWEozbkVFTU9wb3pGZFlFZVY5WUFJanViTXpGcGdDNm9sb3hHajBENnJReGtzdDc3N3Z3UWNuVFhsdDNpWlJVbGRn?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-15T18:26:29+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "FBM KLCI faces near-term pressure as selling hits banking, data centre stocks: Berjaya Research",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWNqbTJ2cWdsanlzTmJXZ2ExNWxkSmFweTNZSExYWG5SeGtEWk5ILVNuX3pSbTlKTXB4dUVOSU1HNXROQk9LaHh5aUY1dWxvaDJId2VRWDF5YmRMTEhteVByVHQ1NlBhdmhudVFpNFFUeGZkRVVORzgzUGVkZkFCS0R4NGFFYi1Ob01xWVhHcVItN3RQRWM1QmZrZzN2ZDVIMmJTQmdKUmxRU1hsbVpScUN3cVFQdWJIWWplOGZB?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-15T18:04:38+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
      "title": "MOFA introduces tighter cybersecurity after data breaches",
      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weXBBSmgzcnZoT29heEVzWkZZdGpURFBfaTBhbjluVjRRRVlpWDRUc2lWYVFkNE0zTjBESWFnMEZKemd1cWdBdXV4VTJPUkl3RGY1WGU5Tlh4aEdzME9Hd29QTDVmV0RNOEFGclMwRDJ6bE5zT0dFSw?oc=5",
      "source": "Taipei Times",
      "published": "2026-11-15T16:00:00+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Malaysia considers WhatsApp identity checks to curb scam calls",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZDNNRWZ4ZTVQaTR3TFVrRDM0RlFVcjBITnJWMkRZOTFnZDc4aGh4S2hJZHVCUlp3eFZ2ODVtXzdzQXJxeml0Z3pHT1lyWXliQjBsSDZTQ2o2MFQ5cmxJQTVoZzJMTU1HNUV2MkF5a1QtSkg3YmRlTTBsT1E1dTJiUWJIQVUtM1EzUzhWSzkzcTh6Vnc5RGVJOWxJSWdjcGotOTNB?oc=5",
+     "source": "Business Upturn",
+     "published": "2026-11-15T14:55:19+00:00",
      "summary": "",
      "also": []
     },
@@ -279,16 +335,8 @@
      "also": []
     },
     {
-     "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QVFMREYyS3VWbHFiOTdFTWJ3ZkJzTUhkY0RZd2hHa0ZwYVZCdGNrUWFOcXJMXzR2Mjl3Y3dvOHJoUGkweWNzblFRNHVTc0pU?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-15T12:40:53+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
      "title": "Malaysian govt studying feasibility of mandatory WhatsApp identity verification to curb online scams",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWFhnR29zYTZQMVJZUUJJelBjWmY2QTdJTDdKWDI2cU91YzZYdWRyeGZ6MnVpZm9TUUxQcTgxTC02WXllWS11NFhEM0hPTFI0U2x4dXFvVXNvTGRERkdJU1lNblo2WG90bzlQNTdLT2h6NGxxcVNZYk4xSXhjNTBWN2R0c3RNUG13Q1ZnVnd5TmUwMGtsR0ZtLWp3Z3RidExnQTNNYjJTNjZJMGVac2hUNXZXYjJVNlJUeHprcUFpOFk2T3ZTYVBqdGxtOWFLeG0tWUpHR1FvZkRDS082U2tHaDdobl9hREVQdXBfSU5sY2tscUJucGc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSGVQZTRaeThvanVDVG45eFVUbnBQMmV3NFdUNUFwMU15R2xhZ2c2RC1VeU92MU04X3NBN2dKZ1FKQ0VmMFV3czlmUjg1UXhlNGtCd05adFRIQzFLQjVCRjIyV2RndWhUMkF6bGZORGZwTllFV3ZwUTExOWFQRU1LTF9CaHFXVl9pcmQ1eEZXVVUwV0ZlNjRsNWpUeGlsdDkzV1JhdUZ3NjB5T05LZTU4SFdKRkpHYUdpX3dNZnR1emdOTDR0N29Ra0U5Qjc0amlZajY5QkxJclM1QQ?oc=5",
      "source": "The Straits Times",
      "published": "2026-11-15T11:32:00+00:00",
      "summary": "",
@@ -301,50 +349,6 @@
      "published": "2026-11-15T09:51:23+00:00",
      "summary": "",
      "also": []
-    },
-    {
-     "title": "Malaysia mulls stricter WhatsApp verification to combat scam and impersonation calls",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVVM3Qzk2WFdEb3VOa2oxakNyWEtkblFUNjNTSy1OazF5c0hjMDRVX0FhRWozWFVXM3BHMnkwMVdQTXhEQVlKX1dNY1ZPR1hrSExtSzBkNmpzek5KLTRQTml1UEVKLXhmN0diUjBUMzFjM2VaRVFUUkNSeFpoczJRaE96eWt4R1h4ZThQS2NTOVVqcFdrb2VJQUZFRQ?oc=5",
-     "source": "SoyaCincau",
-     "published": "2026-11-15T09:43:18+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Anwar, Carney discuss expanding cooperation in energy, digital economy and technology",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZXFrMnN6OGdiamF2WlZ3NVFtLS1uR0xtNmo4cmZXeGI3NW5OS3Q3dkVPa1E3c3VBbHU1T0Z1dVBIcUhyaVJnQUpETC1GeGM3eHhYTEhnSlNMZWRvXzFsS0dfdnhpVl91NGJ5ZEF5VVdoRzNCMjN6LVdLSnFnSEh4R1FiVnNnOHBWaVJaVjUtUG5xY0JUMU55dW5BaXZpamdLN1NfUVl3SjRWVExaR01LSkphbVlNUS00WUZvOGdR?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-15T09:17:59+00:00",
-     "summary": "",
-     "also": [
-      "The Edge Malaysia"
-     ]
-    },
-    {
-     "title": "Green Data Centre Certification needed to ensure sustainable growth, says Lam Thye",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHlIa0s4YU5zZ3BydEtYblM2NXctZlQ2WXFnb1pOWTZ2b19IcHN4RE50Ni1heW5zRjNhdHBWZ3ZZWDRLTzJkemJiUEZ2eDVzajFoYjhiU1VMWFFHRXZpejFvZ3ZpVFd3UUoxNDBra3JCcDJOb3VoX0JOandYSmpELWdQTUxoQUdBVnN0X0pabHRuX1Y0all3RmdkSmxkZ0tSbnlETGJFWVl0MkliOXZzZHBKNWRuWndZa3ZHaUFRVFJWd9IBwgFBVV95cUxNVHlIa0s4YU5zZ3BydEtYblM2NXctZlQ2WXFnb1pOWTZ2b19IcHN4RE50Ni1heW5zRjNhdHBWZ3ZZWDRLTzJkemJiUEZ2eDVzajFoYjhiU1VMWFFHRXZpejFvZ3ZpVFd3UUoxNDBra3JCcDJOb3VoX0JOandYSmpELWdQTUxoQUdBVnN0X0pabHRuX1Y0all3RmdkSmxkZ0tSbnlETGJFWVl0MkliOXZzZHBKNWRuWndZa3ZHaUFRVFJWdw?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-15T09:12:02+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "AI-powered sensors to monitor safety of senior citizens living alone at Razak Mansion",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQkFnX2dTTFE4NHBBd0ROcE90ZzM2UTlMa3dsY1JkaXpJUXotcTljM1hLSlppVFhWQVZoZ2V6bTBvU0pfbUE1dnNUTVJ2eDdPSWtWVGJtaUhsbEFaVjBLdVFyMS1hZzlWUmhLU3NmUkQyNXpLVFIyOTJnY0FGN2tiT190RDZULWV1am5uVWIxcnBTd2w5OGRHSlRfSkFiYWxpRGJpTzk0dVpJZDJaLTM3REc4X0tmdzY3V25WZlI1dVY?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-15T09:01:30+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Fahmi wants WhatsApp to strengthen phone number verification amid rising scams",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORm91a3dTSVJxQmZBd2pwTlR0Q1JaLUsyQUgwLVJqemhaU0ozVjJTclRETnJqWTI5c1ZQajYwU0VlZ2ZmVC1FX2N2WGJha1pJdlZRLXNULUw0aWhZYjdxVGpoSUlONjBSTi05ZGdrWTlOamlJdTVDZ2tfY1Zzc2JtdlF4cmRmRkUxaE80VklEWkx3cHdzYTk5S0RVRndkb0dHVXRpdENfcU1QZFpxQmFTZ3NDVUxzOE0?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-15T07:26:50+00:00",
-     "summary": "",
-     "also": [
-      "The Vibes"
-     ]
     }
    ]
   }
