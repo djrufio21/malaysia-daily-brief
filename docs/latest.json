@@ -1,14 +1,30 @@
 {
- "generated": "2026-11-22T15:21:29+00:00",
+ "generated": "2026-11-22T21:48:34+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
     {
+     "title": "Malaysian climate activist detained after protest at COP31 in Turkey",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/malaysian-climate-activist-detained-after-protest-at-cop31-in-turkey",
+     "source": "FMT",
+     "published": "2026-11-22T15:50:00+00:00",
+     "summary": "Amalen Sathananthar was removed from the conference after protesting the omission of references to fossil fuels from the final draft agreement.",
+     "also": []
+    },
+    {
+     "title": "DAP’s Chong, Yong to defend seats in Sarawak polls",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/dap-s-chong-oon-to-defend-seats-in-sarawak-polls",
+     "source": "FMT",
+     "published": "2026-11-22T15:33:00+00:00",
+     "summary": "Party announces seven more candidates, including Bandar Kuching MP Dr Kelvin Yii standing in Batu Lintang.",
+     "also": []
+    },
+    {
      "title": "Camaraderie key to resolving differences, says Abang Jo of PDP’s electoral goals",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/camaraderie-key-to-resolving-differences-says-abang-jo-of-pdp-s-electoral-goals",
      "source": "FMT",
-     "published": "2026-11-22T14:54:16+00:00",
+     "published": "2026-11-22T14:54:00+00:00",
      "summary": "The GPS chairman says there is ‘no sea that does not experience rough waters’.",
      "also": []
     },
@@ -147,22 +163,6 @@
      "published": "2026-11-22T09:20:34+00:00",
      "summary": "Recent unfavourable polls results a reminder for all not to be complacent with current position, he says.",
      "also": []
-    },
-    {
-     "title": "Amanah passes resolution to condemn Najib's house arrest, support Bar's judicial review",
-     "link": "https://www.malaysiakini.com/news/889613-amanah-passes-resolution-to-condemn-najibs-house-arrest-support-bars-judicial-review",
-     "source": "Malaysiakini",
-     "published": "2026-11-22T09:00:17+00:00",
-     "summary": "It is unconstitutional, contrary to the principle of equality before the law - Fadhli.",
-     "also": []
-    },
-    {
-     "title": "Cultivate reading habits in children to curb excessive digital use, says Fahmi",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/22/cultivate-reading-habits-in-children-to-curb-excessive-digital-use-says-fahmi",
-     "source": "FMT",
-     "published": "2026-11-22T08:54:00+00:00",
-     "summary": "The communications minister says without strong reading habits, young people risk spending more time browsing social media platforms.",
-     "also": []
     }
    ]
   },
@@ -170,12 +170,22 @@
    "name": "Business",
    "stories": [
     {
+     "title": "Bangladesh’s wage protests cost garment sector US$428mil",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/22/bangladesh-wage-protests-cost-garment-sector-us-428mil",
+     "source": "FMT",
+     "published": "2026-11-22T15:58:00+00:00",
+     "summary": "The country's main manufacturers' association said 317 garment factories had suffered losses, while orders worth US$254 million had been shifted to other countries.",
+     "also": []
+    },
+    {
      "title": "Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers",
      "link": "https://www.freemalaysiatoday.com/category/business/2026/11/22/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers",
      "source": "FMT",
      "published": "2026-11-22T14:50:15+00:00",
      "summary": "Anthropic imposed unusual restrictions on underwriters, including limits on the number of bankers working on the deal and restrictions on some from working with rival companies.",
-     "also": []
+     "also": [
+      "Free Malaysia Today"
+     ]
     },
     {
      "title": "Thailand plans to ban exports of chemicals as it tackles pollution",
@@ -191,13 +201,63 @@
      "source": "FMT",
      "published": "2026-11-21T23:38:00+00:00",
      "summary": "Scrutiny of Nvidia's financial disclosures has intensified amid questions about its ties to Megaspeed and suspected restricted chip shipments to China.",
-     "also": []
+     "also": [
+      "Free Malaysia Today"
+     ]
     }
    ]
   },
   {
    "name": "Cyber & Tech",
    "stories": [
+    {
+     "title": "Clubbers angry after Berlin venue hosts launch of military AI system",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUVuSjRPX3BhR1I4UVZfWG9ZMDM4SGdPdWc5WTREYWlBUmx1V0hqVlZfLVN3b3JvOVZ5MWlpbW11YjhnWG92bDkxVVJHOTk3NUVQcXB1UjVjVzl6UlRhMV81VVYxV2JHNDI5RXdfUUhic2hJaFNOZ0x0eFZULWxEOE1CYjhmZnM?oc=5",
+     "source": "Yahoo",
+     "published": "2026-11-22T19:38:58+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Transport Department Director General Rajiv Pokharel Arrested in Malaysia Job Scam",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUTUtX2lYdHZIZFVZNDgyWHpheV9HdkVyMVVwc3dkWFE3VGFFMGZ5QTNobllLWkFMRXRyWllTbnN6TTlMNUo4YnVOMS1XZWdZZEpYWVM2TGpPLW0wc216V0lrRy00VUZtc0JDTTdBV2dkcEtPZVNqRzRfd29wWWRrSXRDeFNoMXV4Wm1MMmNPZEpjc0Z6cUdpZ3ZfZVpfc2FpOUV6Y1lYZnM4YWxRcmVKa3lWM3dOaXFGTmZRbnhFMUR0Yy1nc2NwdV9DQ1d3Y3c1QW0w?oc=5",
+     "source": "Ratopati",
+     "published": "2026-11-22T18:26:53+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "US export curbs threaten to delay Malaysia's data centre projects",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pZWl0SmROeHJVU0dWMjI4RHpmSjNHSnhOc3NwYnNFMFRjMHNocFc1bXBhNGhna1l6VENXUjd5SjFQbWEwUTRmTllacFlrdlhGYm5LUFp5eFF0S2VqbE1fMHJ2OWcteEVfRk5YRVh1Ml9DNnhmemZpVzlXV0J0Njg?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-22T15:55:47+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Bursa Malaysia Slumps 13.57 Points At Midday As Tech Sell-Off Deepens",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTG5TZnpSemVET2pSalZCRnhCV0w2eFdBc1Y3bWVETFh4ZHdiZzBUNVlnTUpuNEdoLW9PdzFZRVBvTzJEQkZwNDZKYXp3eXpQZlh2ZXZOLVU2WHlDWWxwb3gxN25idUVUS294SGkyNE1SRzBGREkxUDF1b1d3T1k1b0N2OTcwcEczaUZXNlJPWDFYYXFxckl4NGJNdzY?oc=5",
+     "source": "Moomoo",
+     "published": "2026-11-22T15:39:20+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Tesla FSD v15 starts rolling out in US – AI-generated Reality View, slows for speed cameras",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zUHRyS2kySHZrVUE2VzlXaWZoNHV3OWtHY2RNZUxPRjdvVTNpRWlCMWhGa21rOVk0ZmFmbld2cWQ3Z2VYclJ0RTIyUlVoUnJFN2s5TXE3Q0NHMDl2NzVqM25Bdw?oc=5",
+     "source": "Paul Tan's Automotive News",
+     "published": "2026-11-22T15:21:30+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "MoF warns against fake Threads account using Treasury sec-gen’s identity",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcks2MFFmRlJ6c2RJYUtSRGNyMFBXTHFwdDhURXZJRndwUlEzbV9xWEUwSWUwdEMxQ2MxZmZKVl96aHhGeUxxVk9zd3BNclBzMDhibzFqWTB6RDg2M3p1SXV6ZE1vMFg2T1FEUmZkRVJBUWFyMWo2cmIyUWRZRUQ1LWNPcTZPMnVDMnBkeTRCU2xNcFluVlV1TGswdEw2eEZyUm9hNEpiZExyUXVrU2c?oc=5",
+     "source": "The Sun Malaysia",
+     "published": "2026-11-22T14:40:16+00:00",
+     "summary": "",
+     "also": []
+    },
     {
      "title": "Malaysia needs AI-skilled cybersecurity talent to tackle emerging cyberthreats, says Kaspersky",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUlZbWM5Xzh5MEk1OEpTWkRPcms5a0RXemc4Nk9kX1lieEJRcW9kbk12TWRLcWFVdTdEQlk5VUNOQTJnWDN6aHdEWVdPcUdOeTVtZTMtczhfS3FoVlVKX0FPbEtZWkR5cDZxSWZKWm41TWhHNjJQNzFhSExKWmFVVjFDX2x6aWdMaFIzb0kzV1lOSlNBczBTc0VnNy0?oc=5",
@@ -239,58 +299,10 @@
      "also": []
     },
     {
-     "title": "Malaysia mulls tighter military base security to prevent repeat of air force drug smuggling case",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3BEVm9jdlpOemtHNjQ4WUtYUTljTjJLY3RLaG5PQzV5TDBaelVodURmNkVaVjZvUFMzUDhsOWlxZkxLQXE4N1J1TE94dXQwaUY5X1M2UlVSTkdkWGQzOE1OYUVYV21ZT3ppR0ljcUZiRTROMFZJa1p1aFR6dHNUYkx6QjBsVUotRUFCRkwzbGxTX2FjUUIzbFRlWjZyVmhxTVVJUjVEdk1peGZmUlFvUmlRYlRpeHBsbW9vaVpnM3JQa1RXR3VR?oc=5",
-     "source": "联合早报",
-     "published": "2026-11-22T13:16:29+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
      "title": "Smart Nation Expo 2026 sees Malaysians build 194 AI tools through Rakyat Digital Buildathon",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcTlCZFRvTGpScXNNazlLSF9WWUx0dDRJcXVQUVFIY3l3UFZXQmpxVG1EYkY4UkJmLVE5M2t4QmVDSUdBTW5uSWZLcTR3emt4OUFNSFF1eVllY0VzYUpFUEdQTlFNMHpRaXNacUZyU25ycEN4Qk10VEVtSWIzVUxlTkpUc25jclV0LWdmSUVDVXd2THFualE?oc=5",
      "source": "Tech Critter",
      "published": "2026-11-22T13:07:49+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Fahmi wants five communication faculties from five universities to form communication students' coalition",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYi0xMW81Yk5EeTYyYThuMzdQRjlKMHpnT21NUHNSUEJZWUJKbUFCZ0tsRnpfWEdHcTVFSjlsXzZUXzI1aEcwSnhwaW5maU55dlhLSDZpNFFXOU5qNDduaDJqdFlSVjRxNUE2eGRZMHBWRXFBcDktM0Q3WDdhRFo3WkoxN2Fya3owblowWjNaSktGcGtwM0dsc3hneFZVNEZSQXJKbTZrRzNfZWtUQjRWUEcyZkdfbzkxRmdQS3N5TTVENFkybVdZUmJXbkVjTHdweWpJa2VZdWtiUQ?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-22T13:01:00+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "MCMC urges public to update phones ahead of emergency alert system rollout",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyTFF5RjJYdzRESUFTNUJVX093dGZXVWdmVHRMRmtnZ2pLc29UcFNlSGRXZVBRV1c2TnJxT3MxX2h5OVR1OWtBdmI3Y2tKalVjNG0xWG1XVEZEOW95cXg1LXJKV3YwcWJ1VUtrN2VsTFNUdnhQa3B2UEVSa3o?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-22T12:45:34+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Tesla FSD v15 starts rolling out in US – AI-generated Reality View, slows for speed cameras",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zUHRyS2kySHZrVUE2VzlXaWZoNHV3OWtHY2RNZUxPRjdvVTNpRWlCMWhGa21rOVk0ZmFmbld2cWQ3Z2VYclJ0RTIyUlVoUnJFN2s5TXE3Q0NHMDl2NzVqM25Bdw?oc=5",
-     "source": "Paul Tan's Automotive News",
-     "published": "2026-11-22T12:25:47+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Laos Deputy Premier Begins Malaysia Visit",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzVaclNkVE5QTmVxaHFIXzRlRTd2WnJPODdBOGVORzNIU2hJQlRsOUhJajVBTHZSVzJ2b096Mnh3UW9iLTdzY2EwN0VDS3JUWHA3VTJnaWJ0a3ZTNzMzUHE0R3Z5TklxT3FkeWZjMlB4dFc3MnZtSy12N0tyT2l2ckJfWQ?oc=5",
-     "source": "Wisevoter",
-     "published": "2026-11-22T11:44:11+00:00",
-     "summary": "",
-     "also": []
-    },
-    {
-     "title": "Tower Records becomes latest Japan retailer hit by data breach",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOdk9jZlZ1TG9DOW9vRm1UTVExUEdmRHhOZVFnb1YtV21MY2lYVWhjQmxaVzlPU2ZCLWRkdVZyRl9MQUFKWnVqVWZrMHp4bXd3?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-22T10:37:16+00:00",
      "summary": "",
      "also": []
     }
