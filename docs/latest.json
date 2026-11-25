@@ -1,171 +1,167 @@
 {
- "generated": "2026-11-24T21:15:25+00:00",
+ "generated": "2026-11-25T04:18:20+00:00",
  "sections": [
   {
    "name": "Nation",
    "stories": [
+    {
+     "title": "Huang says only his wife was harder to face than Nvidia staff, rejects succession plan",
+     "link": "https://www.malaysiakini.com/news/889788-huang-says-only-his-wife-was-harder-to-face-than-nvidia-staff-rejects-succession-plan",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T04:02:16+00:00",
+     "summary": "CEO also reveals he is undergoing therapy after 11-day absence.",
+     "also": []
+    },
+    {
+     "title": "Appeals court cuts ex-CEO’s unfair dismissal compensation to RM360,000",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/appeals-court-cuts-ex-ceo-s-unfair-dismissal-compensation-to-rm360-000",
+     "source": "FMT",
+     "published": "2026-11-25T03:53:42+00:00",
+     "summary": "Court upholds the finding that the former CEO of a private medical centre was unfairly dismissed, but says her conduct justified a lower award.",
+     "also": []
+    },
+    {
+     "title": "DAP MP asks if Malays under threat, minister says question breaches rules",
+     "link": "https://www.malaysiakini.com/news/889782-dap-mp-asks-if-malays-under-threat-minister-says-question-breaches-rules",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T03:48:08+00:00",
+     "summary": "PARLIAMENT | Azalina says AGC advised against addressing the broad claim.",
+     "also": []
+    },
+    {
+     "title": "Ahead of S'wak polls clash, Loke says unsustainable for federal partners to fight in states",
+     "link": "https://www.malaysiakini.com/news/889776-ahead-of-swak-polls-clash-loke-says-unsustainable-for-federal-partners-to-fight-in-states",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T03:40:54+00:00",
+     "summary": "DAP is the only Harapan component that will be contesting in Sarawak.",
+     "also": []
+    },
+    {
+     "title": "Govt ready to expedite border development ahead of Indonesia’s capital relocation",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/govt-ready-to-expedite-border-development-ahead-of-indonesia-s-capital-relocation",
+     "source": "FMT",
+     "published": "2026-11-25T03:38:22+00:00",
+     "summary": "Deputy prime minister Ahmad Zahid Hamidi says Putrajaya and the Sarawak government will comprehensively upgrade infrastructure in border zones.",
+     "also": []
+    },
+    {
+     "title": "‘What will we tell our children?’ - Bersih chief warns kleptocracy could return",
+     "link": "https://www.malaysiakini.com/news/889775-what-will-we-tell-our-children-bersih-chief-warns-kleptocracy-could-return",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T03:08:23+00:00",
+     "summary": "Watchdog says institutional weaknesses leave avenues for abuse of power.",
+     "also": []
+    },
+    {
+     "title": "Families of trio in Durian Tunggal shooting to sue govt, police",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/families-of-trio-in-durian-tunggal-shooting-to-sue-govt-police",
+     "source": "FMT",
+     "published": "2026-11-25T03:05:00+00:00",
+     "summary": "They also call for the immediate prosecution of those responsible for the deaths of G Logeswaran, T Poovaneswaran and M Puspanathan.",
+     "also": []
+    },
+    {
+     "title": "Court rejects duo’s bid to challenge targeted diesel subsidy",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/court-rejects-duo-s-bid-to-challenge-targeted-diesel-subsidy",
+     "source": "FMT",
+     "published": "2026-11-25T02:21:59+00:00",
+     "summary": "High Court says the policy was based on economic and social considerations, which are beyond the court's expertise.",
+     "also": []
+    },
+    {
+     "title": "Malaysian lawyers’ journey to justice for the Rohingya",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/malaysian-lawyers-journey-to-justice-for-the-rohingya",
+     "source": "FMT",
+     "published": "2026-11-25T01:45:00+00:00",
+     "summary": "Azril Amin recounts his legal team’s work from 2017, contributing to documentation of Myanmar’s genocide of the ethnic group.",
+     "also": []
+    },
+    {
+     "title": "Loke flags voter fatigue, economic woes, racial politics as PH challenges",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/loke-flags-voter-fatigue-economic-woes-racial-politics-as-ph-challenges",
+     "source": "FMT",
+     "published": "2026-11-25T01:30:00+00:00",
+     "summary": "DAP secretary-general says the coalition must restore supporters' enthusiasm, ensure that economic growth reaches SMEs and address the influence of identity politics.",
+     "also": []
+    },
+    {
+     "title": "Nazri eyes GE16 return, denies retiring from politics",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/nazri-eyes-ge16-return-denies-retiring-from-politics",
+     "source": "FMT",
+     "published": "2026-11-25T01:15:00+00:00",
+     "summary": "Nazri Aziz says his plan to make way for younger leaders did not materialise, and now wants to reclaim Padang Rengas for BN.",
+     "also": []
+    },
+    {
+     "title": "Unsustainable for unity govt to cooperate federally, clash in states, says Loke",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/unsustainable-for-unity-govt-to-cooperate-federally-clash-in-states-says-loke",
+     "source": "FMT",
+     "published": "2026-11-25T01:00:00+00:00",
+     "summary": "DAP secretary-general says he warned PH leaders against multi-cornered fights among federal partners when the unity government was formed.",
+     "also": []
+    },
+    {
+     "title": "Vying for GPS' support, PKR also sits out Sarawak polls",
+     "link": "https://www.malaysiakini.com/news/889766-vying-for-gps-support-pkr-also-sits-out-sarawak-polls",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T00:53:43+00:00",
+     "summary": "Party cites federal stability and MA63 cooperation in its decision.",
+     "also": []
+    },
+    {
+     "title": "Expanded medical aid fund timely relief amid rising costs, say experts",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/expanded-medical-aid-fund-timely-relief-amid-rising-costs-say-experts",
+     "source": "FMT",
+     "published": "2026-11-25T00:45:00+00:00",
+     "summary": "Healthcare experts say the additional RM20 million will help vulnerable patients cover the cost of essential treatment, although broader reforms remain necessary to ensure long-term affordability.",
+     "also": []
+    },
+    {
+     "title": "Local elections can help promote accountability, says Nazri",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/local-elections-can-help-promote-accountability-says-nazri",
+     "source": "FMT",
+     "published": "2026-11-25T00:30:00+00:00",
+     "summary": "The former Umno supreme council member says local elections would allow residents to remove underperforming councillors.",
+     "also": []
+    },
+    {
+     "title": "YOURSAY | Anwar's 4 years: Political constraints no excuse for stalled reforms",
+     "link": "https://www.malaysiakini.com/news/889765-yoursay-anwars-4-years-political-constraints-no-excuse-for-stalled-reforms",
+     "source": "Malaysiakini",
+     "published": "2026-11-25T00:08:16+00:00",
+     "summary": "'Keep asking him the hard questions.'",
+     "also": []
+    },
+    {
+     "title": "GPS, GRS influencing how peninsula-based parties strategise, say analysts",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/gps-grs-influencing-how-peninsula-based-parties-strategise-say-analysts",
+     "source": "FMT",
+     "published": "2026-11-25T00:00:00+00:00",
+     "summary": "Azmi Hassan and James Chin say the East Malaysian coalitions are viewed as kingmakers.",
+     "also": []
+    },
+    {
+     "title": "Amanah may be eclipsed by Bersatu under PH ‘big tent’, says analyst",
+     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/amanah-may-be-eclipsed-by-bersatu-under-ph-big-tent-says-analyst",
+     "source": "FMT",
+     "published": "2026-11-24T23:30:00+00:00",
+     "summary": "In the fight for the same seats during negotiations, Bersatu's top leaders might carry more influence, says Tawfik Yaakub.",
+     "also": []
+    },
+    {
+     "title": "From the CamPro engine to clean energy: How one Khazanah scholar charted Malaysia’s transition",
+     "link": "https://www.malaymail.com/news/malaysia/2026/11/25/from-the-campro-engine-to-clean-energy-how-one-khazanah-scholar-charted-malaysias-transition/243651",
+     "source": "Malay Mail",
+     "published": "2026-11-24T23:00:00+00:00",
+     "summary": "KUALA LUMPUR, Nov 25 — Before venturing into renewable energy, Syed Malek Faisal Syed Mohamad was part of Proton’s power...",
+     "also": []
+    },
     {
      "title": "PKR sits out Sarawak polls",
      "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/25/pkr-sits-out-sarawak-polls",
      "source": "FMT",
      "published": "2026-11-24T16:13:00+00:00",
      "summary": "Sarawak PKR says its machinery has been ordered to respect this decision and preserve the party's good relationship with GPS.",
-     "also": []
-    },
-    {
-     "title": "Govt to act sternly on Malaysians who ‘enable’ errant foreigners",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/govt-to-act-sternly-on-malaysians-who-enable-errant-foreigners",
-     "source": "FMT",
-     "published": "2026-11-24T15:40:00+00:00",
-     "summary": "Deputy prime minister Ahmad Zahid Hamidi says action will be taken on owners who allow foreigners to commit offences on their land or premises.",
-     "also": []
-    },
-    {
-     "title": "JPA yet to receive health service commission proposal",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/jpa-yet-to-receive-health-service-commission-proposal",
-     "source": "FMT",
-     "published": "2026-11-24T15:10:00+00:00",
-     "summary": "Minister Mustapha Sakmud says the proposal needs careful study, taking into account public expenditure policies set out in Treasury circulars.",
-     "also": []
-    },
-    {
-     "title": "Bar yet to receive declassified Najib pardon minutes from AGC",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/bar-yet-to-receive-declassified-najib-pardon-minutes-from-agc",
-     "source": "FMT",
-     "published": "2026-11-24T14:39:00+00:00",
-     "summary": "Malaysian Bar president Anand Raj says the Attorney-General’s Chambers has not filed and served an affidavit containing the minutes.",
-     "also": []
-    },
-    {
-     "title": "Fierce GPS tussle for 2 seats in store after duo’s PDP exit",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/fierce-gps-tussle-for-2-seats-in-store-after-duo-s-pdp-exit",
-     "source": "FMT",
-     "published": "2026-11-24T13:44:00+00:00",
-     "summary": "One analyst says Wong Soon Koh’s time with PDP was always going to be short, as he was bound to clash with Tiong King Sing’s leadership.",
-     "also": []
-    },
-    {
-     "title": "Rayong applies to rejoin SUPP after quitting PDP",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/rayong-applies-to-rejoin-supp-after-quitting-pdp",
-     "source": "FMT",
-     "published": "2026-11-24T13:40:00+00:00",
-     "summary": "The four-term Engkilili assemblyman resigned from PDP on Monday ahead of the Sarawak state election on Dec 12.",
-     "also": []
-    },
-    {
-     "title": "Half-buried man died from blunt force trauma to head",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/half-buried-man-died-from-blunt-force-trauma-to-head",
-     "source": "FMT",
-     "published": "2026-11-24T13:38:00+00:00",
-     "summary": "Police say the identities of the victim and suspects have not been established.",
-     "also": []
-    },
-    {
-     "title": "PBDS to contest 26 seats in S’wak polls, clashes with DAP in 1",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/pbds-to-contest-26-seats-in-s-wak-polls-clashes-with-dap-in-1",
-     "source": "FMT",
-     "published": "2026-11-24T13:27:00+00:00",
-     "summary": "This is despite both parties reportedly agreeing to an electoral pact.",
-     "also": []
-    },
-    {
-     "title": "No police report filed against Pua over Najib pardon minutes",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/no-police-report-filed-against-pua-over-najib-pardon-minutes",
-     "source": "FMT",
-     "published": "2026-11-24T13:23:00+00:00",
-     "summary": "IGP Khalid Ismail says police have not ruled out questioning the DAP leader over the disclosure of the Federal Territories Pardons Board meeting minutes concerning Najib Razak.",
-     "also": []
-    },
-    {
-     "title": "Govt exploring legal amendments to allow digital ICs",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/govt-exploring-legal-amendments-to-allow-digital-ics",
-     "source": "FMT",
-     "published": "2026-11-24T13:01:00+00:00",
-     "summary": "Digital minister Gobind Singh Deo says current legislation does not permit the digital display of identity cards.",
-     "also": []
-    },
-    {
-     "title": "NexG Bina says freeze on bank accounts lifted",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/nexg-bina-says-freeze-on-bank-accounts-lifted",
-     "source": "FMT",
-     "published": "2026-11-24T13:00:00+00:00",
-     "summary": "The company says it cooperated fully with authorities and continued operating despite restrictions imposed since November last year.",
-     "also": []
-    },
-    {
-     "title": "Landowner blockade forces scaled-down religious ceremony at Tambun monastery",
-     "link": "https://www.malaysiakini.com/news/889760-landowner-blockade-forces-scaled-down-religious-ceremony-at-tambun-monastery",
-     "source": "Malaysiakini",
-     "published": "2026-11-24T12:54:22+00:00",
-     "summary": "Kathina ceremony goes ahead with only two devotees.",
-     "also": []
-    },
-    {
-     "title": "DAP names final candidate for Sarawak polls",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/dap-names-final-candidate-for-sarawak-polls",
-     "source": "FMT",
-     "published": "2026-11-24T12:50:00+00:00",
-     "summary": "The party will field Roderick Wong to contest the Meradong seat, which SUPP, the current holder, has lost to DAP in the past.",
-     "also": []
-    },
-    {
-     "title": "Tributes pour in for Malaysia’s literary giant, Pak Samad",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/tributes-pour-in-for-malaysia-s-literary-giant-pak-samad",
-     "source": "FMT",
-     "published": "2026-11-24T12:30:00+00:00",
-     "summary": "Prime Minister Anwar Ibrahim recounts how the novel 'Salina' brought Malaysians closer to the lives of those often marginalised.",
-     "also": []
-    },
-    {
-     "title": "After 4 years as PM, Anwar says stronger foundations now laid",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/after-4-years-as-pm-anwar-says-stronger-foundations-now-laid",
-     "source": "FMT",
-     "published": "2026-11-24T12:00:00+00:00",
-     "summary": "PH chairman says his administration has strengthened Malaysia's finances and improved governance, but acknowledges that much more has to be done.",
-     "also": []
-    },
-    {
-     "title": "Four years of Madani: Anwar highlights economic strengthening, RM15.5b in savings",
-     "link": "https://www.malaysiakini.com/news/889758-four-years-of-madani-anwar-highlights-economic-strengthening-rm155b-in-savings",
-     "source": "Malaysiakini",
-     "published": "2026-11-24T11:55:02+00:00",
-     "summary": "'My resolve has been to restore the country and improve people's lives.'",
-     "also": []
-    },
-    {
-     "title": "PAS seeing more support from non-Muslims, says Hadi",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/pas-seeing-more-support-from-non-muslims-says-hadi",
-     "source": "FMT",
-     "published": "2026-11-24T11:45:00+00:00",
-     "summary": "PAS president says recent election results and poor attendance at DAP's Selangor convention point to declining non-Muslim support for the party, which he describes as ‘extreme’.",
-     "also": []
-    },
-    {
-     "title": "Don’t let Malaysia become landlord to data centres, govt told",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/don-t-let-malaysia-become-landlord-to-data-centres-govt-told",
-     "source": "FMT",
-     "published": "2026-11-24T11:36:00+00:00",
-     "summary": "Teresa Kok says allowing foreign companies to operate data centres may not benefit the country financially.",
-     "also": [
-      "Free Malaysia Today"
-     ]
-    },
-    {
-     "title": "National laureate A Samad Said passes away at 91",
-     "link": "https://www.malaysiakini.com/news/889757-national-laureate-a-samad-said-passes-away-at-91",
-     "source": "Malaysiakini",
-     "published": "2026-11-24T11:32:26+00:00",
-     "summary": "His eldest son, Helmy, confirms his death on social media.",
-     "also": [
-      "FMT"
-     ]
-    },
-    {
-     "title": "S’gor exco man opposes building new tolled highways",
-     "link": "https://www.freemalaysiatoday.com/category/nation/2026/11/24/s-gor-exco-man-opposes-building-new-tolled-highways",
-     "source": "FMT",
-     "published": "2026-11-24T10:56:00+00:00",
-     "summary": "Ng Sze Han says building new highways won't ease congestion on the Federal Highway but could instead attract more traffic.",
      "also": []
     }
    ]
@@ -174,99 +170,99 @@
    "name": "Business",
    "stories": [
     {
-     "title": "Nvidia’s Huang returns to cheers in China, but political hurdles mount",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/nvidia-s-huang-returns-to-cheers-in-china-but-political-hurdles-mount",
+     "title": "US criticises Australia’s social media law as harming free speech",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/us-criticises-australia-s-social-media-law-as-harming-free-speech",
      "source": "FMT",
-     "published": "2026-11-24T15:04:32+00:00",
-     "summary": "Washington tightens its grip on China's access to advanced US chips as Chinese state-backed media renew calls for technological self-reliance.",
+     "published": "2026-11-25T03:32:00+00:00",
+     "summary": "The proposed Digital Duty of Care bill, which aims to curb online harm, has raised concerns over claims it would unfairly burden US companies.",
      "also": []
     },
     {
-     "title": "Greece’s data centre boom angers locals near Athens",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/greece-s-data-centre-boom-angers-locals-near-athens",
+     "title": "MAG to acquire 10 Boeing 787 Dreamliners with option for 6 more",
+     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/25/mag-to-acquire-10-boeing-787-dreamliner-with-option-for-6-more",
      "source": "FMT",
-     "published": "2026-11-24T13:40:40+00:00",
-     "summary": "Residents say state and regional officials have allowed the construction of industrial-scale facilities near their homes that are incompatible with the area's commercial zoning regulations.",
+     "published": "2026-11-25T03:27:00+00:00",
+     "summary": "MAG president and group CEO Nasaruddin A Bakar says Malaysia Airlines will be the first Malaysian airline to operate the 787 Dreamliner variant.",
      "also": []
     },
     {
-     "title": "US futures, European stocks slip as Nvidia rally cools",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/us-futures-european-stocks-slip-as-nvidia-rally-cools",
+     "title": "Huawei says US conviction ‘without legal or factual merit’",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/huawei-says-us-conviction-without-legal-or-factual-merit",
      "source": "FMT",
-     "published": "2026-11-24T12:05:01+00:00",
-     "summary": "Investors turned cautious ahead of US inflation data, while Nvidia shares fell nearly 4% in premarket trading after surging 31.5% on Monday.",
+     "published": "2026-11-25T02:44:10+00:00",
+     "summary": "The Chinese tech giant called the verdict baseless and threatened to take legal action after a US jury found it was guilty of stealing trade secrets.",
      "also": []
     },
     {
-     "title": "France plans to create rare earths stockpile and encourage joint buying",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/france-plans-to-create-rare-earths-stockpile-and-encourage-joint-buying",
+     "title": "Asian stocks retreat as AI rebound stumbles",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/asian-stocks-retreat-as-ai-rebound-stumbles",
      "source": "FMT",
-     "published": "2026-11-24T11:42:00+00:00",
-     "summary": "France is among Western countries attempting to counter China’s dominance in the production of critical minerals vital to defence, semiconductors and the energy transition.",
+     "published": "2026-11-25T01:54:15+00:00",
+     "summary": "MSCI's broadest index of Asia-Pacific shares outside Japan was down 2.3%, led by a drop of as much as 5.3% in South Korean shares and a 5.1% decline in Taiwan.",
      "also": []
     },
     {
-     "title": "Land Rover vows to ‘protect’ designs after EU halt of rival BYD model",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/land-rover-vows-to-protect-designs-after-eu-halt-of-rival-byd-model",
+     "title": "Bursa opens lower amid mixed Wall Street performance",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/bursa-opens-lower-amid-mixed-wall-street-performance-2",
      "source": "FMT",
-     "published": "2026-11-24T11:11:06+00:00",
-     "summary": "BYD said it would appeal Friday's ruling imposing a temporary ban on the import, manufacture, storage and sale of its Ti 7 across the European Union.",
+     "published": "2026-11-25T01:51:00+00:00",
+     "summary": "The main index shed 4.19 points to 1,557.49, weighed down by losses on the Nasdaq and S&P 500.",
      "also": []
     },
     {
-     "title": "Petronas Chemicals’ turnaround moderates in Q3",
-     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/24/petronas-chemicals-turnaround-moderates-in-q3",
+     "title": "Dollar takes breather ahead of US data on Fed path",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/dollar-takes-breather-ahead-of-us-data-on-fed-path",
      "source": "FMT",
-     "published": "2026-11-24T10:35:00+00:00",
-     "summary": "Petrochemical company reports lower earnings in the third quarter amid softer product prices.",
+     "published": "2026-11-25T01:34:00+00:00",
+     "summary": "Investors await the release of US Q3 GDP data along with the Federal Reserve's preferred inflation gauge.",
      "also": []
     },
     {
-     "title": "Ringgit gains broadly ahead of Fed policy meeting",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/ringgit-gains-broadly-ahead-of-fed-policy-meeting",
+     "title": "Shein agrees to US$100mil settlement with US consumer watchdog",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/shein-agrees-to-us-100mil-settlement-with-us-consumer-watchdog",
      "source": "FMT",
-     "published": "2026-11-24T10:32:00+00:00",
-     "summary": "Indicators suggest the ringgit is oversold, with limited scope for further declines, says an analyst.",
+     "published": "2026-11-25T01:26:00+00:00",
+     "summary": "The settlement provides for the money to be paid to affected consumers over service failures, misleading information and other allegations.",
      "also": []
     },
     {
-     "title": "EU officially limits imports of Chinese hybrid vehicles",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/jihadist-kidnappings-for-ransom-surge-in-cameroon-s-far-north",
+     "title": "Ringgit opens slightly higher on expectations of longer-term US rate cuts",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/ringgit-opens-slightly-higher-on-expectations-of-longer-term-us-rate-cuts",
      "source": "FMT",
-     "published": "2026-11-24T10:08:11+00:00",
-     "summary": "Brussels and Beijing agreed to limit exports of Chinese plug-in hybrids and other hybrid vehicles to the 27-nation bloc as part of a deal to avoid a trade war.",
+     "published": "2026-11-25T00:35:00+00:00",
+     "summary": "The movement reflects market expectations that the US Federal Reserve could eventually lower interest rates in late 2027 or early 2028, says analyst.",
      "also": []
     },
     {
-     "title": "Bursa rebounds to snap 5-day losing streak",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/bursa-rebounds-to-snap-5-day-losing-streak",
+     "title": "China’s Huawei convicted in sprawling US criminal trial over Iran business",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/china-s-huawei-convicted-in-sprawling-us-criminal-trial-over-iran-business",
      "source": "FMT",
-     "published": "2026-11-24T09:44:00+00:00",
-     "summary": "The local market tracked broadly positive regional sentiment following Jensen Huang's reappointment as Nvidia CEO.",
+     "published": "2026-11-24T23:17:09+00:00",
+     "summary": "The company was found guilty on 10 of the 12 criminal counts it faced, including fraud, sanctions violations and conspiring to steal trade secrets.",
      "also": []
     },
     {
-     "title": "Nvidia suppliers, startups in Asia cheer Huang’s return as uncertainty eases",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/nvidia-suppliers-startups-in-asia-cheer-huang-s-return-as-uncertainty-eases",
+     "title": "EU warns newest eurozone member Bulgaria risks fine over spending",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/eu-warns-newest-eurozone-member-bulgaria-risks-fine-over-spending",
      "source": "FMT",
-     "published": "2026-11-24T09:37:21+00:00",
-     "summary": "Companies in South Korea and Taiwan say Jensen Huang's return as CEO dispels uncertainty over product plans and the risk of scaling back investments in AI startups.",
+     "published": "2026-11-24T22:38:26+00:00",
+     "summary": "The country's deficit is expected to reach 5% this year, exceeding the EU's 3% limit less than a year after it joined the single currency area.",
      "also": []
     },
     {
-     "title": "Indonesia says recent Singapore gas cuts due to pipeline repairs",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/indonesia-says-recent-singapore-gas-cuts-due-to-pipeline-repairs",
+     "title": "Nasdaq, S&P 500 end lower following Monday’s Nvidia-fuelled rally",
+     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/25/nasdaq-s-p-500-end-lower-following-monday-s-nvidia-fuelled-rally",
      "source": "FMT",
-     "published": "2026-11-24T09:07:35+00:00",
-     "summary": "Indonesia fully restored gas flows to Singapore on Nov 12 and there has been no further notification of supply reduction.",
+     "published": "2026-11-24T22:00:58+00:00",
+     "summary": "Weakness in semiconductor stocks and AI-related shares dragged the Nasdaq down 1.5%.",
      "also": []
     },
     {
-     "title": "Taiwan welcomes Jensen Huang’s return as Nvidia CEO",
-     "link": "https://www.freemalaysiatoday.com/category/business/2026/11/24/taiwan-welcomes-jensen-huang-s-return-as-nvidia-ceo",
+     "title": "Ray-Ban, Meta face lawsuits in Germany over smart glasses",
+     "link": "https://www.freemalaysiatoday.com/category/highlight/2026/11/25/ray-ban-meta-face-lawsuits-in-germany-over-smart-glasses",
      "source": "FMT",
-     "published": "2026-11-24T08:26:48+00:00",
-     "summary": "Nvidia CEO Jensen Huang's return sparked excitement among supporters, while Taiwan's benchmark index closed up 9%, rebounding from an eight-month low.",
+     "published": "2026-11-24T21:46:00+00:00",
+     "summary": "The country's consumer protection association believes the devices create significant data protection risks for both bystanders and users.",
      "also": []
     }
    ]
@@ -275,100 +271,98 @@
    "name": "Cyber & Tech",
    "stories": [
     {
-     "title": "‘Sudden chill amid a boom’: How US chip curbs may cloud Malaysia’s data centre ambitions",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWY3RmJUWEYzVVVXczRNMmV5RGI3QWZyVWloVEVYT2MzYXdVMW5SNlBmcVBObzBWcnpibFZPUWlSblBwUnlCNlJKSTh6NExOS05XUG9qQm85aTg3dk9DUmdqQ0NpWi1pTHp1Qm82U1VLOVBPUUpyTG9iR21uYkI4NTZJclhvd3E5RWRCSHBCRG1Kc3V2MVRmZHM4Vm0zUWZta2RfYk9UY1NvaTY5eUg0QUhoZlVpSG9YU3lTbzVqTGtVNDlm?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-24T21:00:00+00:00",
+     "title": "RM10 Maid Deposit Costs Johor Woman RM15,490",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXJRUDJET3RiOXFWSi1sV1dqNkZBQUtsNVROUDdiR3BMZmQxekgwbk1IazhMcmtFN2REbXFQa1FpY3dsUXVXanZBSVhuRFZWWHNSVGUtblBYT0d0aE9wX2RCRy1kZ0tNTmxrYlVnZUpwYzVrd3d1X1BFNy1od2Y1VXN2T19DSzJ3S0ZBVUcwVXhBTUtRWmdka0ZwUHJ1YW1Z?oc=5",
+     "source": "TRP | The Rakyat Post",
+     "published": "2026-11-25T03:38:34+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Malaysia warns data centres on US Entity List",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTk5KOWF4eDNURzFHQ2s2cEVNS2pWdElSMllEb3NCb2R2VjkyQlE5eXh4a05SWExlNzJVSnJCSThYNUdKM013bjhtRkQwTi1yWG15YWJjdmljeHZZTTNzUGVKRzQ1Vi1wSTVqeXVuX0FQV3RfQU5TU3dqMmZfcWlBVWdNajI?oc=5",
-     "source": "CASRAI",
-     "published": "2026-11-24T19:12:41+00:00",
+     "title": "Malaysians Lose RM7.3 Billion To Online Scams Since 2023, Telco Related Highest",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQWxadnZQMG8tSFJRRjVadDR3WkpTV1A5b1FkVmNDRUVXSTNFc2lHR2pFSkRzQzdONlE0SjdxandLdFR6dFlrNDZTWjVXSWN4aVFyNUtwSTVTSl9CUkhOZThzSjZzM0RRbkdteG13aHhudDgtV1JKUXNXNUJaYzRqc18tUFFBbGFXU1ppQ2c5QjJSb01TemJtenlxZmRTOWgzRFNIeS1NeHlOYW9NNTlvaVZ3R0ZaOFNVdEFJbklSTQ?oc=5",
+     "source": "BusinessToday Malaysia",
+     "published": "2026-11-25T03:35:54+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Malaysia responds to US Entity List with data centre warning",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGdzliVVQzaUVaMXVsOXFPRllCZnQ2b2t0ajgxLXJsOHcyRmxIR1hOM1RZS1ZHS0Z2MkU0T0hHdjViblk4THR6VHFQWGM2bkVuQUZRbXA5OC0yRFZKbUVYUzZYUTNtRXZORTlIdHFMUQ?oc=5",
-     "source": "Digital Watch Observatory",
-     "published": "2026-11-24T17:37:10+00:00",
+     "title": "Malaysian tech stock rebound ends as soon as it began",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fMHVUeU9hdlRtTWxKZ0RiUEpScHFpRW9Wc2FpaUNVbUhnaUNJTVFiSHJtYTJpa1hjSGdjQi00ZEpLYmVyRER5YVcxX0VLempZ?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-25T03:15:23+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Hackers Give NVIDIA Until November 28 As Ransomware Gang Threatens Data Leak",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmRzV2lYdWZWbDBrTzNEV1VZODhTMGpFMVRIVkFtTGZ4WHVKcXF1U2FCczNRWHA2dW5kTXUybTBQR0MyTmIzYndrTDdQRE5LbjdUWFBydVl6NV9QLTNBdFhWWU9kYXpSZW8wUlVkdnUzSXN1QkI0azNaZ3U0U0xCRjFnOERPdnlDU2ZtemEwRlVPOVhNVXAyOHhnSWVZN2M?oc=5",
-     "source": "TechStory",
-     "published": "2026-11-24T16:11:05+00:00",
+     "title": "Bursa Malaysia opens lower on renewed AI market jitters",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjV1RXNZRWwwRkpoc2J1aXBxNVJ1bGR5dHd6X3F1RTFoa2dDTHZkUXJNck9wN21RYlA2MHRmMXN5dDhMUGdBdXJRWWJjOVVCX2JCSFhUNHo3WTIxX1hIeDdEZzJEX1N3eGJtTEtOUDJDQWRGUkJPbm1rOS1od2dJeWtlcDVUZTRLYUIzVmIyRjhUQTA5QkZPbUpVU1dSQThaRVJ0b2J3VFJSckNRQ1Nj0gG0AUFVX3lxTFAtalVWSV9TSThZbHFyOEstTmEzZkFkUHI2djlDeXpURWpydkZJa0ZrU1ZqSmRvUXdlZmJtV3FJRUNsaW1DeUdaNVhOV1hDd1FIeGxwZ3lXMmJoVURic1Q1eTdDcjNEc19GdW5QX3RLUWxlWWFZaWs4Nk4wY2hiSUJaRXBTVVJ4Yk4yVmVLWW14bjV1NHJzQkZpNFpiTUk1QkhaUjhOY0FNRHRaN0FZUV91WnJCNQ?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-25T02:46:02+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "BI deports 139 Indonesians after Pasay scam hub raid",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmVKOGxNMVpPZDNpbFk4aWJwUWVkMjY1SVN1SEloR2dpOHU4M3U4SExmQm9XUFVpNk1BNU9uZHhtX0hxVGFEM2JQTWJ3QndBMmxWakJ2QTF5QzV6TlJjTDVmcGRfRkFoTWxiMUxkZUlwczBPel9zYlc4bFdZQ3JpNGVOZGFVdmswbWtvNVhkQnk0Y1VBVmZEX0Q3NHNOSzNCVzZrMF9Uam0xMHR3WEU4OVlIZ0pneVFw0gG4AUFVX3lxTE9mZUo4bE0xWk9kM2lsWThpYnBRZWQyNjVJU3VISWhHZ2k4dTgzdThITGZCb1dQVWk2TUE1T25keG1fSHFUYUQzYlBNYndCd0EybFZqQnZBMXlDNXpOUmNMNWZwZF9GQWhNbGIxTGRlSXBzME96X3NiVzhsV1lDcmk0ZU5kYVV2azBta281WGRCeTRjVUFWZkRfRDc0c05LM0JXNmswX1RqbTEwdHdYRTg5WUhnSmd5UXA?oc=5",
-     "source": "The Manila Times",
-     "published": "2026-11-24T16:08:00+00:00",
+     "title": "Banks put data centre clients under microscope on AI chips — Bloomberg",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZ3JNaFhIdnktRER1RWRyZjNyQ20taW9BMUh6aXFzTnRfNXZzdEdXdnFYY0RpNmFJYllMbFVJM2YwOVh0NzNkbVdCaU1qWVhD?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-25T02:28:30+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Police detain 36 foreign nationals involved in love scam activities in Kuantan",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkNlMHA3NTZ4MVQycm9saTJpRklQREJpblcwR3Nfemh0NWFFb1FMdkxkeWZKQktaUnpBZEZna0E2RExaWlMzNVVsc3FEUklSMUY0YVM5dXd0Q1VzcXZ4OEtnVDFiZWI1ZjBJV3k5bWJXRGt6amJPeUkzUVNGYjZGRXdtRUFVUDBvYnVmeW5nWExJS1Z3dHFlbS1aQV9ZX0NtQlNuUzdybjNwZXBzU1J5UG4yTEk3QkVuYVhmY21ZRQ?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-24T15:50:15+00:00",
+     "title": "KTM TikTok account offering jobs is a scam – help report",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNXVBUUNWcE1BYmpKa3d5YWx5NkRxX0JDNTdhb2xTRFN5TTRrR2xyaEJnUnZNSlZma3daVGZKTkFYc0Vhamc3X2FhRWZtbWZPc2tfUVZYZURhMmprVE9ndndVcDdsZnZ5MENWaUQwOHl0Wk9ETTVWQmhKaTZ6bDVIN1djbHZoOWREa3ZhM3lQZw?oc=5",
+     "source": "Paul Tan's Automotive News",
+     "published": "2026-11-25T02:20:30+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "How Shahrin Oli Mohamed Modernises Pos Malaysia with AI",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaFd5OUdReDFMTU40M1lGWUpyVmEyMXVHOGR0VzBheGI2MzQteWswaWU0aGlSVEVKQ2pYdGxlSzcyWXNzNElvcE90aXE2MjNySFI2RDl0dEM4Z1lUWmQ2WlJNdWRGNkd5ZmdUcWpBa1ppQVZzaDIzUHZVVjluMzlXRmV3bnRqQWFnQW9r?oc=5",
-     "source": "AI Magazine",
-     "published": "2026-11-24T15:47:20+00:00",
+     "title": "MCMC sues Google for RM300m over alleged failure to remove defamatory YouTube content",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd3hnZE5CWDg5UV8yTmo1ZXRtR1FCWVQyN3Vad01DS0lnSlB5TDJ4UHpocFh1OXpraGdOOTV5d2M0ZG5ONzJUS1FsZVRLUm9IUnJDSGJLQVlSUjRxc2F0VU1fT2tJZlVfVVk4MlFoQU5vLXlLTzJBZzhaMWEzNXBpVVQxallVUnRONEpOZXBNWFdPQ3BpSE8zTzNTbks1N1FoaDlocjVJd3RIOTIyVDNGMUt5TmFnMGxKWGNTNE1tdzNUZjU3Nm9aQU02MHVCbUtabGlnREphd1Q?oc=5",
+     "source": "The Vibes",
+     "published": "2026-11-25T01:34:00+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Who are the Malaysia-based companies blacklisted by the US over the Megaspeed chip diversion scandal?",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeC04MzRlR1g3dlpkOEUwMENGWUszaHpBR29CaUVhQnBDWTNlMk43MEtOU0pEMXpZWmd0WGF3eEw5TGtwLWZlREN5N3JvRnFjZTJObldOVVNpejg4Sm5zRDNjTXUwNlFuNUZwOGYtSkN3QmRuMFJ3UzZBV2VuOVFyTGNfQ25KTE5qcWVCMi1iUG9sN003bUxUTFV6TTBfNHdxajRvOVdFbFBCbF9xZWFqTzA5eWh0bUg3VzNJWEIyZ0ZWNFU?oc=5",
-     "source": "EdgeProp",
-     "published": "2026-11-24T15:41:47+00:00",
+     "title": "Sarawak PKR sits out state election in show of unity with GPS",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSEJrc1JleThZNDhHeklReERyd1lDNk0ydU82R1NzNHBUdFdHMkpuaU9PTnZtZ05FX0JhN2R1cTNJOE5nSDBrQXJVbDBWdDl0Z3Jtem9pRldDSDFNZlRWWEJtY0F1N0JWNGlGR1FNWGxDVzUyQ2I1ZHRBUG4wcm1vRUlzeUs4cURQMS0wX0htM2N6YTYwLWtpSUk0Z3lXMnVvaE00dkVMZTZVOGhDSnlKT3gwM29WbXRMYWNPdVNielrSAcABQVVfeXFMTUhCa3NSZXk4WTQ4R3pJUXhEcndZQzZNMnVPNkdTczRwVHRXRzJKbmlPT052bWdORV9CYTdkdXEzSThOZ0gwa0FyVWwwVnQ5dGdybXpvaUZXQ0gxTWZUVlhCbWNBdTdCVjRpRkdRTVhsQ1c1MkNiNWR0QVBuMHJtb0VJc3lLOHFEUDEtMF9IbTNjemE2MC1raUlJNGd5VzJ1b2hNNHZFTGU2VThoQ0p5Sk94MDNvVm10TGFjT3VTYnpa?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-25T01:18:39+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "MCMC sues Google for RM300mil over Papagomo’s alleged defamatory YouTube content",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMUJyVzdPUDdTanV6bnl4dVJ4NEdxNmJxNERqZ3hjUlhiam1hSUNqaFFybjVyOXE3S1hJbHp0dWdtM05RYlR6eW1SYW9IdkE3LU5zclNUMDl1R1J2SGtzbm9qUWxDNDRDRmlXUWQ1a0pOcENhaUcyc0Z0QWtPYnlqYmhFRmRuY1hKMWR3NV9Yb1pid1NVcnJBMEZ1bDRPSTV1SVhfVlVwdDg1b2FLc1drblIyYmZEUi1Mbi04Vm1UMFFmQmxCT1c0Vjd2ZU42M191ci1JRkNoWkU?oc=5",
-     "source": "Free Malaysia Today",
-     "published": "2026-11-24T15:24:11+00:00",
-     "summary": "",
-     "also": [
-      "NST Online"
-     ]
-    },
-    {
-     "title": "Manila Scam Syndicate Used Genuine Indonesian Police Uniforms to Dupe Victims",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUU40VnRUNTgxSHNRNFVsaGYybnNfbTJMV0htbHZ5Q1U0M3V2RVJJSjczM01MS1FCaVFZOFp5OW96dDV6U0U1VUt0cEdZRFVxaE03eDRNMlF1dDJTQTdFTV9YcElWQWhqMUktYTJLMDNDZlgzM21nczdWTWFkSDhpTHBfT0FtYXNuTllfNlVYRmtadks4N0trS0IyeXFqaGlxSjNBQzBVUmhqQQ?oc=5",
-     "source": "Jakarta Globe",
-     "published": "2026-11-24T14:48:00+00:00",
+     "title": "IGP: Police have not ruled out calling Tony Pua over Najib’s Pardons Board minutes leak",
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMlh6UXIxUE5xcDZ4amtlSlA0Z0Uwd1lMbTd0TGZlaU1HRElyMmFJTGdWUU5XTXZtczgwbWFYYVotNGVYLXFUTDltTWpnYnpVVnBWbm5GQmpnbmEzejR0QzJVX2g2a3dveWNEeGJmNlVKYlFzRjl0WkRnb3dEZV9KX1duVFlOUjdtOEFHZ1JnTFVfWVQxWFV4aXBCYXFzbE03VldrY3NvOG13NWZod2t1bDF0aEg5UUFEVzFDWWtaQkZwZXI4Q2FGQ0tXcURTVkZXRWQwUldVV2VLUDBuSjBGbdIB4AFBVV95cUxPMlh6UXIxUE5xcDZ4amtlSlA0Z0Uwd1lMbTd0TGZlaU1HRElyMmFJTGdWUU5XTXZtczgwbWFYYVotNGVYLXFUTDltTWpnYnpVVnBWbm5GQmpnbmEzejR0QzJVX2g2a3dveWNEeGJmNlVKYlFzRjl0WkRnb3dEZV9KX1duVFlOUjdtOEFHZ1JnTFVfWVQxWFV4aXBCYXFzbE03VldrY3NvOG13NWZod2t1bDF0aEg5UUFEVzFDWWtaQkZwZXI4Q2FGQ0tXcURTVkZXRWQwUldVV2VLUDBuSjBGbQ?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-25T01:14:39+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "How Is Hewlett Packard Enterprise Powering Sunway Group's Enterprise-Wide AI Strategy in Malaysia?",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVUxreGotemU3M1VFM1Q1WVA1Zm12X2c1MEh2YmdKYmNveE5qNjhQSllhYmpLRlF2OEE0ZE1aX3hQdVJLRHE3UTNsWk9CcjlwSjVJWE44cDNuLVhjNVRDNDd2a2RQQmN2Umh1VkdMeFZHMm4xMFM1TmV6Yjg0S1BQbHVZTngweDlJZWw1LWZubC1OenZ4VzlFY1JudWFiZjNzUmhMNVJLZjJDRG9qdTNPeUhJWk4zRGZ1bzNFT05jZU5GZkZ5aUo5Y0xzazJCYmdt?oc=5",
-     "source": "Kalkine",
-     "published": "2026-11-24T14:10:00+00:00",
+     "title": "Dewan Rakyat to scrutinise online scam losses, recovery of stolen funds",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSGVCYkRFMXdyeWo4TS1EYmNIMk0xa1hXXy1Xd3lwUGkyWWI0X3c3SldaLTY1S2VZNDdyb3JYekZGNlpEOHMtYlFyU0RZd0MxamxJakhjSmpDa2kxS3pyU28xaXo4ZUUzYUY1N0hZNG5NTGJhMXIwMGRqQkZpZUVaLUxGTGstb25UUUhrT002Ny1BQlRhZ3BkMDFlY2VFSDFGSXZqVzhVZXlNTnllOF9yUHI5WWZOd0dVQ3RlaUhjN1h1ZDFh?oc=5",
+     "source": "The Vibes",
+     "published": "2026-11-25T01:10:00+00:00",
      "summary": "",
      "also": []
     },
     {
-     "title": "Switzerland invites Malaysian experts to contribute to global AI agenda",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcGlPYVRLRUpZalQ5cEJ0bjJkNGRQU0Z4WGUwUjNsY21qY1BqWFMzOTdXME1paEtmSnR3SEJKc1p4SHJ6aFhJc3FJZHdBbDkzVnhkNFoyM1NFSzJzcmR1eDZHRWZUN2lHeXJNWnFFdnBKRG5GYVh4MTE3Yjl5b1N0RlRyMXZKMWhlY3ZwRjJ3R3R1OGtPbVVIbXNPbjJKTTBR?oc=5",
-     "source": "The Sun Malaysia",
-     "published": "2026-11-24T14:09:00+00:00",
+     "title": "In the Dewan Rakyat today: Malaysia’s rare earth potential, online scam crackdown in spotlight",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNXduYWlmQkEyd0ZGREpOQklVOUNjNGVMNlpGRW1BYlJvQWtoRXlwdWdkLXY3QlROeUs1czdkM0lCY2FlRzhOOTZNUEVKeU5LY1RQMG5qSlRDZFc0cHEwOHdqYmZxbUVNOW1FOGVKd1o4TjB2Z0E1N3VjYk5FX0tOOXFON1hJcFp3V0lYUW83MlNDSGtWWTMtSTg3VFJCV1Vlb2JlaTVWcFllWGJPTnF4VWMwakphYTBUc2VEODc1by1memJmOElBUnQwUUg0Z2czZk42SGc3akdhSGpfdnpEVVJTWdIB6AFBVV95cUxNS3pVdFhqOFNIWDdub21FWmlvdm5rZ1U2UW1QUHZnMkZrbHpIZWpzTGl5LVN2dGJWa0hoeHVpRVIyY3BOTUZCczdkdk9CM2h3U1ItZ0l0Q2lEb1pRUGRVbnhLeHNqanJNUGtBUnA3U1dndkdFdDlvUHdqcXFGTGkxVmNUZXlwUW9hN0xaM3NlaExhZU9UWnFNdUpRQl9kWmpUTlNRQ3lvaUk1U21zdFFKZVlES0dqRk9vZFFkR2ZjdXF3d3JKU0ZvbUtsNTdSTV9mckkybjhjMEpvbUFyb3UyTU03UTdoLWww?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-25T01:05:46+00:00",
+     "summary": "",
+     "also": []
+    },
+    {
+     "title": "Zurich Malaysia adds AI decision tool for motor injury claims",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEZqX09qLTlzSTBaQjUteDh6WHlOOVEzajBlWWcyZ3NtaF9paENDaDBFOTJwamZVaDhiTFZxeDF3SEJVMGRCMVdCc3prczMtb3A5LW8tRzgwR0ZPSlRHZ1o2d2JSaHI2VHh0M2l6X1QwZUpYSDNhNUpaNXFKTDBFcHJnYUVxbk5Qbzl5ZUc4bEpEaFZkV1FhVE1wVERnU1k?oc=5",
+     "source": "Insurance Asia",
+     "published": "2026-11-25T01:04:11+00:00",
      "summary": "",
      "also": []
     }
